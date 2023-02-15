@@ -1,0 +1,72 @@
+---
+title: "Project Proposal"
+author: "Group BG3"
+date: "2023-02-15"
+output: html_document
+---
+
+# Project Members
+- Ziyu Lin
+- Yoonsoo Cho
+- Moyi Li
+- Chenyang Yuan
+
+
+# Project Overview
+- We aim to provide a report that contains an overall view of the trend in cancer–how regions, age, or sex might be related to the increase/decrease in cancer rates in America.  We also wanted to provide what different factors may be associated with cancer disease–perhaps a leading cause. Through this project, we hope to help viewers better understand cancer and have macroscopic knowledge of different factors by analyzing multiple aspects of the data. We also hope to help with future prediction and prevention through the associations of leading causes of cancer.
+
+# Data and Audience
+What is the dataset you’ll be working with? Please include background on who collected the data, where you accessed it, and any additional information we should know about how this data came to be.
+
+- https://dataplanet-sagepub-com.offcampus.lib.washington.edu/dataset?view=AA0BXQAAgADAAQAAAAAAAAAA3_zMslwIJ8Ve1X%24GFkbpBG2ii7wZFl2tiSNB2f5DW3LCmtiyGaD8iAI6h3mDz46TNl0prJdYmL26E1EK4zU6BmswguJhMLEpaqrk1DrFQT071uLgBdiO6_8k99noH0xShBGPKvZnpDn_nmavsijJQDIAbiOCYIvibLFnFDM80b8wmiLp1Gmk840zQXQHjx1C73l0rM3kgSUgV0BA8jdNlJ00ToFOJP_kU2PABTzhlgPGN0ybaHavh5RLa7tYROE%248VjI8EER6ao
+
+- The dataset we’ll be working with is the cancer incidence from the U.S. cancer statistics database. Under the CDC, Centers for Disease Control and Prevention, this health statistic information was compiled to guide policies to improve the health of people. The overall data provides counts and incidence rates of newly diagnosed cancer cases by cancer sites and U.S. regions. 
+
+Who is your target audience? Depending on the domain of your data, there may be a variety of audiences interested in using the dataset. You should home in on one of these audiences.
+
+- Since cancer is the second-leading cause of death among Americans, we expect that a variety of audiences would be interested in our dataset. In other words, our target audience could be anyone interested in what might be a triggering cause for cancers. However, specifically, as we mainly focus on different age groups, regions, and various cancer sites, our target audience could be medical institutions to help them better identify, even make a prediction what kind of cancers patients are likely to have now or in the future. 
+
+What does your audience want to learn from your data? Please list out at least 3 specific questions that your project will answer for your audience.
+
+- Are there any relationships between prevalence of cancer and sex/age?
+- What is the trend of cancer change over the years, is it increasing or decreasing?
+- What is the regional distribution of cancer, and is there a relationship between different regions and cancer prevalence?
+
+# Technical Description
+How will you be reading in your data (i.e., are you using an API, or is it a static .csv/.json file)?
+
+- We will be reading a static csv file on DataPlanet.
+
+What types of data-wrangling (reshaping, reformatting, etc.) will you need to do to your data?
+
+- We plan to reorganize the table by selecting only the rows and columns that are pertinent to the research question and eliminating any unimportant information, such as citation details, the publisher, and copyrights.
+
+What (major/new) libraries will be using in this project (no need to list common libraries that are used in many projects such as dplyr)
+
+- We are probably using ggplot2,  ggmap, caret for plotting and modeling. We may also use some other libraries that we haven’t covered in lectures.
+
+What questions, if any, will you be answering with statistical analysis/machine learning?
+
+- Our statistical analysis will be focused on analyzing appropriate models, such as regression, for  cancer incidence datasets. We may also use basic machine learning pipelines to predict approximate future cancer incidence rates or to analyze which regions are most likely to have cancer.
+
+What major challenges do you anticipate?
+
+- Since there are four members in the group, when we finish each person's part and want to start merging each person's part, we may encounter merging and contradiction problems in the Github managing, resulting in not being able to simply download and upload like usual assignments, but having to deal with conflict between different people's code. Therefore, in order to avoid such problems, we should always keep communication and cooperation.
+
+# Project Set-up
+Create a public repository on GitHub in which you’ll be completing your final projects. All group members should be added to the repo so they can push directly to it
+
+- URL OF GITHUB REPOSITORY : https://github.com/Moyi-Li/INFO201-GROUP.git
+
+Create 5 GitHub Issues as your first set of steps to take in the project. You should assign these to individual group members to complete
+
+- We have post them on Github, here we just simply listing them for documentation:
+- Using filtering, merging, and groupby different columns to analyze and divide variables.
+- Difficulty in choosing which libraries, coding techniques we have to use in accordance with plotting/charts
+- Select the appropriate chart for analysis and find the corresponding relationships
+- Create the appropriate coding for compiling HTML page
+- We may get out of sync when we push to GitHub
+
+Optional: Create a slack/discord/… channel for your group to use for communication.
+
+- Discord channel was created for our group communication.
