@@ -1,0 +1,3441 @@
+"","Time","State","Site","Gender","Incidence","Death"
+"1",2009,"Alabama","Breast","Female",3448,645
+"2",2009,"Alabama","Larynx","Female",54,0
+"3",2009,"Alabama","Larynx","Male",212,67
+"4",2009,"Alabama","Liver","Female",92,79
+"5",2009,"Alabama","Liver","Male",213,195
+"6",2009,"Alabama","Myeloma","Female",147,92
+"7",2009,"Alabama","Myeloma","Male",187,94
+"8",2009,"Alaska","Breast","Female",376,72
+"9",2009,"Alaska","Liver","Male",31,20
+"10",2009,"Arizona","Breast","Female",4145,716
+"11",2009,"Arizona","Larynx","Female",41,0
+"12",2009,"Arizona","Larynx","Male",130,60
+"13",2009,"Arizona","Liver","Female",118,94
+"14",2009,"Arizona","Liver","Male",334,212
+"15",2009,"Arizona","Myeloma","Female",141,78
+"16",2009,"Arizona","Myeloma","Male",201,106
+"17",2009,"Arkansas","Breast","Female",1936,414
+"18",2009,"Arkansas","Larynx","Male",127,22
+"19",2009,"Arkansas","Liver","Female",41,66
+"20",2009,"Arkansas","Liver","Male",148,122
+"21",2009,"Arkansas","Myeloma","Female",76,49
+"22",2009,"Arkansas","Myeloma","Male",119,70
+"23",2009,"California","Breast","Female",24100,4413
+"24",2009,"California","Breast","Male",172,26
+"25",2009,"California","Larynx","Female",147,63
+"26",2009,"California","Larynx","Male",694,246
+"27",2009,"California","Liver","Female",872,584
+"28",2009,"California","Liver","Male",2435,1447
+"29",2009,"California","Myeloma","Female",937,459
+"30",2009,"California","Myeloma","Male",1216,629
+"31",2009,"Colorado","Breast","Female",3443,513
+"32",2009,"Colorado","Larynx","Male",84,18
+"33",2009,"Colorado","Liver","Female",95,35
+"34",2009,"Colorado","Liver","Male",244,155
+"35",2009,"Colorado","Myeloma","Female",123,67
+"36",2009,"Colorado","Myeloma","Male",149,66
+"37",2009,"Connecticut","Breast","Female",3063,503
+"38",2009,"Connecticut","Larynx","Male",116,33
+"39",2009,"Connecticut","Liver","Female",69,31
+"40",2009,"Connecticut","Liver","Male",192,113
+"41",2009,"Connecticut","Myeloma","Female",109,61
+"42",2009,"Connecticut","Myeloma","Male",159,65
+"43",2009,"Delaware","Breast","Female",690,114
+"44",2009,"Delaware","Liver","Female",20,0
+"45",2009,"Delaware","Liver","Male",67,45
+"46",2009,"Delaware","Myeloma","Female",33,0
+"47",2009,"Delaware","Myeloma","Male",44,25
+"48",2009,"Florida","Breast","Female",14472,2776
+"49",2009,"Florida","Breast","Male",178,29
+"50",2009,"Florida","Larynx","Female",176,50
+"51",2009,"Florida","Larynx","Male",863,229
+"52",2009,"Florida","Liver","Female",397,327
+"53",2009,"Florida","Liver","Male",1126,798
+"54",2009,"Florida","Myeloma","Female",658,326
+"55",2009,"Florida","Myeloma","Male",863,379
+"56",2009,"Georgia","Breast","Female",6389,1221
+"57",2009,"Georgia","Breast","Male",44,36
+"58",2009,"Georgia","Larynx","Female",59,0
+"59",2009,"Georgia","Larynx","Male",363,76
+"60",2009,"Georgia","Liver","Female",153,98
+"61",2009,"Georgia","Liver","Male",409,279
+"62",2009,"Georgia","Myeloma","Female",311,146
+"63",2009,"Georgia","Myeloma","Male",345,143
+"64",2009,"Hawaii","Breast","Female",1042,130
+"65",2009,"Hawaii","Larynx","Male",37,0
+"66",2009,"Hawaii","Liver","Female",42,21
+"67",2009,"Hawaii","Liver","Male",99,66
+"68",2009,"Hawaii","Myeloma","Female",30,0
+"69",2009,"Hawaii","Myeloma","Male",47,27
+"70",2009,"Idaho","Breast","Female",990,185
+"71",2009,"Idaho","Larynx","Female",0,0
+"72",2009,"Idaho","Larynx","Male",32,0
+"73",2009,"Idaho","Liver","Female",0,0
+"74",2009,"Idaho","Liver","Male",64,28
+"75",2009,"Idaho","Myeloma","Female",48,26
+"76",2009,"Idaho","Myeloma","Male",61,29
+"77",2009,"Illinois","Breast","Female",9308,1719
+"78",2009,"Illinois","Breast","Male",78,0
+"79",2009,"Illinois","Larynx","Female",119,39
+"80",2009,"Illinois","Larynx","Male",436,143
+"81",2009,"Illinois","Liver","Female",204,142
+"82",2009,"Illinois","Liver","Male",648,397
+"83",2009,"Illinois","Myeloma","Female",421,202
+"84",2009,"Illinois","Myeloma","Male",473,241
+"85",2009,"Indiana","Breast","Female",4557,892
+"86",2009,"Indiana","Breast","Male",39,0
+"87",2009,"Indiana","Larynx","Female",70,25
+"88",2009,"Indiana","Larynx","Male",255,51
+"89",2009,"Indiana","Liver","Female",93,79
+"90",2009,"Indiana","Liver","Male",286,170
+"91",2009,"Indiana","Myeloma","Female",183,116
+"92",2009,"Indiana","Myeloma","Male",232,141
+"93",2009,"Iowa","Breast","Female",2311,432
+"94",2009,"Iowa","Larynx","Male",119,22
+"95",2009,"Iowa","Liver","Female",40,32
+"96",2009,"Iowa","Liver","Male",120,79
+"97",2009,"Iowa","Myeloma","Female",97,48
+"98",2009,"Iowa","Myeloma","Male",119,59
+"99",2009,"Kansas","Breast","Female",1965,370
+"100",2009,"Kansas","Larynx","Male",80,16
+"101",2009,"Kansas","Liver","Female",37,35
+"102",2009,"Kansas","Liver","Male",112,80
+"103",2009,"Kansas","Myeloma","Female",80,58
+"104",2009,"Kansas","Myeloma","Male",95,66
+"105",2009,"Kentucky","Breast","Female",3120,614
+"106",2009,"Kentucky","Larynx","Female",72,16
+"107",2009,"Kentucky","Larynx","Male",219,54
+"108",2009,"Kentucky","Liver","Female",70,59
+"109",2009,"Kentucky","Liver","Male",200,136
+"110",2009,"Kentucky","Myeloma","Female",147,73
+"111",2009,"Kentucky","Myeloma","Male",173,92
+"112",2009,"Louisiana","Breast","Female",3177,661
+"113",2009,"Louisiana","Larynx","Female",62,21
+"114",2009,"Louisiana","Larynx","Male",188,53
+"115",2009,"Louisiana","Liver","Female",84,94
+"116",2009,"Louisiana","Liver","Male",270,227
+"117",2009,"Louisiana","Myeloma","Female",144,79
+"118",2009,"Louisiana","Myeloma","Male",149,82
+"119",2009,"Maine","Breast","Female",1098,195
+"120",2009,"Maine","Larynx","Male",65,16
+"121",2009,"Maine","Liver","Female",24,0
+"122",2009,"Maine","Liver","Male",57,40
+"123",2009,"Maine","Myeloma","Female",41,24
+"124",2009,"Maine","Myeloma","Male",45,29
+"125",2009,"Maryland","Breast","Female",4434,798
+"126",2009,"Maryland","Breast","Male",38,0
+"127",2009,"Maryland","Larynx","Female",50,22
+"128",2009,"Maryland","Larynx","Male",183,59
+"129",2009,"Maryland","Liver","Female",113,84
+"130",2009,"Maryland","Liver","Male",291,182
+"131",2009,"Maryland","Myeloma","Female",200,112
+"132",2009,"Maryland","Myeloma","Male",199,107
+"133",2009,"Massachusetts","Breast","Female",5456,949
+"134",2009,"Massachusetts","Breast","Male",47,0
+"135",2009,"Massachusetts","Larynx","Female",75,0
+"136",2009,"Massachusetts","Larynx","Male",236,58
+"137",2009,"Massachusetts","Liver","Female",124,76
+"138",2009,"Massachusetts","Liver","Male",420,252
+"139",2009,"Massachusetts","Myeloma","Female",213,126
+"140",2009,"Massachusetts","Myeloma","Male",257,132
+"141",2009,"Michigan","Breast","Female",7316,1418
+"142",2009,"Michigan","Breast","Male",72,16
+"143",2009,"Michigan","Larynx","Female",107,27
+"144",2009,"Michigan","Larynx","Male",354,98
+"145",2009,"Michigan","Liver","Female",177,133
+"146",2009,"Michigan","Liver","Male",468,287
+"147",2009,"Michigan","Myeloma","Female",305,193
+"148",2009,"Michigan","Myeloma","Male",384,226
+"149",2009,"Minnesota","Breast","Female",3943,683
+"150",2009,"Minnesota","Larynx","Female",23,0
+"151",2009,"Minnesota","Larynx","Male",156,34
+"152",2009,"Minnesota","Liver","Female",75,43
+"153",2009,"Minnesota","Liver","Male",175,134
+"154",2009,"Minnesota","Myeloma","Female",153,85
+"155",2009,"Minnesota","Myeloma","Male",188,126
+"156",2009,"Mississippi","Breast","Female",1993,424
+"157",2009,"Mississippi","Larynx","Male",151,37
+"158",2009,"Mississippi","Liver","Female",53,57
+"159",2009,"Mississippi","Liver","Male",151,114
+"160",2009,"Mississippi","Myeloma","Female",113,58
+"161",2009,"Mississippi","Myeloma","Male",133,56
+"162",2009,"Missouri","Breast","Female",4559,861
+"163",2009,"Missouri","Larynx","Female",69,22
+"164",2009,"Missouri","Larynx","Male",258,80
+"165",2009,"Missouri","Liver","Female",99,80
+"166",2009,"Missouri","Liver","Male",331,229
+"167",2009,"Missouri","Myeloma","Female",213,97
+"168",2009,"Missouri","Myeloma","Male",207,130
+"169",2009,"Montana","Breast","Female",782,146
+"170",2009,"Montana","Liver","Female",16,0
+"171",2009,"Montana","Liver","Male",35,21
+"172",2009,"Montana","Myeloma","Female",32,19
+"173",2009,"Montana","Myeloma","Male",39,20
+"174",2009,"Nebraska","Breast","Female",1256,216
+"175",2009,"Nebraska","Larynx","Male",57,0
+"176",2009,"Nebraska","Liver","Female",18,23
+"177",2009,"Nebraska","Liver","Male",68,54
+"178",2009,"Nebraska","Myeloma","Female",61,25
+"179",2009,"Nebraska","Myeloma","Male",70,37
+"180",2009,"Nevada","Breast","Female",1670,333
+"181",2009,"Nevada","Larynx","Female",0,0
+"182",2009,"Nevada","Larynx","Male",65,17
+"183",2009,"Nevada","Liver","Female",44,27
+"184",2009,"Nevada","Liver","Male",123,100
+"185",2009,"Nevada","Myeloma","Female",51,28
+"186",2009,"Nevada","Myeloma","Male",64,32
+"187",2009,"New Hampshire","Breast","Female",1085,147
+"188",2009,"New Hampshire","Breast","Male",0,0
+"189",2009,"New Hampshire","Larynx","Female",0,0
+"190",2009,"New Hampshire","Larynx","Male",47,18
+"191",2009,"New Hampshire","Liver","Female",19,0
+"192",2009,"New Hampshire","Liver","Male",63,27
+"193",2009,"New Hampshire","Myeloma","Female",41,31
+"194",2009,"New Hampshire","Myeloma","Male",50,33
+"195",2009,"New Jersey","Breast","Female",7088,1348
+"196",2009,"New Jersey","Breast","Male",51,0
+"197",2009,"New Jersey","Larynx","Female",74,31
+"198",2009,"New Jersey","Larynx","Male",285,79
+"199",2009,"New Jersey","Liver","Female",168,117
+"200",2009,"New Jersey","Liver","Male",487,274
+"201",2009,"New Jersey","Myeloma","Female",311,129
+"202",2009,"New Jersey","Myeloma","Male",388,183
+"203",2009,"New Mexico","Breast","Female",1349,262
+"204",2009,"New Mexico","Breast","Male",0,0
+"205",2009,"New Mexico","Larynx","Male",59,0
+"206",2009,"New Mexico","Liver","Female",46,26
+"207",2009,"New Mexico","Liver","Male",136,79
+"208",2009,"New Mexico","Myeloma","Female",54,18
+"209",2009,"New Mexico","Myeloma","Male",72,28
+"210",2009,"New York","Breast","Female",15246,2691
+"211",2009,"New York","Breast","Male",128,27
+"212",2009,"New York","Larynx","Female",182,69
+"213",2009,"New York","Larynx","Male",620,196
+"214",2009,"New York","Liver","Female",438,256
+"215",2009,"New York","Liver","Male",1219,703
+"216",2009,"New York","Myeloma","Female",799,302
+"217",2009,"New York","Myeloma","Male",912,354
+"218",2009,"North Carolina","Breast","Female",7155,1183
+"219",2009,"North Carolina","Breast","Male",62,0
+"220",2009,"North Carolina","Larynx","Female",92,26
+"221",2009,"North Carolina","Larynx","Male",379,92
+"222",2009,"North Carolina","Liver","Female",137,99
+"223",2009,"North Carolina","Liver","Male",469,296
+"224",2009,"North Carolina","Myeloma","Female",345,181
+"225",2009,"North Carolina","Myeloma","Male",389,189
+"226",2009,"North Dakota","Breast","Female",506,88
+"227",2009,"North Dakota","Liver","Male",0,0
+"228",2009,"North Dakota","Myeloma","Female",0,0
+"229",2009,"North Dakota","Myeloma","Male",26,20
+"230",2009,"Ohio","Breast","Female",8840,1745
+"231",2009,"Ohio","Breast","Male",67,26
+"232",2009,"Ohio","Larynx","Female",125,34
+"233",2009,"Ohio","Larynx","Male",472,156
+"234",2009,"Ohio","Liver","Female",181,121
+"235",2009,"Ohio","Liver","Male",529,364
+"236",2009,"Ohio","Myeloma","Female",341,231
+"237",2009,"Ohio","Myeloma","Male",429,244
+"238",2009,"Oklahoma","Breast","Female",2588,464
+"239",2009,"Oklahoma","Larynx","Female",36,0
+"240",2009,"Oklahoma","Larynx","Male",136,30
+"241",2009,"Oklahoma","Liver","Female",90,61
+"242",2009,"Oklahoma","Liver","Male",205,156
+"243",2009,"Oklahoma","Myeloma","Female",118,49
+"244",2009,"Oklahoma","Myeloma","Male",120,81
+"245",2009,"Oregon","Breast","Female",3039,454
+"246",2009,"Oregon","Breast","Male",19,0
+"247",2009,"Oregon","Larynx","Male",80,29
+"248",2009,"Oregon","Liver","Female",87,48
+"249",2009,"Oregon","Liver","Male",220,165
+"250",2009,"Oregon","Myeloma","Female",93,66
+"251",2009,"Oregon","Myeloma","Male",124,74
+"252",2009,"Pennsylvania","Breast","Female",10551,2123
+"253",2009,"Pennsylvania","Breast","Male",101,16
+"254",2009,"Pennsylvania","Larynx","Female",149,38
+"255",2009,"Pennsylvania","Larynx","Male",435,148
+"256",2009,"Pennsylvania","Liver","Female",276,166
+"257",2009,"Pennsylvania","Liver","Male",770,458
+"258",2009,"Pennsylvania","Myeloma","Female",472,211
+"259",2009,"Pennsylvania","Myeloma","Male",545,253
+"260",2009,"Puerto Rico","Breast","Female",1815,443
+"261",2009,"Puerto Rico","Larynx","Male",125,36
+"262",2009,"Puerto Rico","Liver","Female",95,81
+"263",2009,"Puerto Rico","Liver","Male",213,192
+"264",2009,"Puerto Rico","Myeloma","Female",93,57
+"265",2009,"Puerto Rico","Myeloma","Male",95,63
+"266",2009,"Rhode Island","Breast","Female",906,146
+"267",2009,"Rhode Island","Larynx","Female",19,0
+"268",2009,"Rhode Island","Larynx","Male",43,0
+"269",2009,"Rhode Island","Liver","Female",23,19
+"270",2009,"Rhode Island","Liver","Male",67,42
+"271",2009,"Rhode Island","Myeloma","Female",36,0
+"272",2009,"Rhode Island","Myeloma","Male",35,17
+"273",2009,"South Carolina","Breast","Female",3438,618
+"274",2009,"South Carolina","Larynx","Female",47,0
+"275",2009,"South Carolina","Larynx","Male",208,47
+"276",2009,"South Carolina","Liver","Female",81,57
+"277",2009,"South Carolina","Liver","Male",248,191
+"278",2009,"South Carolina","Myeloma","Female",172,76
+"279",2009,"South Carolina","Myeloma","Male",195,99
+"280",2009,"South Dakota","Breast","Female",574,96
+"281",2009,"South Dakota","Liver","Male",29,18
+"282",2009,"South Dakota","Myeloma","Female",34,0
+"283",2009,"South Dakota","Myeloma","Male",41,20
+"284",2009,"Tennessee","Breast","Female",4642,893
+"285",2009,"Tennessee","Breast","Male",44,0
+"286",2009,"Tennessee","Larynx","Female",85,23
+"287",2009,"Tennessee","Larynx","Male",251,81
+"288",2009,"Tennessee","Liver","Female",102,104
+"289",2009,"Tennessee","Liver","Male",343,251
+"290",2009,"Tennessee","Myeloma","Female",196,108
+"291",2009,"Tennessee","Myeloma","Male",262,142
+"292",2009,"Texas","Breast","Female",14919,2599
+"293",2009,"Texas","Breast","Male",133,0
+"294",2009,"Texas","Larynx","Female",165,44
+"295",2009,"Texas","Larynx","Male",724,205
+"296",2009,"Texas","Liver","Female",560,358
+"297",2009,"Texas","Liver","Male",1659,1018
+"298",2009,"Texas","Myeloma","Female",677,266
+"299",2009,"Texas","Myeloma","Male",798,318
+"300",2009,"Utah","Breast","Female",1224,227
+"301",2009,"Utah","Liver","Female",24,19
+"302",2009,"Utah","Liver","Male",77,41
+"303",2009,"Utah","Myeloma","Female",46,36
+"304",2009,"Utah","Myeloma","Male",72,29
+"305",2009,"Vermont","Breast","Female",520,77
+"306",2009,"Vermont","Liver","Male",31,26
+"307",2009,"Vermont","Myeloma","Female",25,0
+"308",2009,"Vermont","Myeloma","Male",30,0
+"309",2009,"Virginia","Breast","Female",5737,1095
+"310",2009,"Virginia","Breast","Male",46,0
+"311",2009,"Virginia","Larynx","Female",52,18
+"312",2009,"Virginia","Larynx","Male",263,67
+"313",2009,"Virginia","Liver","Female",119,76
+"314",2009,"Virginia","Liver","Male",384,291
+"315",2009,"Virginia","Myeloma","Female",248,158
+"316",2009,"Virginia","Myeloma","Male",309,173
+"317",2009,"Washington DC","Breast","Female",457,98
+"318",2009,"Washington DC","Liver","Female",22,0
+"319",2009,"Washington DC","Liver","Male",46,28
+"320",2009,"Washington DC","Myeloma","Female",22,16
+"321",2009,"Washington DC","Myeloma","Male",29,16
+"322",2009,"Washington","Breast","Female",5200,791
+"323",2009,"Washington","Larynx","Female",37,0
+"324",2009,"Washington","Larynx","Male",152,51
+"325",2009,"Washington","Liver","Female",136,89
+"326",2009,"Washington","Liver","Male",401,226
+"327",2009,"Washington","Myeloma","Female",191,93
+"328",2009,"Washington","Myeloma","Male",226,134
+"329",2009,"West Virginia","Breast","Female",1403,292
+"330",2009,"West Virginia","Larynx","Male",103,28
+"331",2009,"West Virginia","Liver","Female",41,32
+"332",2009,"West Virginia","Liver","Male",85,43
+"333",2009,"West Virginia","Myeloma","Female",62,38
+"334",2009,"West Virginia","Myeloma","Male",77,51
+"335",2009,"Wisconsin","Breast","Female",4206,758
+"336",2009,"Wisconsin","Larynx","Female",36,0
+"337",2009,"Wisconsin","Larynx","Male",199,42
+"338",2009,"Wisconsin","Liver","Female",102,60
+"339",2009,"Wisconsin","Liver","Male",238,151
+"340",2009,"Wisconsin","Myeloma","Female",195,100
+"341",2009,"Wisconsin","Myeloma","Male",265,141
+"342",2009,"Wyoming","Breast","Female",336,68
+"343",2009,"Wyoming","Liver","Male",20,16
+"344",2009,"Wyoming","Myeloma","Female",0,0
+"345",2010,"Alabama","Breast","Female",3430,696
+"346",2010,"Alabama","Larynx","Female",44,0
+"347",2010,"Alabama","Larynx","Male",234,54
+"348",2010,"Alabama","Liver","Female",91,81
+"349",2010,"Alabama","Liver","Male",226,189
+"350",2010,"Alabama","Myeloma","Female",187,112
+"351",2010,"Alabama","Myeloma","Male",195,102
+"352",2010,"Alaska","Breast","Female",418,59
+"353",2010,"Alaska","Liver","Male",38,0
+"354",2010,"Arizona","Breast","Female",4124,733
+"355",2010,"Arizona","Larynx","Female",26,0
+"356",2010,"Arizona","Larynx","Male",146,52
+"357",2010,"Arizona","Liver","Female",161,104
+"358",2010,"Arizona","Liver","Male",315,212
+"359",2010,"Arizona","Myeloma","Female",167,90
+"360",2010,"Arizona","Myeloma","Male",236,115
+"361",2010,"Arkansas","Breast","Female",1949,413
+"362",2010,"Arkansas","Larynx","Male",122,23
+"363",2010,"Arkansas","Liver","Female",50,61
+"364",2010,"Arkansas","Liver","Male",155,140
+"365",2010,"Arkansas","Myeloma","Female",90,45
+"366",2010,"Arkansas","Myeloma","Male",103,73
+"367",2010,"California","Breast","Female",23819,4238
+"368",2010,"California","Breast","Male",178,27
+"369",2010,"California","Larynx","Female",164,56
+"370",2010,"California","Larynx","Male",734,243
+"371",2010,"California","Liver","Female",865,565
+"372",2010,"California","Liver","Male",2507,1533
+"373",2010,"California","Myeloma","Female",1019,525
+"374",2010,"California","Myeloma","Male",1259,599
+"375",2010,"Colorado","Breast","Female",3371,528
+"376",2010,"Colorado","Larynx","Male",99,23
+"377",2010,"Colorado","Liver","Female",96,42
+"378",2010,"Colorado","Liver","Male",253,126
+"379",2010,"Colorado","Myeloma","Female",124,59
+"380",2010,"Colorado","Myeloma","Male",170,77
+"381",2010,"Connecticut","Breast","Female",3141,498
+"382",2010,"Connecticut","Larynx","Male",139,28
+"383",2010,"Connecticut","Liver","Female",74,31
+"384",2010,"Connecticut","Liver","Male",235,114
+"385",2010,"Connecticut","Myeloma","Female",144,66
+"386",2010,"Connecticut","Myeloma","Male",143,66
+"387",2010,"Delaware","Breast","Female",739,130
+"388",2010,"Delaware","Liver","Female",0,0
+"389",2010,"Delaware","Liver","Male",75,42
+"390",2010,"Delaware","Myeloma","Female",36,16
+"391",2010,"Delaware","Myeloma","Male",34,19
+"392",2010,"Florida","Breast","Female",14644,2857
+"393",2010,"Florida","Breast","Male",169,37
+"394",2010,"Florida","Larynx","Female",187,48
+"395",2010,"Florida","Larynx","Male",880,264
+"396",2010,"Florida","Liver","Female",370,340
+"397",2010,"Florida","Liver","Male",1216,815
+"398",2010,"Florida","Myeloma","Female",744,336
+"399",2010,"Florida","Myeloma","Male",908,424
+"400",2010,"Georgia","Breast","Female",6230,1222
+"401",2010,"Georgia","Breast","Male",53,18
+"402",2010,"Georgia","Larynx","Female",97,26
+"403",2010,"Georgia","Larynx","Male",356,104
+"404",2010,"Georgia","Liver","Female",127,136
+"405",2010,"Georgia","Liver","Male",431,289
+"406",2010,"Georgia","Myeloma","Female",334,131
+"407",2010,"Georgia","Myeloma","Male",399,148
+"408",2010,"Hawaii","Breast","Female",1076,126
+"409",2010,"Hawaii","Larynx","Male",39,0
+"410",2010,"Hawaii","Liver","Female",51,25
+"411",2010,"Hawaii","Liver","Male",110,73
+"412",2010,"Hawaii","Myeloma","Female",32,0
+"413",2010,"Hawaii","Myeloma","Male",45,23
+"414",2010,"Idaho","Breast","Female",1006,185
+"415",2010,"Idaho","Larynx","Female",0,0
+"416",2010,"Idaho","Larynx","Male",35,0
+"417",2010,"Idaho","Liver","Female",19,0
+"418",2010,"Idaho","Liver","Male",61,39
+"419",2010,"Idaho","Myeloma","Female",28,23
+"420",2010,"Idaho","Myeloma","Male",71,32
+"421",2010,"Illinois","Breast","Female",9412,1740
+"422",2010,"Illinois","Breast","Male",71,0
+"423",2010,"Illinois","Larynx","Female",134,25
+"424",2010,"Illinois","Larynx","Male",450,112
+"425",2010,"Illinois","Liver","Female",264,166
+"426",2010,"Illinois","Liver","Male",625,419
+"427",2010,"Illinois","Myeloma","Female",411,201
+"428",2010,"Illinois","Myeloma","Male",448,245
+"429",2010,"Indiana","Breast","Female",4486,888
+"430",2010,"Indiana","Breast","Male",42,0
+"431",2010,"Indiana","Larynx","Female",88,24
+"432",2010,"Indiana","Larynx","Male",258,76
+"433",2010,"Indiana","Liver","Female",91,60
+"434",2010,"Indiana","Liver","Male",278,197
+"435",2010,"Indiana","Myeloma","Female",204,108
+"436",2010,"Indiana","Myeloma","Male",269,143
+"437",2010,"Iowa","Breast","Female",2360,392
+"438",2010,"Iowa","Larynx","Male",128,23
+"439",2010,"Iowa","Liver","Female",39,25
+"440",2010,"Iowa","Liver","Male",124,82
+"441",2010,"Iowa","Myeloma","Female",114,55
+"442",2010,"Iowa","Myeloma","Male",133,69
+"443",2010,"Kansas","Breast","Female",1972,355
+"444",2010,"Kansas","Larynx","Male",103,0
+"445",2010,"Kansas","Liver","Female",40,27
+"446",2010,"Kansas","Liver","Male",101,87
+"447",2010,"Kansas","Myeloma","Female",74,53
+"448",2010,"Kansas","Myeloma","Male",113,64
+"449",2010,"Kentucky","Breast","Female",3110,586
+"450",2010,"Kentucky","Larynx","Female",75,17
+"451",2010,"Kentucky","Larynx","Male",218,55
+"452",2010,"Kentucky","Liver","Female",71,60
+"453",2010,"Kentucky","Liver","Male",223,150
+"454",2010,"Kentucky","Myeloma","Female",122,82
+"455",2010,"Kentucky","Myeloma","Male",178,84
+"456",2010,"Louisiana","Breast","Female",3169,648
+"457",2010,"Louisiana","Larynx","Female",62,0
+"458",2010,"Louisiana","Larynx","Male",211,47
+"459",2010,"Louisiana","Liver","Female",87,74
+"460",2010,"Louisiana","Liver","Male",289,224
+"461",2010,"Louisiana","Myeloma","Female",135,72
+"462",2010,"Louisiana","Myeloma","Male",179,98
+"463",2010,"Maine","Breast","Female",1127,195
+"464",2010,"Maine","Larynx","Male",44,17
+"465",2010,"Maine","Liver","Female",17,0
+"466",2010,"Maine","Liver","Male",55,59
+"467",2010,"Maine","Myeloma","Female",39,38
+"468",2010,"Maine","Myeloma","Male",57,30
+"469",2010,"Maryland","Breast","Female",4444,845
+"470",2010,"Maryland","Breast","Male",45,17
+"471",2010,"Maryland","Larynx","Female",39,0
+"472",2010,"Maryland","Larynx","Male",158,62
+"473",2010,"Maryland","Liver","Female",93,73
+"474",2010,"Maryland","Liver","Male",321,210
+"475",2010,"Maryland","Myeloma","Female",236,115
+"476",2010,"Maryland","Myeloma","Male",244,101
+"477",2010,"Massachusetts","Breast","Female",5222,825
+"478",2010,"Massachusetts","Breast","Male",39,0
+"479",2010,"Massachusetts","Larynx","Female",62,22
+"480",2010,"Massachusetts","Larynx","Male",206,60
+"481",2010,"Massachusetts","Liver","Female",105,90
+"482",2010,"Massachusetts","Liver","Male",405,278
+"483",2010,"Massachusetts","Myeloma","Female",186,107
+"484",2010,"Massachusetts","Myeloma","Male",259,117
+"485",2010,"Michigan","Breast","Female",7059,1492
+"486",2010,"Michigan","Breast","Male",98,21
+"487",2010,"Michigan","Larynx","Female",117,21
+"488",2010,"Michigan","Larynx","Male",391,114
+"489",2010,"Michigan","Liver","Female",200,145
+"490",2010,"Michigan","Liver","Male",487,360
+"491",2010,"Michigan","Myeloma","Female",341,189
+"492",2010,"Michigan","Myeloma","Male",450,217
+"493",2010,"Minnesota","Breast","Female",3866,650
+"494",2010,"Minnesota","Larynx","Female",31,0
+"495",2010,"Minnesota","Larynx","Male",128,42
+"496",2010,"Minnesota","Liver","Female",66,57
+"497",2010,"Minnesota","Liver","Male",160,144
+"498",2010,"Minnesota","Myeloma","Female",124,67
+"499",2010,"Minnesota","Myeloma","Male",208,113
+"500",2010,"Mississippi","Breast","Female",2011,432
+"501",2010,"Mississippi","Larynx","Male",142,28
+"502",2010,"Mississippi","Liver","Female",43,80
+"503",2010,"Mississippi","Liver","Male",149,127
+"504",2010,"Mississippi","Myeloma","Female",118,62
+"505",2010,"Mississippi","Myeloma","Male",128,54
+"506",2010,"Missouri","Breast","Female",4360,884
+"507",2010,"Missouri","Larynx","Female",56,0
+"508",2010,"Missouri","Larynx","Male",250,55
+"509",2010,"Missouri","Liver","Female",92,74
+"510",2010,"Missouri","Liver","Male",345,218
+"511",2010,"Missouri","Myeloma","Female",182,96
+"512",2010,"Missouri","Myeloma","Male",225,139
+"513",2010,"Montana","Breast","Female",802,134
+"514",2010,"Montana","Liver","Female",0,0
+"515",2010,"Montana","Liver","Male",42,32
+"516",2010,"Montana","Myeloma","Female",24,19
+"517",2010,"Montana","Myeloma","Male",35,23
+"518",2010,"Nebraska","Breast","Female",1261,225
+"519",2010,"Nebraska","Larynx","Male",58,0
+"520",2010,"Nebraska","Liver","Female",26,17
+"521",2010,"Nebraska","Liver","Male",79,50
+"522",2010,"Nebraska","Myeloma","Female",62,38
+"523",2010,"Nebraska","Myeloma","Male",69,32
+"524",2010,"Nevada","Breast","Female",1638,331
+"525",2010,"Nevada","Larynx","Female",23,0
+"526",2010,"Nevada","Larynx","Male",71,19
+"527",2010,"Nevada","Liver","Female",56,43
+"528",2010,"Nevada","Liver","Male",118,96
+"529",2010,"Nevada","Myeloma","Female",61,32
+"530",2010,"Nevada","Myeloma","Male",83,39
+"531",2010,"New Hampshire","Breast","Female",1062,184
+"532",2010,"New Hampshire","Breast","Male",0,0
+"533",2010,"New Hampshire","Larynx","Female",18,0
+"534",2010,"New Hampshire","Larynx","Male",35,0
+"535",2010,"New Hampshire","Liver","Female",20,0
+"536",2010,"New Hampshire","Liver","Male",51,36
+"537",2010,"New Hampshire","Myeloma","Female",25,0
+"538",2010,"New Hampshire","Myeloma","Male",46,18
+"539",2010,"New Jersey","Breast","Female",7005,1322
+"540",2010,"New Jersey","Breast","Male",73,23
+"541",2010,"New Jersey","Larynx","Female",76,34
+"542",2010,"New Jersey","Larynx","Male",263,81
+"543",2010,"New Jersey","Liver","Female",161,131
+"544",2010,"New Jersey","Liver","Male",455,288
+"545",2010,"New Jersey","Myeloma","Female",336,128
+"546",2010,"New Jersey","Myeloma","Male",392,153
+"547",2010,"New Mexico","Breast","Female",1306,266
+"548",2010,"New Mexico","Breast","Male",0,0
+"549",2010,"New Mexico","Larynx","Male",38,22
+"550",2010,"New Mexico","Liver","Female",41,24
+"551",2010,"New Mexico","Liver","Male",142,76
+"552",2010,"New Mexico","Myeloma","Female",42,28
+"553",2010,"New Mexico","Myeloma","Male",51,35
+"554",2010,"New York","Breast","Female",14557,2700
+"555",2010,"New York","Breast","Male",135,34
+"556",2010,"New York","Larynx","Female",163,59
+"557",2010,"New York","Larynx","Male",622,198
+"558",2010,"New York","Liver","Female",356,276
+"559",2010,"New York","Liver","Male",1217,713
+"560",2010,"New York","Myeloma","Female",814,357
+"561",2010,"New York","Myeloma","Male",918,358
+"562",2010,"North Carolina","Breast","Female",7280,1334
+"563",2010,"North Carolina","Breast","Male",47,0
+"564",2010,"North Carolina","Larynx","Female",97,22
+"565",2010,"North Carolina","Larynx","Male",377,102
+"566",2010,"North Carolina","Liver","Female",140,86
+"567",2010,"North Carolina","Liver","Male",463,317
+"568",2010,"North Carolina","Myeloma","Female",380,171
+"569",2010,"North Carolina","Myeloma","Male",440,192
+"570",2010,"North Dakota","Breast","Female",477,101
+"571",2010,"North Dakota","Liver","Male",0,0
+"572",2010,"North Dakota","Myeloma","Female",22,0
+"573",2010,"North Dakota","Myeloma","Male",26,0
+"574",2010,"Ohio","Breast","Female",8410,1793
+"575",2010,"Ohio","Breast","Male",71,20
+"576",2010,"Ohio","Larynx","Female",138,35
+"577",2010,"Ohio","Larynx","Male",450,148
+"578",2010,"Ohio","Liver","Female",201,141
+"579",2010,"Ohio","Liver","Male",569,381
+"580",2010,"Ohio","Myeloma","Female",413,227
+"581",2010,"Ohio","Myeloma","Male",450,243
+"582",2010,"Oklahoma","Breast","Female",2595,554
+"583",2010,"Oklahoma","Larynx","Female",35,0
+"584",2010,"Oklahoma","Larynx","Male",126,37
+"585",2010,"Oklahoma","Liver","Female",77,61
+"586",2010,"Oklahoma","Liver","Male",156,114
+"587",2010,"Oklahoma","Myeloma","Female",104,61
+"588",2010,"Oklahoma","Myeloma","Male",102,84
+"589",2010,"Oregon","Breast","Female",2926,555
+"590",2010,"Oregon","Breast","Male",17,0
+"591",2010,"Oregon","Larynx","Male",88,28
+"592",2010,"Oregon","Liver","Female",71,39
+"593",2010,"Oregon","Liver","Male",252,149
+"594",2010,"Oregon","Myeloma","Female",77,61
+"595",2010,"Oregon","Myeloma","Male",141,81
+"596",2010,"Pennsylvania","Breast","Female",10385,2090
+"597",2010,"Pennsylvania","Breast","Male",122,17
+"598",2010,"Pennsylvania","Larynx","Female",121,36
+"599",2010,"Pennsylvania","Larynx","Male",500,135
+"600",2010,"Pennsylvania","Liver","Female",245,180
+"601",2010,"Pennsylvania","Liver","Male",786,471
+"602",2010,"Pennsylvania","Myeloma","Female",501,299
+"603",2010,"Pennsylvania","Myeloma","Male",572,283
+"604",2010,"Puerto Rico","Breast","Female",1940,412
+"605",2010,"Puerto Rico","Larynx","Male",136,34
+"606",2010,"Puerto Rico","Liver","Female",84,85
+"607",2010,"Puerto Rico","Liver","Male",238,165
+"608",2010,"Puerto Rico","Myeloma","Female",99,42
+"609",2010,"Puerto Rico","Myeloma","Male",140,65
+"610",2010,"Rhode Island","Breast","Female",770,139
+"611",2010,"Rhode Island","Larynx","Female",0,0
+"612",2010,"Rhode Island","Larynx","Male",48,0
+"613",2010,"Rhode Island","Liver","Female",18,0
+"614",2010,"Rhode Island","Liver","Male",57,38
+"615",2010,"Rhode Island","Myeloma","Female",39,25
+"616",2010,"Rhode Island","Myeloma","Male",44,22
+"617",2010,"South Carolina","Breast","Female",3578,643
+"618",2010,"South Carolina","Larynx","Female",49,20
+"619",2010,"South Carolina","Larynx","Male",246,65
+"620",2010,"South Carolina","Liver","Female",78,54
+"621",2010,"South Carolina","Liver","Male",248,166
+"622",2010,"South Carolina","Myeloma","Female",189,91
+"623",2010,"South Carolina","Myeloma","Male",213,88
+"624",2010,"South Dakota","Breast","Female",539,103
+"625",2010,"South Dakota","Liver","Male",19,21
+"626",2010,"South Dakota","Myeloma","Female",27,19
+"627",2010,"South Dakota","Myeloma","Male",33,0
+"628",2010,"Tennessee","Breast","Female",4591,876
+"629",2010,"Tennessee","Breast","Male",38,0
+"630",2010,"Tennessee","Larynx","Female",71,24
+"631",2010,"Tennessee","Larynx","Male",300,71
+"632",2010,"Tennessee","Liver","Female",116,86
+"633",2010,"Tennessee","Liver","Male",319,242
+"634",2010,"Tennessee","Myeloma","Female",194,109
+"635",2010,"Tennessee","Myeloma","Male",263,143
+"636",2010,"Texas","Breast","Female",14460,2627
+"637",2010,"Texas","Breast","Male",110,24
+"638",2010,"Texas","Larynx","Female",158,40
+"639",2010,"Texas","Larynx","Male",649,220
+"640",2010,"Texas","Liver","Female",616,407
+"641",2010,"Texas","Liver","Male",1685,1043
+"642",2010,"Texas","Myeloma","Female",745,337
+"643",2010,"Texas","Myeloma","Male",855,400
+"644",2010,"Utah","Breast","Female",1289,257
+"645",2010,"Utah","Liver","Female",25,22
+"646",2010,"Utah","Liver","Male",67,47
+"647",2010,"Utah","Myeloma","Female",58,21
+"648",2010,"Utah","Myeloma","Male",86,38
+"649",2010,"Vermont","Breast","Female",524,83
+"650",2010,"Vermont","Liver","Male",38,33
+"651",2010,"Vermont","Myeloma","Female",17,0
+"652",2010,"Vermont","Myeloma","Male",26,0
+"653",2010,"Virginia","Breast","Female",5602,1034
+"654",2010,"Virginia","Breast","Male",47,0
+"655",2010,"Virginia","Larynx","Female",59,19
+"656",2010,"Virginia","Larynx","Male",236,72
+"657",2010,"Virginia","Liver","Female",140,90
+"658",2010,"Virginia","Liver","Male",385,249
+"659",2010,"Virginia","Myeloma","Female",274,137
+"660",2010,"Virginia","Myeloma","Male",257,153
+"661",2010,"Washington DC","Breast","Female",477,100
+"662",2010,"Washington DC","Liver","Female",23,0
+"663",2010,"Washington DC","Liver","Male",48,39
+"664",2010,"Washington DC","Myeloma","Female",21,0
+"665",2010,"Washington DC","Myeloma","Male",27,16
+"666",2010,"Washington","Breast","Female",4951,817
+"667",2010,"Washington","Larynx","Female",51,17
+"668",2010,"Washington","Larynx","Male",153,52
+"669",2010,"Washington","Liver","Female",123,83
+"670",2010,"Washington","Liver","Male",401,245
+"671",2010,"Washington","Myeloma","Female",186,102
+"672",2010,"Washington","Myeloma","Male",234,127
+"673",2010,"West Virginia","Breast","Female",1394,272
+"674",2010,"West Virginia","Larynx","Male",100,23
+"675",2010,"West Virginia","Liver","Female",29,19
+"676",2010,"West Virginia","Liver","Male",85,70
+"677",2010,"West Virginia","Myeloma","Female",60,37
+"678",2010,"West Virginia","Myeloma","Male",74,32
+"679",2010,"Wisconsin","Breast","Female",4117,767
+"680",2010,"Wisconsin","Larynx","Female",48,0
+"681",2010,"Wisconsin","Larynx","Male",193,57
+"682",2010,"Wisconsin","Liver","Female",85,75
+"683",2010,"Wisconsin","Liver","Male",273,177
+"684",2010,"Wisconsin","Myeloma","Female",202,115
+"685",2010,"Wisconsin","Myeloma","Male",229,123
+"686",2010,"Wyoming","Breast","Female",340,72
+"687",2010,"Wyoming","Liver","Male",20,16
+"688",2010,"Wyoming","Myeloma","Female",0,0
+"689",2011,"Alabama","Breast","Female",3465,647
+"690",2011,"Alabama","Larynx","Female",58,17
+"691",2011,"Alabama","Larynx","Male",249,77
+"692",2011,"Alabama","Liver","Female",87,82
+"693",2011,"Alabama","Liver","Male",268,174
+"694",2011,"Alabama","Myeloma","Female",153,98
+"695",2011,"Alabama","Myeloma","Male",180,118
+"696",2011,"Alaska","Breast","Female",428,57
+"697",2011,"Alaska","Liver","Male",45,30
+"698",2011,"Arizona","Breast","Female",4228,752
+"699",2011,"Arizona","Larynx","Female",30,16
+"700",2011,"Arizona","Larynx","Male",137,43
+"701",2011,"Arizona","Liver","Female",142,109
+"702",2011,"Arizona","Liver","Male",413,266
+"703",2011,"Arizona","Myeloma","Female",190,84
+"704",2011,"Arizona","Myeloma","Male",231,130
+"705",2011,"Arkansas","Breast","Female",1927,388
+"706",2011,"Arkansas","Larynx","Male",102,27
+"707",2011,"Arkansas","Liver","Female",44,51
+"708",2011,"Arkansas","Liver","Male",151,162
+"709",2011,"Arkansas","Myeloma","Female",93,56
+"710",2011,"Arkansas","Myeloma","Male",139,57
+"711",2011,"California","Breast","Female",24921,4260
+"712",2011,"California","Breast","Male",185,37
+"713",2011,"California","Larynx","Female",136,54
+"714",2011,"California","Larynx","Male",732,233
+"715",2011,"California","Liver","Female",917,650
+"716",2011,"California","Liver","Male",2561,1574
+"717",2011,"California","Myeloma","Female",990,508
+"718",2011,"California","Myeloma","Male",1327,623
+"719",2011,"Colorado","Breast","Female",3352,550
+"720",2011,"Colorado","Larynx","Male",112,26
+"721",2011,"Colorado","Liver","Female",92,48
+"722",2011,"Colorado","Liver","Male",241,176
+"723",2011,"Colorado","Myeloma","Female",136,54
+"724",2011,"Colorado","Myeloma","Male",173,88
+"725",2011,"Connecticut","Breast","Female",3106,484
+"726",2011,"Connecticut","Larynx","Male",134,32
+"727",2011,"Connecticut","Liver","Female",67,38
+"728",2011,"Connecticut","Liver","Male",215,118
+"729",2011,"Connecticut","Myeloma","Female",150,53
+"730",2011,"Connecticut","Myeloma","Male",149,70
+"731",2011,"Delaware","Breast","Female",712,128
+"732",2011,"Delaware","Liver","Female",22,16
+"733",2011,"Delaware","Liver","Male",56,37
+"734",2011,"Delaware","Myeloma","Female",37,22
+"735",2011,"Delaware","Myeloma","Male",48,19
+"736",2011,"Florida","Breast","Female",14790,2814
+"737",2011,"Florida","Breast","Male",188,53
+"738",2011,"Florida","Larynx","Female",196,68
+"739",2011,"Florida","Larynx","Male",834,241
+"740",2011,"Florida","Liver","Female",395,314
+"741",2011,"Florida","Liver","Male",1297,895
+"742",2011,"Florida","Myeloma","Female",889,372
+"743",2011,"Florida","Myeloma","Male",1088,472
+"744",2011,"Georgia","Breast","Female",6702,1188
+"745",2011,"Georgia","Breast","Male",53,0
+"746",2011,"Georgia","Larynx","Female",75,25
+"747",2011,"Georgia","Larynx","Male",326,96
+"748",2011,"Georgia","Liver","Female",157,102
+"749",2011,"Georgia","Liver","Male",470,306
+"750",2011,"Georgia","Myeloma","Female",352,159
+"751",2011,"Georgia","Myeloma","Male",406,187
+"752",2011,"Hawaii","Breast","Female",1054,107
+"753",2011,"Hawaii","Larynx","Male",33,0
+"754",2011,"Hawaii","Liver","Female",43,35
+"755",2011,"Hawaii","Liver","Male",110,72
+"756",2011,"Hawaii","Myeloma","Female",39,18
+"757",2011,"Hawaii","Myeloma","Male",59,22
+"758",2011,"Idaho","Breast","Female",1001,193
+"759",2011,"Idaho","Larynx","Female",0,0
+"760",2011,"Idaho","Larynx","Male",32,0
+"761",2011,"Idaho","Liver","Female",25,18
+"762",2011,"Idaho","Liver","Male",68,47
+"763",2011,"Idaho","Myeloma","Female",35,0
+"764",2011,"Idaho","Myeloma","Male",63,27
+"765",2011,"Illinois","Breast","Female",9711,1815
+"766",2011,"Illinois","Breast","Male",89,0
+"767",2011,"Illinois","Larynx","Female",114,38
+"768",2011,"Illinois","Larynx","Male",440,124
+"769",2011,"Illinois","Liver","Female",210,157
+"770",2011,"Illinois","Liver","Male",642,435
+"771",2011,"Illinois","Myeloma","Female",428,229
+"772",2011,"Illinois","Myeloma","Male",499,227
+"773",2011,"Indiana","Breast","Female",4524,879
+"774",2011,"Indiana","Breast","Male",44,0
+"775",2011,"Indiana","Larynx","Female",76,19
+"776",2011,"Indiana","Larynx","Male",267,58
+"777",2011,"Indiana","Liver","Female",110,100
+"778",2011,"Indiana","Liver","Male",305,181
+"779",2011,"Indiana","Myeloma","Female",204,121
+"780",2011,"Indiana","Myeloma","Male",292,145
+"781",2011,"Iowa","Breast","Female",2376,408
+"782",2011,"Iowa","Larynx","Male",112,28
+"783",2011,"Iowa","Liver","Female",50,38
+"784",2011,"Iowa","Liver","Male",158,89
+"785",2011,"Iowa","Myeloma","Female",116,67
+"786",2011,"Iowa","Myeloma","Male",138,75
+"787",2011,"Kansas","Breast","Female",2079,352
+"788",2011,"Kansas","Larynx","Male",73,18
+"789",2011,"Kansas","Liver","Female",46,35
+"790",2011,"Kansas","Liver","Male",110,90
+"791",2011,"Kansas","Myeloma","Female",83,46
+"792",2011,"Kansas","Myeloma","Male",91,58
+"793",2011,"Kentucky","Breast","Female",3213,613
+"794",2011,"Kentucky","Larynx","Female",61,18
+"795",2011,"Kentucky","Larynx","Male",231,46
+"796",2011,"Kentucky","Liver","Female",73,60
+"797",2011,"Kentucky","Liver","Male",250,168
+"798",2011,"Kentucky","Myeloma","Female",132,81
+"799",2011,"Kentucky","Myeloma","Male",181,86
+"800",2011,"Louisiana","Breast","Female",3236,658
+"801",2011,"Louisiana","Larynx","Female",50,0
+"802",2011,"Louisiana","Larynx","Male",226,58
+"803",2011,"Louisiana","Liver","Female",82,108
+"804",2011,"Louisiana","Liver","Male",301,259
+"805",2011,"Louisiana","Myeloma","Female",143,72
+"806",2011,"Louisiana","Myeloma","Male",207,108
+"807",2011,"Maine","Breast","Female",1147,163
+"808",2011,"Maine","Larynx","Male",52,28
+"809",2011,"Maine","Liver","Female",20,0
+"810",2011,"Maine","Liver","Male",64,44
+"811",2011,"Maine","Myeloma","Female",41,22
+"812",2011,"Maine","Myeloma","Male",60,32
+"813",2011,"Maryland","Breast","Female",4546,785
+"814",2011,"Maryland","Breast","Male",52,0
+"815",2011,"Maryland","Larynx","Female",49,16
+"816",2011,"Maryland","Larynx","Male",180,61
+"817",2011,"Maryland","Liver","Female",104,78
+"818",2011,"Maryland","Liver","Male",346,261
+"819",2011,"Maryland","Myeloma","Female",224,113
+"820",2011,"Maryland","Myeloma","Male",224,112
+"821",2011,"Massachusetts","Breast","Female",5596,855
+"822",2011,"Massachusetts","Breast","Male",48,0
+"823",2011,"Massachusetts","Larynx","Female",59,24
+"824",2011,"Massachusetts","Larynx","Male",182,63
+"825",2011,"Massachusetts","Liver","Female",102,75
+"826",2011,"Massachusetts","Liver","Male",406,263
+"827",2011,"Massachusetts","Myeloma","Female",263,126
+"828",2011,"Massachusetts","Myeloma","Male",274,134
+"829",2011,"Michigan","Breast","Female",7471,1431
+"830",2011,"Michigan","Breast","Male",83,23
+"831",2011,"Michigan","Larynx","Female",106,36
+"832",2011,"Michigan","Larynx","Male",356,116
+"833",2011,"Michigan","Liver","Female",176,148
+"834",2011,"Michigan","Liver","Male",526,363
+"835",2011,"Michigan","Myeloma","Female",354,197
+"836",2011,"Michigan","Myeloma","Male",435,236
+"837",2011,"Minnesota","Breast","Female",4139,638
+"838",2011,"Minnesota","Larynx","Female",43,0
+"839",2011,"Minnesota","Larynx","Male",135,37
+"840",2011,"Minnesota","Liver","Female",63,57
+"841",2011,"Minnesota","Liver","Male",154,147
+"842",2011,"Minnesota","Myeloma","Female",174,97
+"843",2011,"Minnesota","Myeloma","Male",210,107
+"844",2011,"Mississippi","Breast","Female",1988,401
+"845",2011,"Mississippi","Larynx","Male",148,33
+"846",2011,"Mississippi","Liver","Female",37,59
+"847",2011,"Mississippi","Liver","Male",186,159
+"848",2011,"Mississippi","Myeloma","Female",116,44
+"849",2011,"Mississippi","Myeloma","Male",141,60
+"850",2011,"Missouri","Breast","Female",4698,898
+"851",2011,"Missouri","Larynx","Female",59,0
+"852",2011,"Missouri","Larynx","Male",260,52
+"853",2011,"Missouri","Liver","Female",141,93
+"854",2011,"Missouri","Liver","Male",345,247
+"855",2011,"Missouri","Myeloma","Female",203,121
+"856",2011,"Missouri","Myeloma","Male",235,110
+"857",2011,"Montana","Breast","Female",806,134
+"858",2011,"Montana","Liver","Female",0,0
+"859",2011,"Montana","Liver","Male",39,33
+"860",2011,"Montana","Myeloma","Female",35,18
+"861",2011,"Montana","Myeloma","Male",53,23
+"862",2011,"Nebraska","Breast","Female",1327,206
+"863",2011,"Nebraska","Larynx","Male",58,0
+"864",2011,"Nebraska","Liver","Female",19,17
+"865",2011,"Nebraska","Liver","Male",73,65
+"866",2011,"Nebraska","Myeloma","Female",63,32
+"867",2011,"Nebraska","Myeloma","Male",78,34
+"868",2011,"Nevada","Breast","Female",1686,346
+"869",2011,"Nevada","Larynx","Female",17,0
+"870",2011,"Nevada","Larynx","Male",54,24
+"871",2011,"Nevada","Liver","Female",56,42
+"872",2011,"Nevada","Liver","Male",117,99
+"873",2011,"Nevada","Myeloma","Female",53,38
+"874",2011,"Nevada","Myeloma","Male",69,52
+"875",2011,"New Hampshire","Breast","Female",1170,174
+"876",2011,"New Hampshire","Breast","Male",0,0
+"877",2011,"New Hampshire","Larynx","Female",0,0
+"878",2011,"New Hampshire","Larynx","Male",51,0
+"879",2011,"New Hampshire","Liver","Female",17,16
+"880",2011,"New Hampshire","Liver","Male",65,49
+"881",2011,"New Hampshire","Myeloma","Female",39,18
+"882",2011,"New Hampshire","Myeloma","Male",69,45
+"883",2011,"New Jersey","Breast","Female",7046,1396
+"884",2011,"New Jersey","Breast","Male",60,0
+"885",2011,"New Jersey","Larynx","Female",70,30
+"886",2011,"New Jersey","Larynx","Male",259,99
+"887",2011,"New Jersey","Liver","Female",146,92
+"888",2011,"New Jersey","Liver","Male",511,304
+"889",2011,"New Jersey","Myeloma","Female",346,174
+"890",2011,"New Jersey","Myeloma","Male",369,167
+"891",2011,"New Mexico","Breast","Female",1401,249
+"892",2011,"New Mexico","Breast","Male",0,0
+"893",2011,"New Mexico","Larynx","Male",44,18
+"894",2011,"New Mexico","Liver","Female",49,34
+"895",2011,"New Mexico","Liver","Male",149,90
+"896",2011,"New Mexico","Myeloma","Female",51,24
+"897",2011,"New Mexico","Myeloma","Male",57,36
+"898",2011,"New York","Breast","Female",15497,2699
+"899",2011,"New York","Breast","Male",137,27
+"900",2011,"New York","Larynx","Female",150,63
+"901",2011,"New York","Larynx","Male",606,185
+"902",2011,"New York","Liver","Female",443,287
+"903",2011,"New York","Liver","Male",1252,689
+"904",2011,"New York","Myeloma","Female",833,336
+"905",2011,"New York","Myeloma","Male",995,325
+"906",2011,"North Carolina","Breast","Female",7658,1315
+"907",2011,"North Carolina","Breast","Male",57,19
+"908",2011,"North Carolina","Larynx","Female",107,19
+"909",2011,"North Carolina","Larynx","Male",356,108
+"910",2011,"North Carolina","Liver","Female",143,103
+"911",2011,"North Carolina","Liver","Male",553,352
+"912",2011,"North Carolina","Myeloma","Female",411,182
+"913",2011,"North Carolina","Myeloma","Male",438,194
+"914",2011,"North Dakota","Breast","Female",474,83
+"915",2011,"North Dakota","Liver","Male",16,0
+"916",2011,"North Dakota","Myeloma","Female",21,0
+"917",2011,"North Dakota","Myeloma","Male",28,18
+"918",2011,"Ohio","Breast","Female",8959,1803
+"919",2011,"Ohio","Breast","Male",66,24
+"920",2011,"Ohio","Larynx","Female",154,45
+"921",2011,"Ohio","Larynx","Male",451,139
+"922",2011,"Ohio","Liver","Female",176,146
+"923",2011,"Ohio","Liver","Male",584,412
+"924",2011,"Ohio","Myeloma","Female",394,216
+"925",2011,"Ohio","Myeloma","Male",445,274
+"926",2011,"Oklahoma","Breast","Female",2575,541
+"927",2011,"Oklahoma","Larynx","Female",35,0
+"928",2011,"Oklahoma","Larynx","Male",116,37
+"929",2011,"Oklahoma","Liver","Female",69,63
+"930",2011,"Oklahoma","Liver","Male",215,167
+"931",2011,"Oklahoma","Myeloma","Female",111,73
+"932",2011,"Oklahoma","Myeloma","Male",135,76
+"933",2011,"Oregon","Breast","Female",3073,500
+"934",2011,"Oregon","Breast","Male",0,0
+"935",2011,"Oregon","Larynx","Male",90,28
+"936",2011,"Oregon","Liver","Female",80,46
+"937",2011,"Oregon","Liver","Male",251,164
+"938",2011,"Oregon","Myeloma","Female",107,63
+"939",2011,"Oregon","Myeloma","Male",157,96
+"940",2011,"Pennsylvania","Breast","Female",10695,2057
+"941",2011,"Pennsylvania","Breast","Male",109,22
+"942",2011,"Pennsylvania","Larynx","Female",150,52
+"943",2011,"Pennsylvania","Larynx","Male",496,139
+"944",2011,"Pennsylvania","Liver","Female",263,179
+"945",2011,"Pennsylvania","Liver","Male",815,470
+"946",2011,"Pennsylvania","Myeloma","Female",480,273
+"947",2011,"Pennsylvania","Myeloma","Male",590,293
+"948",2011,"Puerto Rico","Breast","Female",2152,432
+"949",2011,"Puerto Rico","Larynx","Male",140,41
+"950",2011,"Puerto Rico","Liver","Female",93,86
+"951",2011,"Puerto Rico","Liver","Male",260,195
+"952",2011,"Puerto Rico","Myeloma","Female",131,64
+"953",2011,"Puerto Rico","Myeloma","Male",150,76
+"954",2011,"Rhode Island","Breast","Female",854,144
+"955",2011,"Rhode Island","Larynx","Female",0,0
+"956",2011,"Rhode Island","Larynx","Male",47,0
+"957",2011,"Rhode Island","Liver","Female",0,18
+"958",2011,"Rhode Island","Liver","Male",84,42
+"959",2011,"Rhode Island","Myeloma","Female",34,24
+"960",2011,"Rhode Island","Myeloma","Male",47,18
+"961",2011,"South Carolina","Breast","Female",3611,717
+"962",2011,"South Carolina","Larynx","Female",44,0
+"963",2011,"South Carolina","Larynx","Male",222,64
+"964",2011,"South Carolina","Liver","Female",84,69
+"965",2011,"South Carolina","Liver","Male",237,183
+"966",2011,"South Carolina","Myeloma","Female",177,83
+"967",2011,"South Carolina","Myeloma","Male",227,93
+"968",2011,"South Dakota","Breast","Female",637,125
+"969",2011,"South Dakota","Liver","Male",31,18
+"970",2011,"South Dakota","Myeloma","Female",29,22
+"971",2011,"South Dakota","Myeloma","Male",48,17
+"972",2011,"Tennessee","Breast","Female",4747,867
+"973",2011,"Tennessee","Breast","Male",38,0
+"974",2011,"Tennessee","Larynx","Female",76,19
+"975",2011,"Tennessee","Larynx","Male",274,85
+"976",2011,"Tennessee","Liver","Female",119,95
+"977",2011,"Tennessee","Liver","Male",385,286
+"978",2011,"Tennessee","Myeloma","Female",212,114
+"979",2011,"Tennessee","Myeloma","Male",250,138
+"980",2011,"Texas","Breast","Female",14321,2630
+"981",2011,"Texas","Breast","Male",104,22
+"982",2011,"Texas","Larynx","Female",177,43
+"983",2011,"Texas","Larynx","Male",689,226
+"984",2011,"Texas","Liver","Female",629,458
+"985",2011,"Texas","Liver","Male",1875,1223
+"986",2011,"Texas","Myeloma","Female",716,306
+"987",2011,"Texas","Myeloma","Male",898,417
+"988",2011,"Utah","Breast","Female",1399,244
+"989",2011,"Utah","Liver","Female",30,22
+"990",2011,"Utah","Liver","Male",98,61
+"991",2011,"Utah","Myeloma","Female",58,22
+"992",2011,"Utah","Myeloma","Male",88,43
+"993",2011,"Vermont","Breast","Female",519,81
+"994",2011,"Vermont","Liver","Male",30,17
+"995",2011,"Vermont","Myeloma","Female",23,0
+"996",2011,"Vermont","Myeloma","Male",24,0
+"997",2011,"Virginia","Breast","Female",5955,1084
+"998",2011,"Virginia","Breast","Male",44,16
+"999",2011,"Virginia","Larynx","Female",53,0
+"1000",2011,"Virginia","Larynx","Male",248,72
+"1001",2011,"Virginia","Liver","Female",113,92
+"1002",2011,"Virginia","Liver","Male",339,272
+"1003",2011,"Virginia","Myeloma","Female",233,142
+"1004",2011,"Virginia","Myeloma","Male",311,165
+"1005",2011,"Washington DC","Breast","Female",519,89
+"1006",2011,"Washington DC","Liver","Female",25,0
+"1007",2011,"Washington DC","Liver","Male",74,35
+"1008",2011,"Washington DC","Myeloma","Female",32,0
+"1009",2011,"Washington DC","Myeloma","Male",31,0
+"1010",2011,"Washington","Breast","Female",5259,827
+"1011",2011,"Washington","Larynx","Female",42,0
+"1012",2011,"Washington","Larynx","Male",179,43
+"1013",2011,"Washington","Liver","Female",139,86
+"1014",2011,"Washington","Liver","Male",462,292
+"1015",2011,"Washington","Myeloma","Female",215,112
+"1016",2011,"Washington","Myeloma","Male",248,121
+"1017",2011,"West Virginia","Breast","Female",1409,303
+"1018",2011,"West Virginia","Larynx","Male",96,21
+"1019",2011,"West Virginia","Liver","Female",33,22
+"1020",2011,"West Virginia","Liver","Male",103,64
+"1021",2011,"West Virginia","Myeloma","Female",61,54
+"1022",2011,"West Virginia","Myeloma","Male",94,40
+"1023",2011,"Wisconsin","Breast","Female",4438,783
+"1024",2011,"Wisconsin","Larynx","Female",53,0
+"1025",2011,"Wisconsin","Larynx","Male",170,42
+"1026",2011,"Wisconsin","Liver","Female",98,50
+"1027",2011,"Wisconsin","Liver","Male",258,177
+"1028",2011,"Wisconsin","Myeloma","Female",202,95
+"1029",2011,"Wisconsin","Myeloma","Male",258,132
+"1030",2011,"Wyoming","Breast","Female",380,70
+"1031",2011,"Wyoming","Liver","Male",21,0
+"1032",2011,"Wyoming","Myeloma","Female",18,0
+"1033",2012,"Alabama","Breast","Female",3582,691
+"1034",2012,"Alabama","Larynx","Female",47,20
+"1035",2012,"Alabama","Larynx","Male",208,56
+"1036",2012,"Alabama","Liver","Female",81,102
+"1037",2012,"Alabama","Liver","Male",279,220
+"1038",2012,"Alabama","Myeloma","Female",164,94
+"1039",2012,"Alabama","Myeloma","Male",209,116
+"1040",2012,"Alaska","Breast","Female",418,58
+"1041",2012,"Alaska","Liver","Male",53,23
+"1042",2012,"Arizona","Breast","Female",4253,750
+"1043",2012,"Arizona","Larynx","Female",26,0
+"1044",2012,"Arizona","Larynx","Male",137,41
+"1045",2012,"Arizona","Liver","Female",175,108
+"1046",2012,"Arizona","Liver","Male",408,283
+"1047",2012,"Arizona","Myeloma","Female",183,93
+"1048",2012,"Arizona","Myeloma","Male",228,124
+"1049",2012,"Arkansas","Breast","Female",2007,444
+"1050",2012,"Arkansas","Larynx","Male",124,40
+"1051",2012,"Arkansas","Liver","Female",64,61
+"1052",2012,"Arkansas","Liver","Male",173,150
+"1053",2012,"Arkansas","Myeloma","Female",117,53
+"1054",2012,"Arkansas","Myeloma","Male",139,54
+"1055",2012,"California","Breast","Female",25369,4479
+"1056",2012,"California","Breast","Male",172,29
+"1057",2012,"California","Larynx","Female",140,39
+"1058",2012,"California","Larynx","Male",731,258
+"1059",2012,"California","Liver","Female",932,700
+"1060",2012,"California","Liver","Male",2613,1757
+"1061",2012,"California","Myeloma","Female",989,563
+"1062",2012,"California","Myeloma","Male",1428,656
+"1063",2012,"Colorado","Breast","Female",3503,579
+"1064",2012,"Colorado","Larynx","Male",90,29
+"1065",2012,"Colorado","Liver","Female",101,59
+"1066",2012,"Colorado","Liver","Male",256,169
+"1067",2012,"Colorado","Myeloma","Female",125,72
+"1068",2012,"Colorado","Myeloma","Male",202,77
+"1069",2012,"Connecticut","Breast","Female",3144,479
+"1070",2012,"Connecticut","Larynx","Male",120,26
+"1071",2012,"Connecticut","Liver","Female",60,29
+"1072",2012,"Connecticut","Liver","Male",249,144
+"1073",2012,"Connecticut","Myeloma","Female",122,71
+"1074",2012,"Connecticut","Myeloma","Male",156,67
+"1075",2012,"Delaware","Breast","Female",731,136
+"1076",2012,"Delaware","Liver","Female",0,0
+"1077",2012,"Delaware","Liver","Male",70,44
+"1078",2012,"Delaware","Myeloma","Female",38,17
+"1079",2012,"Delaware","Myeloma","Male",53,21
+"1080",2012,"Florida","Breast","Female",15464,2848
+"1081",2012,"Florida","Breast","Male",136,24
+"1082",2012,"Florida","Larynx","Female",199,66
+"1083",2012,"Florida","Larynx","Male",818,246
+"1084",2012,"Florida","Liver","Female",412,299
+"1085",2012,"Florida","Liver","Male",1296,900
+"1086",2012,"Florida","Myeloma","Female",841,395
+"1087",2012,"Florida","Myeloma","Male",1012,458
+"1088",2012,"Georgia","Breast","Female",6756,1175
+"1089",2012,"Georgia","Breast","Male",71,16
+"1090",2012,"Georgia","Larynx","Female",99,20
+"1091",2012,"Georgia","Larynx","Male",324,74
+"1092",2012,"Georgia","Liver","Female",180,143
+"1093",2012,"Georgia","Liver","Male",557,364
+"1094",2012,"Georgia","Myeloma","Female",361,168
+"1095",2012,"Georgia","Myeloma","Male",434,182
+"1096",2012,"Hawaii","Breast","Female",1161,138
+"1097",2012,"Hawaii","Larynx","Male",36,0
+"1098",2012,"Hawaii","Liver","Female",40,39
+"1099",2012,"Hawaii","Liver","Male",127,72
+"1100",2012,"Hawaii","Myeloma","Female",44,20
+"1101",2012,"Hawaii","Myeloma","Male",55,27
+"1102",2012,"Idaho","Breast","Female",1090,144
+"1103",2012,"Idaho","Larynx","Female",0,0
+"1104",2012,"Idaho","Larynx","Male",29,0
+"1105",2012,"Idaho","Liver","Female",22,16
+"1106",2012,"Idaho","Liver","Male",74,59
+"1107",2012,"Idaho","Myeloma","Female",37,22
+"1108",2012,"Idaho","Myeloma","Male",75,38
+"1109",2012,"Illinois","Breast","Female",9540,1810
+"1110",2012,"Illinois","Breast","Male",93,17
+"1111",2012,"Illinois","Larynx","Female",129,35
+"1112",2012,"Illinois","Larynx","Male",415,130
+"1113",2012,"Illinois","Liver","Female",234,185
+"1114",2012,"Illinois","Liver","Male",671,422
+"1115",2012,"Illinois","Myeloma","Female",417,232
+"1116",2012,"Illinois","Myeloma","Male",534,248
+"1117",2012,"Indiana","Breast","Female",4650,876
+"1118",2012,"Indiana","Breast","Male",39,0
+"1119",2012,"Indiana","Larynx","Female",79,0
+"1120",2012,"Indiana","Larynx","Male",241,77
+"1121",2012,"Indiana","Liver","Female",106,72
+"1122",2012,"Indiana","Liver","Male",377,250
+"1123",2012,"Indiana","Myeloma","Female",218,106
+"1124",2012,"Indiana","Myeloma","Male",288,140
+"1125",2012,"Iowa","Breast","Female",2168,417
+"1126",2012,"Iowa","Larynx","Male",140,35
+"1127",2012,"Iowa","Liver","Female",54,29
+"1128",2012,"Iowa","Liver","Male",158,106
+"1129",2012,"Iowa","Myeloma","Female",110,52
+"1130",2012,"Iowa","Myeloma","Male",134,85
+"1131",2012,"Kansas","Breast","Female",2101,397
+"1132",2012,"Kansas","Larynx","Male",108,21
+"1133",2012,"Kansas","Liver","Female",47,45
+"1134",2012,"Kansas","Liver","Male",150,103
+"1135",2012,"Kansas","Myeloma","Female",84,55
+"1136",2012,"Kansas","Myeloma","Male",129,67
+"1137",2012,"Kentucky","Breast","Female",3310,646
+"1138",2012,"Kentucky","Larynx","Female",66,21
+"1139",2012,"Kentucky","Larynx","Male",254,65
+"1140",2012,"Kentucky","Liver","Female",104,63
+"1141",2012,"Kentucky","Liver","Male",246,184
+"1142",2012,"Kentucky","Myeloma","Female",130,68
+"1143",2012,"Kentucky","Myeloma","Male",201,101
+"1144",2012,"Louisiana","Breast","Female",3242,660
+"1145",2012,"Louisiana","Larynx","Female",60,20
+"1146",2012,"Louisiana","Larynx","Male",223,42
+"1147",2012,"Louisiana","Liver","Female",90,98
+"1148",2012,"Louisiana","Liver","Male",374,247
+"1149",2012,"Louisiana","Myeloma","Female",193,86
+"1150",2012,"Louisiana","Myeloma","Male",205,89
+"1151",2012,"Maine","Breast","Female",1129,168
+"1152",2012,"Maine","Larynx","Male",65,18
+"1153",2012,"Maine","Liver","Female",20,20
+"1154",2012,"Maine","Liver","Male",65,44
+"1155",2012,"Maine","Myeloma","Female",50,24
+"1156",2012,"Maine","Myeloma","Male",67,26
+"1157",2012,"Maryland","Breast","Female",4568,857
+"1158",2012,"Maryland","Breast","Male",57,0
+"1159",2012,"Maryland","Larynx","Female",56,0
+"1160",2012,"Maryland","Larynx","Male",143,59
+"1161",2012,"Maryland","Liver","Female",126,90
+"1162",2012,"Maryland","Liver","Male",371,259
+"1163",2012,"Maryland","Myeloma","Female",196,130
+"1164",2012,"Maryland","Myeloma","Male",224,116
+"1165",2012,"Massachusetts","Breast","Female",5646,860
+"1166",2012,"Massachusetts","Breast","Male",40,18
+"1167",2012,"Massachusetts","Larynx","Female",76,0
+"1168",2012,"Massachusetts","Larynx","Male",189,45
+"1169",2012,"Massachusetts","Liver","Female",123,84
+"1170",2012,"Massachusetts","Liver","Male",475,272
+"1171",2012,"Massachusetts","Myeloma","Female",241,140
+"1172",2012,"Massachusetts","Myeloma","Male",284,129
+"1173",2012,"Michigan","Breast","Female",7786,1425
+"1174",2012,"Michigan","Breast","Male",65,21
+"1175",2012,"Michigan","Larynx","Female",106,27
+"1176",2012,"Michigan","Larynx","Male",365,108
+"1177",2012,"Michigan","Liver","Female",215,152
+"1178",2012,"Michigan","Liver","Male",540,386
+"1179",2012,"Michigan","Myeloma","Female",317,196
+"1180",2012,"Michigan","Myeloma","Male",438,220
+"1181",2012,"Minnesota","Breast","Female",4077,604
+"1182",2012,"Minnesota","Larynx","Female",31,0
+"1183",2012,"Minnesota","Larynx","Male",151,34
+"1184",2012,"Minnesota","Liver","Female",91,69
+"1185",2012,"Minnesota","Liver","Male",239,161
+"1186",2012,"Minnesota","Myeloma","Female",172,79
+"1187",2012,"Minnesota","Myeloma","Male",229,125
+"1188",2012,"Mississippi","Breast","Female",2094,455
+"1189",2012,"Mississippi","Larynx","Male",145,42
+"1190",2012,"Mississippi","Liver","Female",55,75
+"1191",2012,"Mississippi","Liver","Male",179,149
+"1192",2012,"Mississippi","Myeloma","Female",110,62
+"1193",2012,"Mississippi","Myeloma","Male",141,59
+"1194",2012,"Missouri","Breast","Female",4722,861
+"1195",2012,"Missouri","Larynx","Female",81,16
+"1196",2012,"Missouri","Larynx","Male",240,58
+"1197",2012,"Missouri","Liver","Female",113,80
+"1198",2012,"Missouri","Liver","Male",371,269
+"1199",2012,"Missouri","Myeloma","Female",205,114
+"1200",2012,"Missouri","Myeloma","Male",251,169
+"1201",2012,"Montana","Breast","Female",743,133
+"1202",2012,"Montana","Liver","Female",17,0
+"1203",2012,"Montana","Liver","Male",37,37
+"1204",2012,"Montana","Myeloma","Female",34,17
+"1205",2012,"Montana","Myeloma","Male",54,23
+"1206",2012,"Nebraska","Breast","Female",1293,245
+"1207",2012,"Nebraska","Larynx","Male",60,0
+"1208",2012,"Nebraska","Liver","Female",23,0
+"1209",2012,"Nebraska","Liver","Male",84,56
+"1210",2012,"Nebraska","Myeloma","Female",53,31
+"1211",2012,"Nebraska","Myeloma","Male",91,51
+"1212",2012,"Nevada","Breast","Female",1744,328
+"1213",2012,"Nevada","Larynx","Female",0,0
+"1214",2012,"Nevada","Larynx","Male",76,33
+"1215",2012,"Nevada","Liver","Female",57,40
+"1216",2012,"Nevada","Liver","Male",149,79
+"1217",2012,"Nevada","Myeloma","Female",59,23
+"1218",2012,"Nevada","Myeloma","Male",81,44
+"1219",2012,"New Hampshire","Breast","Female",1139,164
+"1220",2012,"New Hampshire","Breast","Male",18,0
+"1221",2012,"New Hampshire","Larynx","Female",0,0
+"1222",2012,"New Hampshire","Larynx","Male",42,0
+"1223",2012,"New Hampshire","Liver","Female",17,0
+"1224",2012,"New Hampshire","Liver","Male",77,57
+"1225",2012,"New Hampshire","Myeloma","Female",44,23
+"1226",2012,"New Hampshire","Myeloma","Male",68,23
+"1227",2012,"New Jersey","Breast","Female",7206,1312
+"1228",2012,"New Jersey","Breast","Male",68,0
+"1229",2012,"New Jersey","Larynx","Female",74,25
+"1230",2012,"New Jersey","Larynx","Male",240,67
+"1231",2012,"New Jersey","Liver","Female",198,120
+"1232",2012,"New Jersey","Liver","Male",522,296
+"1233",2012,"New Jersey","Myeloma","Female",332,169
+"1234",2012,"New Jersey","Myeloma","Male",418,173
+"1235",2012,"New Mexico","Breast","Female",1443,231
+"1236",2012,"New Mexico","Breast","Male",0,0
+"1237",2012,"New Mexico","Larynx","Male",44,18
+"1238",2012,"New Mexico","Liver","Female",49,38
+"1239",2012,"New Mexico","Liver","Male",169,108
+"1240",2012,"New Mexico","Myeloma","Female",56,38
+"1241",2012,"New Mexico","Myeloma","Male",79,38
+"1242",2012,"New York","Breast","Female",15143,2632
+"1243",2012,"New York","Breast","Male",151,23
+"1244",2012,"New York","Larynx","Female",165,47
+"1245",2012,"New York","Larynx","Male",622,188
+"1246",2012,"New York","Liver","Female",434,298
+"1247",2012,"New York","Liver","Male",1362,778
+"1248",2012,"New York","Myeloma","Female",830,355
+"1249",2012,"New York","Myeloma","Male",979,345
+"1250",2012,"North Carolina","Breast","Female",7587,1287
+"1251",2012,"North Carolina","Breast","Male",51,0
+"1252",2012,"North Carolina","Larynx","Female",112,27
+"1253",2012,"North Carolina","Larynx","Male",349,85
+"1254",2012,"North Carolina","Liver","Female",177,108
+"1255",2012,"North Carolina","Liver","Male",544,346
+"1256",2012,"North Carolina","Myeloma","Female",396,196
+"1257",2012,"North Carolina","Myeloma","Male",457,192
+"1258",2012,"North Dakota","Breast","Female",485,79
+"1259",2012,"North Dakota","Liver","Male",22,18
+"1260",2012,"North Dakota","Myeloma","Female",27,0
+"1261",2012,"North Dakota","Myeloma","Male",37,18
+"1262",2012,"Ohio","Breast","Female",8932,1741
+"1263",2012,"Ohio","Breast","Male",80,16
+"1264",2012,"Ohio","Larynx","Female",130,41
+"1265",2012,"Ohio","Larynx","Male",392,144
+"1266",2012,"Ohio","Liver","Female",222,156
+"1267",2012,"Ohio","Liver","Male",629,444
+"1268",2012,"Ohio","Myeloma","Female",379,252
+"1269",2012,"Ohio","Myeloma","Male",431,253
+"1270",2012,"Oklahoma","Breast","Female",2591,539
+"1271",2012,"Oklahoma","Larynx","Female",40,0
+"1272",2012,"Oklahoma","Larynx","Male",112,36
+"1273",2012,"Oklahoma","Liver","Female",85,74
+"1274",2012,"Oklahoma","Liver","Male",229,156
+"1275",2012,"Oklahoma","Myeloma","Female",129,61
+"1276",2012,"Oklahoma","Myeloma","Male",178,90
+"1277",2012,"Oregon","Breast","Female",3121,510
+"1278",2012,"Oregon","Breast","Male",25,0
+"1279",2012,"Oregon","Larynx","Male",95,22
+"1280",2012,"Oregon","Liver","Female",94,57
+"1281",2012,"Oregon","Liver","Male",314,191
+"1282",2012,"Oregon","Myeloma","Female",108,71
+"1283",2012,"Oregon","Myeloma","Male",147,88
+"1284",2012,"Pennsylvania","Breast","Female",10816,2029
+"1285",2012,"Pennsylvania","Breast","Male",133,18
+"1286",2012,"Pennsylvania","Larynx","Female",120,42
+"1287",2012,"Pennsylvania","Larynx","Male",488,138
+"1288",2012,"Pennsylvania","Liver","Female",268,202
+"1289",2012,"Pennsylvania","Liver","Male",858,548
+"1290",2012,"Pennsylvania","Myeloma","Female",475,250
+"1291",2012,"Pennsylvania","Myeloma","Male",589,273
+"1292",2012,"Puerto Rico","Breast","Female",2161,438
+"1293",2012,"Puerto Rico","Larynx","Male",112,42
+"1294",2012,"Puerto Rico","Liver","Female",84,85
+"1295",2012,"Puerto Rico","Liver","Male",261,184
+"1296",2012,"Puerto Rico","Myeloma","Female",126,69
+"1297",2012,"Puerto Rico","Myeloma","Male",132,83
+"1298",2012,"Rhode Island","Breast","Female",936,132
+"1299",2012,"Rhode Island","Larynx","Female",0,0
+"1300",2012,"Rhode Island","Larynx","Male",31,0
+"1301",2012,"Rhode Island","Liver","Female",20,0
+"1302",2012,"Rhode Island","Liver","Male",64,51
+"1303",2012,"Rhode Island","Myeloma","Female",39,0
+"1304",2012,"Rhode Island","Myeloma","Male",51,18
+"1305",2012,"South Carolina","Breast","Female",3820,670
+"1306",2012,"South Carolina","Larynx","Female",47,0
+"1307",2012,"South Carolina","Larynx","Male",210,61
+"1308",2012,"South Carolina","Liver","Female",74,59
+"1309",2012,"South Carolina","Liver","Male",308,192
+"1310",2012,"South Carolina","Myeloma","Female",231,114
+"1311",2012,"South Carolina","Myeloma","Male",256,122
+"1312",2012,"South Dakota","Breast","Female",682,107
+"1313",2012,"South Dakota","Liver","Male",28,26
+"1314",2012,"South Dakota","Myeloma","Female",27,24
+"1315",2012,"South Dakota","Myeloma","Male",45,18
+"1316",2012,"Tennessee","Breast","Female",4869,920
+"1317",2012,"Tennessee","Breast","Male",43,0
+"1318",2012,"Tennessee","Larynx","Female",79,18
+"1319",2012,"Tennessee","Larynx","Male",281,77
+"1320",2012,"Tennessee","Liver","Female",129,101
+"1321",2012,"Tennessee","Liver","Male",354,302
+"1322",2012,"Tennessee","Myeloma","Female",207,114
+"1323",2012,"Tennessee","Myeloma","Male",276,154
+"1324",2012,"Texas","Breast","Female",15190,2821
+"1325",2012,"Texas","Breast","Male",117,24
+"1326",2012,"Texas","Larynx","Female",165,56
+"1327",2012,"Texas","Larynx","Male",666,227
+"1328",2012,"Texas","Liver","Female",652,439
+"1329",2012,"Texas","Liver","Male",1966,1201
+"1330",2012,"Texas","Myeloma","Female",779,324
+"1331",2012,"Texas","Myeloma","Male",977,423
+"1332",2012,"Utah","Breast","Female",1420,249
+"1333",2012,"Utah","Liver","Female",28,23
+"1334",2012,"Utah","Liver","Male",89,51
+"1335",2012,"Utah","Myeloma","Female",76,42
+"1336",2012,"Utah","Myeloma","Male",109,47
+"1337",2012,"Vermont","Breast","Female",532,85
+"1338",2012,"Vermont","Liver","Male",39,21
+"1339",2012,"Vermont","Myeloma","Female",17,0
+"1340",2012,"Vermont","Myeloma","Male",26,0
+"1341",2012,"Virginia","Breast","Female",6054,1032
+"1342",2012,"Virginia","Breast","Male",58,0
+"1343",2012,"Virginia","Larynx","Female",59,16
+"1344",2012,"Virginia","Larynx","Male",239,73
+"1345",2012,"Virginia","Liver","Female",114,116
+"1346",2012,"Virginia","Liver","Male",407,289
+"1347",2012,"Virginia","Myeloma","Female",281,130
+"1348",2012,"Virginia","Myeloma","Male",307,169
+"1349",2012,"Washington DC","Breast","Female",462,107
+"1350",2012,"Washington DC","Liver","Female",17,0
+"1351",2012,"Washington DC","Liver","Male",66,41
+"1352",2012,"Washington DC","Myeloma","Female",30,16
+"1353",2012,"Washington DC","Myeloma","Male",31,0
+"1354",2012,"Washington","Breast","Female",5476,731
+"1355",2012,"Washington","Larynx","Female",44,17
+"1356",2012,"Washington","Larynx","Male",166,54
+"1357",2012,"Washington","Liver","Female",161,87
+"1358",2012,"Washington","Liver","Male",472,294
+"1359",2012,"Washington","Myeloma","Female",211,114
+"1360",2012,"Washington","Myeloma","Male",301,154
+"1361",2012,"West Virginia","Breast","Female",1467,294
+"1362",2012,"West Virginia","Larynx","Male",101,40
+"1363",2012,"West Virginia","Liver","Female",20,21
+"1364",2012,"West Virginia","Liver","Male",97,60
+"1365",2012,"West Virginia","Myeloma","Female",68,31
+"1366",2012,"West Virginia","Myeloma","Male",77,44
+"1367",2012,"Wisconsin","Breast","Female",4478,763
+"1368",2012,"Wisconsin","Larynx","Female",43,0
+"1369",2012,"Wisconsin","Larynx","Male",189,43
+"1370",2012,"Wisconsin","Liver","Female",105,80
+"1371",2012,"Wisconsin","Liver","Male",261,179
+"1372",2012,"Wisconsin","Myeloma","Female",211,123
+"1373",2012,"Wisconsin","Myeloma","Male",269,138
+"1374",2012,"Wyoming","Breast","Female",351,52
+"1375",2012,"Wyoming","Liver","Male",25,22
+"1376",2012,"Wyoming","Myeloma","Female",0,0
+"1377",2013,"Alabama","Breast","Female",3687,661
+"1378",2013,"Alabama","Larynx","Female",59,0
+"1379",2013,"Alabama","Larynx","Male",191,51
+"1380",2013,"Alabama","Liver","Female",109,81
+"1381",2013,"Alabama","Liver","Male",308,253
+"1382",2013,"Alabama","Myeloma","Female",194,100
+"1383",2013,"Alabama","Myeloma","Male",205,129
+"1384",2013,"Alaska","Breast","Female",422,61
+"1385",2013,"Alaska","Liver","Male",49,30
+"1386",2013,"Arizona","Breast","Female",4591,839
+"1387",2013,"Arizona","Larynx","Female",34,0
+"1388",2013,"Arizona","Larynx","Male",161,41
+"1389",2013,"Arizona","Liver","Female",163,136
+"1390",2013,"Arizona","Liver","Male",441,302
+"1391",2013,"Arizona","Myeloma","Female",182,114
+"1392",2013,"Arizona","Myeloma","Male",221,120
+"1393",2013,"Arkansas","Breast","Female",2201,400
+"1394",2013,"Arkansas","Larynx","Male",122,26
+"1395",2013,"Arkansas","Liver","Female",67,60
+"1396",2013,"Arkansas","Liver","Male",161,138
+"1397",2013,"Arkansas","Myeloma","Female",110,56
+"1398",2013,"Arkansas","Myeloma","Male",120,62
+"1399",2013,"California","Breast","Female",25879,4371
+"1400",2013,"California","Breast","Male",182,47
+"1401",2013,"California","Larynx","Female",152,53
+"1402",2013,"California","Larynx","Male",695,230
+"1403",2013,"California","Liver","Female",1008,685
+"1404",2013,"California","Liver","Male",2760,1820
+"1405",2013,"California","Myeloma","Female",924,489
+"1406",2013,"California","Myeloma","Male",1328,663
+"1407",2013,"Colorado","Breast","Female",3639,531
+"1408",2013,"Colorado","Larynx","Male",110,23
+"1409",2013,"Colorado","Liver","Female",78,72
+"1410",2013,"Colorado","Liver","Male",271,170
+"1411",2013,"Colorado","Myeloma","Female",127,71
+"1412",2013,"Colorado","Myeloma","Male",215,104
+"1413",2013,"Connecticut","Breast","Female",3189,454
+"1414",2013,"Connecticut","Larynx","Male",119,30
+"1415",2013,"Connecticut","Liver","Female",90,46
+"1416",2013,"Connecticut","Liver","Male",218,112
+"1417",2013,"Connecticut","Myeloma","Female",147,71
+"1418",2013,"Connecticut","Myeloma","Male",193,69
+"1419",2013,"Delaware","Breast","Female",877,131
+"1420",2013,"Delaware","Liver","Female",39,25
+"1421",2013,"Delaware","Liver","Male",71,44
+"1422",2013,"Delaware","Myeloma","Female",42,16
+"1423",2013,"Delaware","Myeloma","Male",51,21
+"1424",2013,"Florida","Breast","Female",15750,2778
+"1425",2013,"Florida","Breast","Male",141,41
+"1426",2013,"Florida","Larynx","Female",177,46
+"1427",2013,"Florida","Larynx","Male",814,251
+"1428",2013,"Florida","Liver","Female",466,387
+"1429",2013,"Florida","Liver","Male",1333,959
+"1430",2013,"Florida","Myeloma","Female",1036,356
+"1431",2013,"Florida","Myeloma","Male",1317,471
+"1432",2013,"Georgia","Breast","Female",6939,1245
+"1433",2013,"Georgia","Breast","Male",64,0
+"1434",2013,"Georgia","Larynx","Female",62,17
+"1435",2013,"Georgia","Larynx","Male",345,78
+"1436",2013,"Georgia","Liver","Female",163,154
+"1437",2013,"Georgia","Liver","Male",563,374
+"1438",2013,"Georgia","Myeloma","Female",436,179
+"1439",2013,"Georgia","Myeloma","Male",506,195
+"1440",2013,"Hawaii","Breast","Female",1226,138
+"1441",2013,"Hawaii","Larynx","Male",33,20
+"1442",2013,"Hawaii","Liver","Female",44,22
+"1443",2013,"Hawaii","Liver","Male",144,85
+"1444",2013,"Hawaii","Myeloma","Female",50,16
+"1445",2013,"Hawaii","Myeloma","Male",68,27
+"1446",2013,"Idaho","Breast","Female",1086,205
+"1447",2013,"Idaho","Larynx","Female",0,0
+"1448",2013,"Idaho","Larynx","Male",35,0
+"1449",2013,"Idaho","Liver","Female",22,21
+"1450",2013,"Idaho","Liver","Male",70,44
+"1451",2013,"Idaho","Myeloma","Female",45,26
+"1452",2013,"Idaho","Myeloma","Male",54,35
+"1453",2013,"Illinois","Breast","Female",9978,1761
+"1454",2013,"Illinois","Breast","Male",87,22
+"1455",2013,"Illinois","Larynx","Female",103,23
+"1456",2013,"Illinois","Larynx","Male",426,158
+"1457",2013,"Illinois","Liver","Female",240,205
+"1458",2013,"Illinois","Liver","Male",668,473
+"1459",2013,"Illinois","Myeloma","Female",434,221
+"1460",2013,"Illinois","Myeloma","Male",482,248
+"1461",2013,"Indiana","Breast","Female",4790,887
+"1462",2013,"Indiana","Breast","Male",47,0
+"1463",2013,"Indiana","Larynx","Female",63,0
+"1464",2013,"Indiana","Larynx","Male",257,65
+"1465",2013,"Indiana","Liver","Female",117,98
+"1466",2013,"Indiana","Liver","Male",344,249
+"1467",2013,"Indiana","Myeloma","Female",242,126
+"1468",2013,"Indiana","Myeloma","Male",287,150
+"1469",2013,"Iowa","Breast","Female",2237,385
+"1470",2013,"Iowa","Larynx","Male",117,32
+"1471",2013,"Iowa","Liver","Female",52,27
+"1472",2013,"Iowa","Liver","Male",155,105
+"1473",2013,"Iowa","Myeloma","Female",116,58
+"1474",2013,"Iowa","Myeloma","Male",149,69
+"1475",2013,"Kansas","Breast","Female",1966,334
+"1476",2013,"Kansas","Larynx","Male",94,24
+"1477",2013,"Kansas","Liver","Female",53,51
+"1478",2013,"Kansas","Liver","Male",139,103
+"1479",2013,"Kansas","Myeloma","Female",98,50
+"1480",2013,"Kansas","Myeloma","Male",127,70
+"1481",2013,"Kentucky","Breast","Female",3364,585
+"1482",2013,"Kentucky","Larynx","Female",58,0
+"1483",2013,"Kentucky","Larynx","Male",233,65
+"1484",2013,"Kentucky","Liver","Female",109,70
+"1485",2013,"Kentucky","Liver","Male",286,174
+"1486",2013,"Kentucky","Myeloma","Female",157,69
+"1487",2013,"Kentucky","Myeloma","Male",226,91
+"1488",2013,"Louisiana","Breast","Female",3360,652
+"1489",2013,"Louisiana","Larynx","Female",58,0
+"1490",2013,"Louisiana","Larynx","Male",204,61
+"1491",2013,"Louisiana","Liver","Female",98,119
+"1492",2013,"Louisiana","Liver","Male",357,276
+"1493",2013,"Louisiana","Myeloma","Female",186,94
+"1494",2013,"Louisiana","Myeloma","Male",225,108
+"1495",2013,"Maine","Breast","Female",1172,186
+"1496",2013,"Maine","Larynx","Male",52,22
+"1497",2013,"Maine","Liver","Female",17,0
+"1498",2013,"Maine","Liver","Male",76,50
+"1499",2013,"Maine","Myeloma","Female",53,25
+"1500",2013,"Maine","Myeloma","Male",67,25
+"1501",2013,"Maryland","Breast","Female",4869,783
+"1502",2013,"Maryland","Breast","Male",67,0
+"1503",2013,"Maryland","Larynx","Female",41,19
+"1504",2013,"Maryland","Larynx","Male",184,50
+"1505",2013,"Maryland","Liver","Female",137,104
+"1506",2013,"Maryland","Liver","Male",397,258
+"1507",2013,"Maryland","Myeloma","Female",236,125
+"1508",2013,"Maryland","Myeloma","Male",243,106
+"1509",2013,"Massachusetts","Breast","Female",5755,832
+"1510",2013,"Massachusetts","Breast","Male",52,0
+"1511",2013,"Massachusetts","Larynx","Female",56,18
+"1512",2013,"Massachusetts","Larynx","Male",233,52
+"1513",2013,"Massachusetts","Liver","Female",138,102
+"1514",2013,"Massachusetts","Liver","Male",423,317
+"1515",2013,"Massachusetts","Myeloma","Female",247,128
+"1516",2013,"Massachusetts","Myeloma","Male",313,117
+"1517",2013,"Michigan","Breast","Female",7824,1382
+"1518",2013,"Michigan","Breast","Male",91,0
+"1519",2013,"Michigan","Larynx","Female",92,38
+"1520",2013,"Michigan","Larynx","Male",368,120
+"1521",2013,"Michigan","Liver","Female",205,160
+"1522",2013,"Michigan","Liver","Male",569,406
+"1523",2013,"Michigan","Myeloma","Female",360,156
+"1524",2013,"Michigan","Myeloma","Male",420,232
+"1525",2013,"Minnesota","Breast","Female",4024,665
+"1526",2013,"Minnesota","Larynx","Female",38,0
+"1527",2013,"Minnesota","Larynx","Male",146,26
+"1528",2013,"Minnesota","Liver","Female",86,42
+"1529",2013,"Minnesota","Liver","Male",286,157
+"1530",2013,"Minnesota","Myeloma","Female",176,89
+"1531",2013,"Minnesota","Myeloma","Male",251,109
+"1532",2013,"Mississippi","Breast","Female",2021,418
+"1533",2013,"Mississippi","Larynx","Male",164,30
+"1534",2013,"Mississippi","Liver","Female",62,67
+"1535",2013,"Mississippi","Liver","Male",198,157
+"1536",2013,"Mississippi","Myeloma","Female",107,68
+"1537",2013,"Mississippi","Myeloma","Male",124,77
+"1538",2013,"Missouri","Breast","Female",4695,858
+"1539",2013,"Missouri","Larynx","Female",57,20
+"1540",2013,"Missouri","Larynx","Male",250,65
+"1541",2013,"Missouri","Liver","Female",100,95
+"1542",2013,"Missouri","Liver","Male",384,268
+"1543",2013,"Missouri","Myeloma","Female",199,121
+"1544",2013,"Missouri","Myeloma","Male",277,125
+"1545",2013,"Montana","Breast","Female",737,137
+"1546",2013,"Montana","Liver","Female",20,0
+"1547",2013,"Montana","Liver","Male",53,36
+"1548",2013,"Montana","Myeloma","Female",38,22
+"1549",2013,"Montana","Myeloma","Male",53,32
+"1550",2013,"Nebraska","Breast","Female",1330,245
+"1551",2013,"Nebraska","Larynx","Male",44,23
+"1552",2013,"Nebraska","Liver","Female",25,17
+"1553",2013,"Nebraska","Liver","Male",77,56
+"1554",2013,"Nebraska","Myeloma","Female",53,31
+"1555",2013,"Nebraska","Myeloma","Male",72,39
+"1556",2013,"Nevada","Breast","Female",1786,352
+"1557",2013,"Nevada","Larynx","Female",0,0
+"1558",2013,"Nevada","Larynx","Male",55,0
+"1559",2013,"Nevada","Liver","Female",64,51
+"1560",2013,"Nevada","Liver","Male",155,107
+"1561",2013,"Nevada","Myeloma","Female",58,36
+"1562",2013,"Nevada","Myeloma","Male",82,44
+"1563",2013,"New Hampshire","Breast","Female",1288,176
+"1564",2013,"New Hampshire","Breast","Male",0,0
+"1565",2013,"New Hampshire","Larynx","Female",0,0
+"1566",2013,"New Hampshire","Larynx","Male",48,0
+"1567",2013,"New Hampshire","Liver","Female",18,0
+"1568",2013,"New Hampshire","Liver","Male",73,55
+"1569",2013,"New Hampshire","Myeloma","Female",46,23
+"1570",2013,"New Hampshire","Myeloma","Male",62,27
+"1571",2013,"New Jersey","Breast","Female",7563,1356
+"1572",2013,"New Jersey","Breast","Male",70,0
+"1573",2013,"New Jersey","Larynx","Female",60,26
+"1574",2013,"New Jersey","Larynx","Male",292,104
+"1575",2013,"New Jersey","Liver","Female",177,134
+"1576",2013,"New Jersey","Liver","Male",537,300
+"1577",2013,"New Jersey","Myeloma","Female",351,143
+"1578",2013,"New Jersey","Myeloma","Male",398,177
+"1579",2013,"New Mexico","Breast","Female",1456,224
+"1580",2013,"New Mexico","Breast","Male",0,0
+"1581",2013,"New Mexico","Larynx","Male",64,0
+"1582",2013,"New Mexico","Liver","Female",69,42
+"1583",2013,"New Mexico","Liver","Male",192,128
+"1584",2013,"New Mexico","Myeloma","Female",63,27
+"1585",2013,"New Mexico","Myeloma","Male",84,39
+"1586",2013,"New York","Breast","Female",15887,2632
+"1587",2013,"New York","Breast","Male",152,32
+"1588",2013,"New York","Larynx","Female",157,51
+"1589",2013,"New York","Larynx","Male",643,223
+"1590",2013,"New York","Liver","Female",493,286
+"1591",2013,"New York","Liver","Male",1355,807
+"1592",2013,"New York","Myeloma","Female",869,312
+"1593",2013,"New York","Myeloma","Male",1042,369
+"1594",2013,"North Carolina","Breast","Female",7846,1254
+"1595",2013,"North Carolina","Breast","Male",54,0
+"1596",2013,"North Carolina","Larynx","Female",115,28
+"1597",2013,"North Carolina","Larynx","Male",356,103
+"1598",2013,"North Carolina","Liver","Female",188,127
+"1599",2013,"North Carolina","Liver","Male",647,445
+"1600",2013,"North Carolina","Myeloma","Female",434,208
+"1601",2013,"North Carolina","Myeloma","Male",441,181
+"1602",2013,"North Dakota","Breast","Female",500,79
+"1603",2013,"North Dakota","Liver","Male",18,0
+"1604",2013,"North Dakota","Myeloma","Female",0,16
+"1605",2013,"North Dakota","Myeloma","Male",26,18
+"1606",2013,"Ohio","Breast","Female",9284,1780
+"1607",2013,"Ohio","Breast","Male",65,16
+"1608",2013,"Ohio","Larynx","Female",151,46
+"1609",2013,"Ohio","Larynx","Male",494,123
+"1610",2013,"Ohio","Liver","Female",228,162
+"1611",2013,"Ohio","Liver","Male",616,437
+"1612",2013,"Ohio","Myeloma","Female",397,243
+"1613",2013,"Ohio","Myeloma","Male",499,271
+"1614",2013,"Oklahoma","Breast","Female",2641,542
+"1615",2013,"Oklahoma","Larynx","Female",33,0
+"1616",2013,"Oklahoma","Larynx","Male",130,31
+"1617",2013,"Oklahoma","Liver","Female",88,63
+"1618",2013,"Oklahoma","Liver","Male",250,186
+"1619",2013,"Oklahoma","Myeloma","Female",125,58
+"1620",2013,"Oklahoma","Myeloma","Male",139,76
+"1621",2013,"Oregon","Breast","Female",3220,519
+"1622",2013,"Oregon","Breast","Male",34,0
+"1623",2013,"Oregon","Larynx","Male",107,31
+"1624",2013,"Oregon","Liver","Female",84,75
+"1625",2013,"Oregon","Liver","Male",297,185
+"1626",2013,"Oregon","Myeloma","Female",101,73
+"1627",2013,"Oregon","Myeloma","Male",177,105
+"1628",2013,"Pennsylvania","Breast","Female",11104,2001
+"1629",2013,"Pennsylvania","Breast","Male",124,19
+"1630",2013,"Pennsylvania","Larynx","Female",145,46
+"1631",2013,"Pennsylvania","Larynx","Male",473,148
+"1632",2013,"Pennsylvania","Liver","Female",297,192
+"1633",2013,"Pennsylvania","Liver","Male",902,534
+"1634",2013,"Pennsylvania","Myeloma","Female",488,263
+"1635",2013,"Pennsylvania","Myeloma","Male",628,294
+"1636",2013,"Puerto Rico","Breast","Female",2227,416
+"1637",2013,"Puerto Rico","Larynx","Male",137,30
+"1638",2013,"Puerto Rico","Liver","Female",109,91
+"1639",2013,"Puerto Rico","Liver","Male",255,180
+"1640",2013,"Puerto Rico","Myeloma","Female",151,51
+"1641",2013,"Puerto Rico","Myeloma","Male",152,75
+"1642",2013,"Rhode Island","Breast","Female",928,143
+"1643",2013,"Rhode Island","Larynx","Female",0,0
+"1644",2013,"Rhode Island","Larynx","Male",44,0
+"1645",2013,"Rhode Island","Liver","Female",26,0
+"1646",2013,"Rhode Island","Liver","Male",70,47
+"1647",2013,"Rhode Island","Myeloma","Female",31,17
+"1648",2013,"Rhode Island","Myeloma","Male",36,20
+"1649",2013,"South Carolina","Breast","Female",3897,638
+"1650",2013,"South Carolina","Larynx","Female",44,0
+"1651",2013,"South Carolina","Larynx","Male",206,71
+"1652",2013,"South Carolina","Liver","Female",92,57
+"1653",2013,"South Carolina","Liver","Male",266,187
+"1654",2013,"South Carolina","Myeloma","Female",220,112
+"1655",2013,"South Carolina","Myeloma","Male",254,128
+"1656",2013,"South Dakota","Breast","Female",726,110
+"1657",2013,"South Dakota","Liver","Male",41,19
+"1658",2013,"South Dakota","Myeloma","Female",26,0
+"1659",2013,"South Dakota","Myeloma","Male",45,21
+"1660",2013,"Tennessee","Breast","Female",5128,928
+"1661",2013,"Tennessee","Breast","Male",41,0
+"1662",2013,"Tennessee","Larynx","Female",99,24
+"1663",2013,"Tennessee","Larynx","Male",280,86
+"1664",2013,"Tennessee","Liver","Female",132,110
+"1665",2013,"Tennessee","Liver","Male",452,288
+"1666",2013,"Tennessee","Myeloma","Female",240,150
+"1667",2013,"Tennessee","Myeloma","Male",305,135
+"1668",2013,"Texas","Breast","Female",15387,2746
+"1669",2013,"Texas","Breast","Male",122,27
+"1670",2013,"Texas","Larynx","Female",151,48
+"1671",2013,"Texas","Larynx","Male",698,230
+"1672",2013,"Texas","Liver","Female",707,448
+"1673",2013,"Texas","Liver","Male",2085,1246
+"1674",2013,"Texas","Myeloma","Female",803,366
+"1675",2013,"Texas","Myeloma","Male",1006,427
+"1676",2013,"Utah","Breast","Female",1391,255
+"1677",2013,"Utah","Liver","Female",35,34
+"1678",2013,"Utah","Liver","Male",95,57
+"1679",2013,"Utah","Myeloma","Female",59,37
+"1680",2013,"Utah","Myeloma","Male",65,49
+"1681",2013,"Vermont","Breast","Female",527,79
+"1682",2013,"Vermont","Liver","Male",35,0
+"1683",2013,"Vermont","Myeloma","Female",18,0
+"1684",2013,"Vermont","Myeloma","Male",30,24
+"1685",2013,"Virginia","Breast","Female",6338,1049
+"1686",2013,"Virginia","Breast","Male",65,19
+"1687",2013,"Virginia","Larynx","Female",71,18
+"1688",2013,"Virginia","Larynx","Male",253,70
+"1689",2013,"Virginia","Liver","Female",134,93
+"1690",2013,"Virginia","Liver","Male",408,307
+"1691",2013,"Virginia","Myeloma","Female",230,141
+"1692",2013,"Virginia","Myeloma","Male",324,164
+"1693",2013,"Washington DC","Breast","Female",484,108
+"1694",2013,"Washington DC","Liver","Female",19,21
+"1695",2013,"Washington DC","Liver","Male",53,36
+"1696",2013,"Washington DC","Myeloma","Female",31,0
+"1697",2013,"Washington DC","Myeloma","Male",20,0
+"1698",2013,"Washington","Breast","Female",5499,854
+"1699",2013,"Washington","Larynx","Female",45,0
+"1700",2013,"Washington","Larynx","Male",149,54
+"1701",2013,"Washington","Liver","Female",171,110
+"1702",2013,"Washington","Liver","Male",494,289
+"1703",2013,"Washington","Myeloma","Female",194,111
+"1704",2013,"Washington","Myeloma","Male",262,117
+"1705",2013,"West Virginia","Breast","Female",1488,277
+"1706",2013,"West Virginia","Larynx","Male",100,33
+"1707",2013,"West Virginia","Liver","Female",32,19
+"1708",2013,"West Virginia","Liver","Male",134,69
+"1709",2013,"West Virginia","Myeloma","Female",67,44
+"1710",2013,"West Virginia","Myeloma","Male",98,57
+"1711",2013,"Wisconsin","Breast","Female",4589,762
+"1712",2013,"Wisconsin","Larynx","Female",46,0
+"1713",2013,"Wisconsin","Larynx","Male",202,36
+"1714",2013,"Wisconsin","Liver","Female",97,67
+"1715",2013,"Wisconsin","Liver","Male",296,177
+"1716",2013,"Wisconsin","Myeloma","Female",230,93
+"1717",2013,"Wisconsin","Myeloma","Male",282,136
+"1718",2013,"Wyoming","Breast","Female",354,72
+"1719",2013,"Wyoming","Liver","Male",25,20
+"1720",2013,"Wyoming","Myeloma","Female",0,0
+"1721",2014,"Alabama","Breast","Female",3727,666
+"1722",2014,"Alabama","Larynx","Female",55,0
+"1723",2014,"Alabama","Larynx","Male",205,54
+"1724",2014,"Alabama","Liver","Female",101,116
+"1725",2014,"Alabama","Liver","Male",298,250
+"1726",2014,"Alabama","Myeloma","Female",193,85
+"1727",2014,"Alabama","Myeloma","Male",226,119
+"1728",2014,"Alaska","Breast","Female",453,74
+"1729",2014,"Alaska","Liver","Male",47,37
+"1730",2014,"Arizona","Breast","Female",4757,793
+"1731",2014,"Arizona","Larynx","Female",30,0
+"1732",2014,"Arizona","Larynx","Male",152,49
+"1733",2014,"Arizona","Liver","Female",172,128
+"1734",2014,"Arizona","Liver","Male",456,319
+"1735",2014,"Arizona","Myeloma","Female",175,95
+"1736",2014,"Arizona","Myeloma","Male",254,140
+"1737",2014,"Arkansas","Breast","Female",2148,424
+"1738",2014,"Arkansas","Larynx","Male",122,28
+"1739",2014,"Arkansas","Liver","Female",59,65
+"1740",2014,"Arkansas","Liver","Male",181,139
+"1741",2014,"Arkansas","Myeloma","Female",117,63
+"1742",2014,"Arkansas","Myeloma","Male",136,81
+"1743",2014,"California","Breast","Female",25951,4451
+"1744",2014,"California","Breast","Male",186,33
+"1745",2014,"California","Larynx","Female",129,51
+"1746",2014,"California","Larynx","Male",663,216
+"1747",2014,"California","Liver","Female",1110,746
+"1748",2014,"California","Liver","Male",2913,1713
+"1749",2014,"California","Myeloma","Female",1083,542
+"1750",2014,"California","Myeloma","Male",1432,648
+"1751",2014,"Colorado","Breast","Female",3744,554
+"1752",2014,"Colorado","Larynx","Male",121,31
+"1753",2014,"Colorado","Liver","Female",103,58
+"1754",2014,"Colorado","Liver","Male",334,154
+"1755",2014,"Colorado","Myeloma","Female",128,69
+"1756",2014,"Colorado","Myeloma","Male",218,77
+"1757",2014,"Connecticut","Breast","Female",3288,439
+"1758",2014,"Connecticut","Larynx","Male",130,24
+"1759",2014,"Connecticut","Liver","Female",69,44
+"1760",2014,"Connecticut","Liver","Male",251,126
+"1761",2014,"Connecticut","Myeloma","Female",128,78
+"1762",2014,"Connecticut","Myeloma","Male",182,71
+"1763",2014,"Delaware","Breast","Female",851,134
+"1764",2014,"Delaware","Liver","Female",16,16
+"1765",2014,"Delaware","Liver","Male",77,46
+"1766",2014,"Delaware","Myeloma","Female",39,19
+"1767",2014,"Delaware","Myeloma","Male",43,24
+"1768",2014,"Florida","Breast","Female",16175,2904
+"1769",2014,"Florida","Breast","Male",147,27
+"1770",2014,"Florida","Larynx","Female",201,49
+"1771",2014,"Florida","Larynx","Male",877,291
+"1772",2014,"Florida","Liver","Female",473,394
+"1773",2014,"Florida","Liver","Male",1501,986
+"1774",2014,"Florida","Myeloma","Female",991,380
+"1775",2014,"Florida","Myeloma","Male",1316,455
+"1776",2014,"Georgia","Breast","Female",7226,1286
+"1777",2014,"Georgia","Breast","Male",67,0
+"1778",2014,"Georgia","Larynx","Female",72,19
+"1779",2014,"Georgia","Larynx","Male",312,83
+"1780",2014,"Georgia","Liver","Female",199,156
+"1781",2014,"Georgia","Liver","Male",578,407
+"1782",2014,"Georgia","Myeloma","Female",406,179
+"1783",2014,"Georgia","Myeloma","Male",454,193
+"1784",2014,"Hawaii","Breast","Female",1181,158
+"1785",2014,"Hawaii","Larynx","Male",29,0
+"1786",2014,"Hawaii","Liver","Female",52,39
+"1787",2014,"Hawaii","Liver","Male",120,91
+"1788",2014,"Hawaii","Myeloma","Female",37,22
+"1789",2014,"Hawaii","Myeloma","Male",48,31
+"1790",2014,"Idaho","Breast","Female",1158,191
+"1791",2014,"Idaho","Larynx","Female",0,0
+"1792",2014,"Idaho","Larynx","Male",35,0
+"1793",2014,"Idaho","Liver","Female",36,17
+"1794",2014,"Idaho","Liver","Male",97,58
+"1795",2014,"Idaho","Myeloma","Female",49,22
+"1796",2014,"Idaho","Myeloma","Male",62,28
+"1797",2014,"Illinois","Breast","Female",10274,1756
+"1798",2014,"Illinois","Breast","Male",86,0
+"1799",2014,"Illinois","Larynx","Female",125,40
+"1800",2014,"Illinois","Larynx","Male",443,132
+"1801",2014,"Illinois","Liver","Female",254,201
+"1802",2014,"Illinois","Liver","Male",751,485
+"1803",2014,"Illinois","Myeloma","Female",431,214
+"1804",2014,"Illinois","Myeloma","Male",523,268
+"1805",2014,"Indiana","Breast","Female",4951,863
+"1806",2014,"Indiana","Breast","Male",42,0
+"1807",2014,"Indiana","Larynx","Female",73,0
+"1808",2014,"Indiana","Larynx","Male",236,61
+"1809",2014,"Indiana","Liver","Female",126,95
+"1810",2014,"Indiana","Liver","Male",380,266
+"1811",2014,"Indiana","Myeloma","Female",222,111
+"1812",2014,"Indiana","Myeloma","Male",305,140
+"1813",2014,"Iowa","Breast","Female",2402,398
+"1814",2014,"Iowa","Larynx","Male",122,37
+"1815",2014,"Iowa","Liver","Female",56,34
+"1816",2014,"Iowa","Liver","Male",147,107
+"1817",2014,"Iowa","Myeloma","Female",115,68
+"1818",2014,"Iowa","Myeloma","Male",169,71
+"1819",2014,"Kansas","Breast","Female",2116,357
+"1820",2014,"Kansas","Larynx","Male",72,25
+"1821",2014,"Kansas","Liver","Female",43,35
+"1822",2014,"Kansas","Liver","Male",140,100
+"1823",2014,"Kansas","Myeloma","Female",117,64
+"1824",2014,"Kansas","Myeloma","Male",136,60
+"1825",2014,"Kentucky","Breast","Female",3509,579
+"1826",2014,"Kentucky","Larynx","Female",91,21
+"1827",2014,"Kentucky","Larynx","Male",216,68
+"1828",2014,"Kentucky","Liver","Female",108,86
+"1829",2014,"Kentucky","Liver","Male",321,179
+"1830",2014,"Kentucky","Myeloma","Female",151,74
+"1831",2014,"Kentucky","Myeloma","Male",213,107
+"1832",2014,"Louisiana","Breast","Female",3376,671
+"1833",2014,"Louisiana","Larynx","Female",56,0
+"1834",2014,"Louisiana","Larynx","Male",224,70
+"1835",2014,"Louisiana","Liver","Female",101,118
+"1836",2014,"Louisiana","Liver","Male",421,324
+"1837",2014,"Louisiana","Myeloma","Female",165,86
+"1838",2014,"Louisiana","Myeloma","Male",234,97
+"1839",2014,"Maine","Breast","Female",1216,173
+"1840",2014,"Maine","Larynx","Male",65,17
+"1841",2014,"Maine","Liver","Female",17,0
+"1842",2014,"Maine","Liver","Male",78,50
+"1843",2014,"Maine","Myeloma","Female",66,24
+"1844",2014,"Maine","Myeloma","Male",57,36
+"1845",2014,"Maryland","Breast","Female",4876,862
+"1846",2014,"Maryland","Breast","Male",45,0
+"1847",2014,"Maryland","Larynx","Female",46,17
+"1848",2014,"Maryland","Larynx","Male",162,57
+"1849",2014,"Maryland","Liver","Female",124,97
+"1850",2014,"Maryland","Liver","Male",415,265
+"1851",2014,"Maryland","Myeloma","Female",243,122
+"1852",2014,"Maryland","Myeloma","Male",283,155
+"1853",2014,"Massachusetts","Breast","Female",5888,818
+"1854",2014,"Massachusetts","Breast","Male",50,0
+"1855",2014,"Massachusetts","Larynx","Female",58,0
+"1856",2014,"Massachusetts","Larynx","Male",210,55
+"1857",2014,"Massachusetts","Liver","Female",127,93
+"1858",2014,"Massachusetts","Liver","Male",437,286
+"1859",2014,"Massachusetts","Myeloma","Female",229,126
+"1860",2014,"Massachusetts","Myeloma","Male",273,144
+"1861",2014,"Michigan","Breast","Female",7498,1470
+"1862",2014,"Michigan","Breast","Male",89,22
+"1863",2014,"Michigan","Larynx","Female",114,32
+"1864",2014,"Michigan","Larynx","Male",340,111
+"1865",2014,"Michigan","Liver","Female",207,191
+"1866",2014,"Michigan","Liver","Male",584,419
+"1867",2014,"Michigan","Myeloma","Female",361,217
+"1868",2014,"Michigan","Myeloma","Male",459,244
+"1869",2014,"Minnesota","Breast","Female",4221,592
+"1870",2014,"Minnesota","Larynx","Female",37,0
+"1871",2014,"Minnesota","Larynx","Male",155,42
+"1872",2014,"Minnesota","Liver","Female",85,55
+"1873",2014,"Minnesota","Liver","Male",267,154
+"1874",2014,"Minnesota","Myeloma","Female",196,117
+"1875",2014,"Minnesota","Myeloma","Male",242,108
+"1876",2014,"Mississippi","Breast","Female",2071,439
+"1877",2014,"Mississippi","Larynx","Male",134,37
+"1878",2014,"Mississippi","Liver","Female",67,80
+"1879",2014,"Mississippi","Liver","Male",201,151
+"1880",2014,"Mississippi","Myeloma","Female",110,61
+"1881",2014,"Mississippi","Myeloma","Male",157,69
+"1882",2014,"Missouri","Breast","Female",4913,882
+"1883",2014,"Missouri","Larynx","Female",69,0
+"1884",2014,"Missouri","Larynx","Male",224,83
+"1885",2014,"Missouri","Liver","Female",123,92
+"1886",2014,"Missouri","Liver","Male",374,261
+"1887",2014,"Missouri","Myeloma","Female",199,108
+"1888",2014,"Missouri","Myeloma","Male",287,139
+"1889",2014,"Montana","Breast","Female",844,134
+"1890",2014,"Montana","Liver","Female",16,16
+"1891",2014,"Montana","Liver","Male",66,35
+"1892",2014,"Montana","Myeloma","Female",33,21
+"1893",2014,"Montana","Myeloma","Male",55,17
+"1894",2014,"Nebraska","Breast","Female",1386,251
+"1895",2014,"Nebraska","Larynx","Male",45,27
+"1896",2014,"Nebraska","Liver","Female",22,17
+"1897",2014,"Nebraska","Liver","Male",67,50
+"1898",2014,"Nebraska","Myeloma","Female",59,22
+"1899",2014,"Nebraska","Myeloma","Male",86,45
+"1900",2014,"Nevada","Breast","Female",1797,351
+"1901",2014,"Nevada","Larynx","Female",16,0
+"1902",2014,"Nevada","Larynx","Male",68,21
+"1903",2014,"Nevada","Liver","Female",58,55
+"1904",2014,"Nevada","Liver","Male",149,106
+"1905",2014,"Nevada","Myeloma","Female",75,31
+"1906",2014,"Nevada","Myeloma","Male",95,64
+"1907",2014,"New Hampshire","Breast","Female",1280,194
+"1908",2014,"New Hampshire","Breast","Male",17,0
+"1909",2014,"New Hampshire","Larynx","Female",0,0
+"1910",2014,"New Hampshire","Larynx","Male",41,0
+"1911",2014,"New Hampshire","Liver","Female",18,0
+"1912",2014,"New Hampshire","Liver","Male",70,37
+"1913",2014,"New Hampshire","Myeloma","Female",56,21
+"1914",2014,"New Hampshire","Myeloma","Male",50,25
+"1915",2014,"New Jersey","Breast","Female",7592,1280
+"1916",2014,"New Jersey","Breast","Male",81,17
+"1917",2014,"New Jersey","Larynx","Female",70,0
+"1918",2014,"New Jersey","Larynx","Male",267,77
+"1919",2014,"New Jersey","Liver","Female",185,129
+"1920",2014,"New Jersey","Liver","Male",549,357
+"1921",2014,"New Jersey","Myeloma","Female",350,148
+"1922",2014,"New Jersey","Myeloma","Male",421,175
+"1923",2014,"New Mexico","Breast","Female",1397,246
+"1924",2014,"New Mexico","Breast","Male",0,0
+"1925",2014,"New Mexico","Larynx","Male",46,17
+"1926",2014,"New Mexico","Liver","Female",52,42
+"1927",2014,"New Mexico","Liver","Male",179,119
+"1928",2014,"New Mexico","Myeloma","Female",51,31
+"1929",2014,"New Mexico","Myeloma","Male",73,42
+"1930",2014,"New York","Breast","Female",16228,2500
+"1931",2014,"New York","Breast","Male",137,38
+"1932",2014,"New York","Larynx","Female",168,47
+"1933",2014,"New York","Larynx","Male",611,204
+"1934",2014,"New York","Liver","Female",474,288
+"1935",2014,"New York","Liver","Male",1420,763
+"1936",2014,"New York","Myeloma","Female",927,344
+"1937",2014,"New York","Myeloma","Male",1107,381
+"1938",2014,"North Carolina","Breast","Female",8277,1311
+"1939",2014,"North Carolina","Breast","Male",76,23
+"1940",2014,"North Carolina","Larynx","Female",102,47
+"1941",2014,"North Carolina","Larynx","Male",383,92
+"1942",2014,"North Carolina","Liver","Female",199,139
+"1943",2014,"North Carolina","Liver","Male",659,445
+"1944",2014,"North Carolina","Myeloma","Female",413,226
+"1945",2014,"North Carolina","Myeloma","Male",526,236
+"1946",2014,"North Dakota","Breast","Female",462,66
+"1947",2014,"North Dakota","Liver","Male",26,16
+"1948",2014,"North Dakota","Myeloma","Female",22,0
+"1949",2014,"North Dakota","Myeloma","Male",35,22
+"1950",2014,"Ohio","Breast","Female",9440,1756
+"1951",2014,"Ohio","Breast","Male",80,17
+"1952",2014,"Ohio","Larynx","Female",116,41
+"1953",2014,"Ohio","Larynx","Male",470,156
+"1954",2014,"Ohio","Liver","Female",245,177
+"1955",2014,"Ohio","Liver","Male",621,417
+"1956",2014,"Ohio","Myeloma","Female",390,249
+"1957",2014,"Ohio","Myeloma","Male",494,284
+"1958",2014,"Oklahoma","Breast","Female",2760,520
+"1959",2014,"Oklahoma","Larynx","Female",45,0
+"1960",2014,"Oklahoma","Larynx","Male",144,35
+"1961",2014,"Oklahoma","Liver","Female",112,85
+"1962",2014,"Oklahoma","Liver","Male",283,183
+"1963",2014,"Oklahoma","Myeloma","Female",116,63
+"1964",2014,"Oklahoma","Myeloma","Male",142,83
+"1965",2014,"Oregon","Breast","Female",3152,539
+"1966",2014,"Oregon","Breast","Male",19,0
+"1967",2014,"Oregon","Larynx","Male",103,29
+"1968",2014,"Oregon","Liver","Female",101,58
+"1969",2014,"Oregon","Liver","Male",329,181
+"1970",2014,"Oregon","Myeloma","Female",141,79
+"1971",2014,"Oregon","Myeloma","Male",147,94
+"1972",2014,"Pennsylvania","Breast","Female",11171,1931
+"1973",2014,"Pennsylvania","Breast","Male",101,20
+"1974",2014,"Pennsylvania","Larynx","Female",138,32
+"1975",2014,"Pennsylvania","Larynx","Male",498,153
+"1976",2014,"Pennsylvania","Liver","Female",278,201
+"1977",2014,"Pennsylvania","Liver","Male",954,590
+"1978",2014,"Pennsylvania","Myeloma","Female",526,238
+"1979",2014,"Pennsylvania","Myeloma","Male",664,295
+"1980",2014,"Puerto Rico","Breast","Female",2083,458
+"1981",2014,"Puerto Rico","Larynx","Male",125,39
+"1982",2014,"Puerto Rico","Liver","Female",104,95
+"1983",2014,"Puerto Rico","Liver","Male",242,172
+"1984",2014,"Puerto Rico","Myeloma","Female",135,77
+"1985",2014,"Puerto Rico","Myeloma","Male",154,69
+"1986",2014,"Rhode Island","Breast","Female",920,132
+"1987",2014,"Rhode Island","Larynx","Female",0,0
+"1988",2014,"Rhode Island","Larynx","Male",34,17
+"1989",2014,"Rhode Island","Liver","Female",22,0
+"1990",2014,"Rhode Island","Liver","Male",76,53
+"1991",2014,"Rhode Island","Myeloma","Female",29,22
+"1992",2014,"Rhode Island","Myeloma","Male",45,17
+"1993",2014,"South Carolina","Breast","Female",3915,725
+"1994",2014,"South Carolina","Larynx","Female",48,0
+"1995",2014,"South Carolina","Larynx","Male",218,58
+"1996",2014,"South Carolina","Liver","Female",88,79
+"1997",2014,"South Carolina","Liver","Male",371,233
+"1998",2014,"South Carolina","Myeloma","Female",240,130
+"1999",2014,"South Carolina","Myeloma","Male",284,125
+"2000",2014,"South Dakota","Breast","Female",620,102
+"2001",2014,"South Dakota","Liver","Male",31,31
+"2002",2014,"South Dakota","Myeloma","Female",0,0
+"2003",2014,"South Dakota","Myeloma","Male",41,18
+"2004",2014,"Tennessee","Breast","Female",4873,909
+"2005",2014,"Tennessee","Breast","Male",46,18
+"2006",2014,"Tennessee","Larynx","Female",71,17
+"2007",2014,"Tennessee","Larynx","Male",256,82
+"2008",2014,"Tennessee","Liver","Female",149,114
+"2009",2014,"Tennessee","Liver","Male",447,326
+"2010",2014,"Tennessee","Myeloma","Female",216,117
+"2011",2014,"Tennessee","Myeloma","Male",268,163
+"2012",2014,"Texas","Breast","Female",15910,2783
+"2013",2014,"Texas","Breast","Male",136,31
+"2014",2014,"Texas","Larynx","Female",137,39
+"2015",2014,"Texas","Larynx","Male",693,192
+"2016",2014,"Texas","Liver","Female",774,480
+"2017",2014,"Texas","Liver","Male",2225,1307
+"2018",2014,"Texas","Myeloma","Female",831,369
+"2019",2014,"Texas","Myeloma","Male",1031,411
+"2020",2014,"Utah","Breast","Female",1533,263
+"2021",2014,"Utah","Liver","Female",37,20
+"2022",2014,"Utah","Liver","Male",105,60
+"2023",2014,"Utah","Myeloma","Female",45,24
+"2024",2014,"Utah","Myeloma","Male",96,37
+"2025",2014,"Vermont","Breast","Female",575,79
+"2026",2014,"Vermont","Liver","Male",33,0
+"2027",2014,"Vermont","Myeloma","Female",18,0
+"2028",2014,"Vermont","Myeloma","Male",37,16
+"2029",2014,"Virginia","Breast","Female",6554,1145
+"2030",2014,"Virginia","Breast","Male",48,0
+"2031",2014,"Virginia","Larynx","Female",59,0
+"2032",2014,"Virginia","Larynx","Male",247,84
+"2033",2014,"Virginia","Liver","Female",167,99
+"2034",2014,"Virginia","Liver","Male",462,293
+"2035",2014,"Virginia","Myeloma","Female",246,144
+"2036",2014,"Virginia","Myeloma","Male",313,176
+"2037",2014,"Washington DC","Breast","Female",518,103
+"2038",2014,"Washington DC","Liver","Female",17,0
+"2039",2014,"Washington DC","Liver","Male",55,30
+"2040",2014,"Washington DC","Myeloma","Female",24,0
+"2041",2014,"Washington DC","Myeloma","Male",34,0
+"2042",2014,"Washington","Breast","Female",5643,866
+"2043",2014,"Washington","Larynx","Female",41,0
+"2044",2014,"Washington","Larynx","Male",162,56
+"2045",2014,"Washington","Liver","Female",153,103
+"2046",2014,"Washington","Liver","Male",493,304
+"2047",2014,"Washington","Myeloma","Female",216,99
+"2048",2014,"Washington","Myeloma","Male",294,133
+"2049",2014,"West Virginia","Breast","Female",1456,300
+"2050",2014,"West Virginia","Larynx","Male",105,28
+"2051",2014,"West Virginia","Liver","Female",34,37
+"2052",2014,"West Virginia","Liver","Male",116,93
+"2053",2014,"West Virginia","Myeloma","Female",73,41
+"2054",2014,"West Virginia","Myeloma","Male",94,50
+"2055",2014,"Wisconsin","Breast","Female",4544,739
+"2056",2014,"Wisconsin","Larynx","Female",52,0
+"2057",2014,"Wisconsin","Larynx","Male",209,67
+"2058",2014,"Wisconsin","Liver","Female",115,77
+"2059",2014,"Wisconsin","Liver","Male",319,208
+"2060",2014,"Wisconsin","Myeloma","Female",211,113
+"2061",2014,"Wisconsin","Myeloma","Male",312,141
+"2062",2014,"Wyoming","Breast","Female",411,52
+"2063",2014,"Wyoming","Liver","Male",25,19
+"2064",2014,"Wyoming","Myeloma","Female",0,0
+"2065",2015,"Alabama","Breast","Female",3842,729
+"2066",2015,"Alabama","Larynx","Female",57,0
+"2067",2015,"Alabama","Larynx","Male",212,56
+"2068",2015,"Alabama","Liver","Female",116,100
+"2069",2015,"Alabama","Liver","Male",317,256
+"2070",2015,"Alabama","Myeloma","Female",202,84
+"2071",2015,"Alabama","Myeloma","Male",213,113
+"2072",2015,"Alaska","Breast","Female",445,60
+"2073",2015,"Alaska","Liver","Male",42,19
+"2074",2015,"Arizona","Breast","Female",4706,823
+"2075",2015,"Arizona","Larynx","Female",36,0
+"2076",2015,"Arizona","Larynx","Male",137,51
+"2077",2015,"Arizona","Liver","Female",178,139
+"2078",2015,"Arizona","Liver","Male",457,306
+"2079",2015,"Arizona","Myeloma","Female",182,98
+"2080",2015,"Arizona","Myeloma","Male",262,131
+"2081",2015,"Arkansas","Breast","Female",2201,394
+"2082",2015,"Arkansas","Larynx","Male",101,33
+"2083",2015,"Arkansas","Liver","Female",61,69
+"2084",2015,"Arkansas","Liver","Male",179,148
+"2085",2015,"Arkansas","Myeloma","Female",111,52
+"2086",2015,"Arkansas","Myeloma","Male",155,62
+"2087",2015,"California","Breast","Female",27128,4472
+"2088",2015,"California","Breast","Male",212,43
+"2089",2015,"California","Larynx","Female",142,55
+"2090",2015,"California","Larynx","Male",705,220
+"2091",2015,"California","Liver","Female",1048,740
+"2092",2015,"California","Liver","Male",2906,1860
+"2093",2015,"California","Myeloma","Female",1080,546
+"2094",2015,"California","Myeloma","Male",1476,725
+"2095",2015,"Colorado","Breast","Female",3831,582
+"2096",2015,"Colorado","Larynx","Male",107,31
+"2097",2015,"Colorado","Liver","Female",84,59
+"2098",2015,"Colorado","Liver","Male",320,185
+"2099",2015,"Colorado","Myeloma","Female",148,69
+"2100",2015,"Colorado","Myeloma","Male",229,97
+"2101",2015,"Connecticut","Breast","Female",3349,432
+"2102",2015,"Connecticut","Larynx","Male",109,24
+"2103",2015,"Connecticut","Liver","Female",65,35
+"2104",2015,"Connecticut","Liver","Male",285,144
+"2105",2015,"Connecticut","Myeloma","Female",155,61
+"2106",2015,"Connecticut","Myeloma","Male",187,69
+"2107",2015,"Delaware","Breast","Female",849,143
+"2108",2015,"Delaware","Liver","Female",20,0
+"2109",2015,"Delaware","Liver","Male",68,49
+"2110",2015,"Delaware","Myeloma","Female",42,27
+"2111",2015,"Delaware","Myeloma","Male",57,27
+"2112",2015,"Florida","Breast","Female",16777,2856
+"2113",2015,"Florida","Breast","Male",170,34
+"2114",2015,"Florida","Larynx","Female",178,52
+"2115",2015,"Florida","Larynx","Male",858,279
+"2116",2015,"Florida","Liver","Female",555,429
+"2117",2015,"Florida","Liver","Male",1556,1127
+"2118",2015,"Florida","Myeloma","Female",1080,401
+"2119",2015,"Florida","Myeloma","Male",1358,489
+"2120",2015,"Georgia","Breast","Female",7444,1241
+"2121",2015,"Georgia","Breast","Male",66,0
+"2122",2015,"Georgia","Larynx","Female",95,18
+"2123",2015,"Georgia","Larynx","Male",327,77
+"2124",2015,"Georgia","Liver","Female",205,151
+"2125",2015,"Georgia","Liver","Male",599,407
+"2126",2015,"Georgia","Myeloma","Female",412,160
+"2127",2015,"Georgia","Myeloma","Male",479,207
+"2128",2015,"Hawaii","Breast","Female",1186,180
+"2129",2015,"Hawaii","Larynx","Male",32,0
+"2130",2015,"Hawaii","Liver","Female",48,34
+"2131",2015,"Hawaii","Liver","Male",143,75
+"2132",2015,"Hawaii","Myeloma","Female",46,19
+"2133",2015,"Hawaii","Myeloma","Male",54,32
+"2134",2015,"Idaho","Breast","Female",1177,208
+"2135",2015,"Idaho","Larynx","Female",0,0
+"2136",2015,"Idaho","Larynx","Male",36,0
+"2137",2015,"Idaho","Liver","Female",33,19
+"2138",2015,"Idaho","Liver","Male",93,54
+"2139",2015,"Idaho","Myeloma","Female",54,26
+"2140",2015,"Idaho","Myeloma","Male",79,34
+"2141",2015,"Illinois","Breast","Female",10386,1781
+"2142",2015,"Illinois","Breast","Male",76,25
+"2143",2015,"Illinois","Larynx","Female",108,37
+"2144",2015,"Illinois","Larynx","Male",437,124
+"2145",2015,"Illinois","Liver","Female",271,213
+"2146",2015,"Illinois","Liver","Male",770,494
+"2147",2015,"Illinois","Myeloma","Female",467,225
+"2148",2015,"Illinois","Myeloma","Male",536,251
+"2149",2015,"Indiana","Breast","Female",4976,856
+"2150",2015,"Indiana","Breast","Male",31,0
+"2151",2015,"Indiana","Larynx","Female",67,18
+"2152",2015,"Indiana","Larynx","Male",246,65
+"2153",2015,"Indiana","Liver","Female",90,93
+"2154",2015,"Indiana","Liver","Male",372,244
+"2155",2015,"Indiana","Myeloma","Female",234,107
+"2156",2015,"Indiana","Myeloma","Male",289,144
+"2157",2015,"Iowa","Breast","Female",2494,388
+"2158",2015,"Iowa","Larynx","Male",100,33
+"2159",2015,"Iowa","Liver","Female",56,41
+"2160",2015,"Iowa","Liver","Male",152,118
+"2161",2015,"Iowa","Myeloma","Female",119,65
+"2162",2015,"Iowa","Myeloma","Male",154,74
+"2163",2015,"Kansas","Breast","Female",2251,366
+"2164",2015,"Kansas","Larynx","Male",91,29
+"2165",2015,"Kansas","Liver","Female",53,44
+"2166",2015,"Kansas","Liver","Male",155,103
+"2167",2015,"Kansas","Myeloma","Female",88,61
+"2168",2015,"Kansas","Myeloma","Male",123,72
+"2169",2015,"Kentucky","Breast","Female",3535,593
+"2170",2015,"Kentucky","Larynx","Female",70,27
+"2171",2015,"Kentucky","Larynx","Male",211,53
+"2172",2015,"Kentucky","Liver","Female",105,77
+"2173",2015,"Kentucky","Liver","Male",304,215
+"2174",2015,"Kentucky","Myeloma","Female",145,71
+"2175",2015,"Kentucky","Myeloma","Male",222,108
+"2176",2015,"Louisiana","Breast","Female",3545,615
+"2177",2015,"Louisiana","Larynx","Female",67,0
+"2178",2015,"Louisiana","Larynx","Male",204,61
+"2179",2015,"Louisiana","Liver","Female",96,95
+"2180",2015,"Louisiana","Liver","Male",453,315
+"2181",2015,"Louisiana","Myeloma","Female",220,90
+"2182",2015,"Louisiana","Myeloma","Male",242,105
+"2183",2015,"Maine","Breast","Female",1184,210
+"2184",2015,"Maine","Larynx","Male",48,19
+"2185",2015,"Maine","Liver","Female",21,0
+"2186",2015,"Maine","Liver","Male",73,52
+"2187",2015,"Maine","Myeloma","Female",45,40
+"2188",2015,"Maine","Myeloma","Male",65,32
+"2189",2015,"Maryland","Breast","Female",4927,825
+"2190",2015,"Maryland","Breast","Male",46,0
+"2191",2015,"Maryland","Larynx","Female",49,16
+"2192",2015,"Maryland","Larynx","Male",136,70
+"2193",2015,"Maryland","Liver","Female",139,92
+"2194",2015,"Maryland","Liver","Male",388,253
+"2195",2015,"Maryland","Myeloma","Female",280,131
+"2196",2015,"Maryland","Myeloma","Male",272,116
+"2197",2015,"Massachusetts","Breast","Female",5920,818
+"2198",2015,"Massachusetts","Breast","Male",46,0
+"2199",2015,"Massachusetts","Larynx","Female",67,21
+"2200",2015,"Massachusetts","Larynx","Male",204,48
+"2201",2015,"Massachusetts","Liver","Female",117,80
+"2202",2015,"Massachusetts","Liver","Male",465,272
+"2203",2015,"Massachusetts","Myeloma","Female",233,112
+"2204",2015,"Massachusetts","Myeloma","Male",304,134
+"2205",2015,"Michigan","Breast","Female",7753,1378
+"2206",2015,"Michigan","Breast","Male",78,20
+"2207",2015,"Michigan","Larynx","Female",113,39
+"2208",2015,"Michigan","Larynx","Male",394,108
+"2209",2015,"Michigan","Liver","Female",229,169
+"2210",2015,"Michigan","Liver","Male",561,376
+"2211",2015,"Michigan","Myeloma","Female",400,204
+"2212",2015,"Michigan","Myeloma","Male",530,256
+"2213",2015,"Minnesota","Breast","Female",4379,680
+"2214",2015,"Minnesota","Larynx","Female",40,0
+"2215",2015,"Minnesota","Larynx","Male",151,41
+"2216",2015,"Minnesota","Liver","Female",112,46
+"2217",2015,"Minnesota","Liver","Male",317,194
+"2218",2015,"Minnesota","Myeloma","Female",183,88
+"2219",2015,"Minnesota","Myeloma","Male",270,128
+"2220",2015,"Mississippi","Breast","Female",2160,424
+"2221",2015,"Mississippi","Larynx","Male",146,32
+"2222",2015,"Mississippi","Liver","Female",68,73
+"2223",2015,"Mississippi","Liver","Male",231,182
+"2224",2015,"Mississippi","Myeloma","Female",126,60
+"2225",2015,"Mississippi","Myeloma","Male",130,78
+"2226",2015,"Missouri","Breast","Female",4995,867
+"2227",2015,"Missouri","Larynx","Female",70,26
+"2228",2015,"Missouri","Larynx","Male",247,68
+"2229",2015,"Missouri","Liver","Female",130,97
+"2230",2015,"Missouri","Liver","Male",380,276
+"2231",2015,"Missouri","Myeloma","Female",205,109
+"2232",2015,"Missouri","Myeloma","Male",301,146
+"2233",2015,"Montana","Breast","Female",876,146
+"2234",2015,"Montana","Liver","Female",0,0
+"2235",2015,"Montana","Liver","Male",60,44
+"2236",2015,"Montana","Myeloma","Female",31,0
+"2237",2015,"Montana","Myeloma","Male",54,29
+"2238",2015,"Nebraska","Breast","Female",1422,233
+"2239",2015,"Nebraska","Larynx","Male",59,20
+"2240",2015,"Nebraska","Liver","Female",34,16
+"2241",2015,"Nebraska","Liver","Male",85,43
+"2242",2015,"Nebraska","Myeloma","Female",61,34
+"2243",2015,"Nebraska","Myeloma","Male",89,43
+"2244",2015,"Nevada","Breast","Female",1861,358
+"2245",2015,"Nevada","Larynx","Female",19,0
+"2246",2015,"Nevada","Larynx","Male",68,23
+"2247",2015,"Nevada","Liver","Female",54,54
+"2248",2015,"Nevada","Liver","Male",139,131
+"2249",2015,"Nevada","Myeloma","Female",75,43
+"2250",2015,"Nevada","Myeloma","Male",93,58
+"2251",2015,"New Hampshire","Breast","Female",1319,173
+"2252",2015,"New Hampshire","Breast","Male",0,0
+"2253",2015,"New Hampshire","Larynx","Female",0,0
+"2254",2015,"New Hampshire","Larynx","Male",39,0
+"2255",2015,"New Hampshire","Liver","Female",19,0
+"2256",2015,"New Hampshire","Liver","Male",90,50
+"2257",2015,"New Hampshire","Myeloma","Female",33,25
+"2258",2015,"New Hampshire","Myeloma","Male",71,36
+"2259",2015,"New Jersey","Breast","Female",7712,1272
+"2260",2015,"New Jersey","Breast","Male",66,18
+"2261",2015,"New Jersey","Larynx","Female",68,28
+"2262",2015,"New Jersey","Larynx","Male",249,75
+"2263",2015,"New Jersey","Liver","Female",165,114
+"2264",2015,"New Jersey","Liver","Male",578,339
+"2265",2015,"New Jersey","Myeloma","Female",364,143
+"2266",2015,"New Jersey","Myeloma","Male",428,167
+"2267",2015,"New Mexico","Breast","Female",1444,264
+"2268",2015,"New Mexico","Breast","Male",0,0
+"2269",2015,"New Mexico","Larynx","Male",43,19
+"2270",2015,"New Mexico","Liver","Female",70,46
+"2271",2015,"New Mexico","Liver","Male",215,137
+"2272",2015,"New Mexico","Myeloma","Female",62,31
+"2273",2015,"New Mexico","Myeloma","Male",91,38
+"2274",2015,"New York","Breast","Female",16432,2524
+"2275",2015,"New York","Breast","Male",190,34
+"2276",2015,"New York","Larynx","Female",162,51
+"2277",2015,"New York","Larynx","Male",644,164
+"2278",2015,"New York","Liver","Female",477,284
+"2279",2015,"New York","Liver","Male",1373,777
+"2280",2015,"New York","Myeloma","Female",894,344
+"2281",2015,"New York","Myeloma","Male",1031,405
+"2282",2015,"North Carolina","Breast","Female",8486,1397
+"2283",2015,"North Carolina","Breast","Male",67,0
+"2284",2015,"North Carolina","Larynx","Female",102,26
+"2285",2015,"North Carolina","Larynx","Male",372,123
+"2286",2015,"North Carolina","Liver","Female",207,159
+"2287",2015,"North Carolina","Liver","Male",687,480
+"2288",2015,"North Carolina","Myeloma","Female",414,223
+"2289",2015,"North Carolina","Myeloma","Male",496,227
+"2290",2015,"North Dakota","Breast","Female",562,91
+"2291",2015,"North Dakota","Liver","Male",18,17
+"2292",2015,"North Dakota","Myeloma","Female",21,0
+"2293",2015,"North Dakota","Myeloma","Male",31,0
+"2294",2015,"Ohio","Breast","Female",9617,1803
+"2295",2015,"Ohio","Breast","Male",79,0
+"2296",2015,"Ohio","Larynx","Female",147,46
+"2297",2015,"Ohio","Larynx","Male",489,136
+"2298",2015,"Ohio","Liver","Female",238,166
+"2299",2015,"Ohio","Liver","Male",703,480
+"2300",2015,"Ohio","Myeloma","Female",380,234
+"2301",2015,"Ohio","Myeloma","Male",500,278
+"2302",2015,"Oklahoma","Breast","Female",2864,540
+"2303",2015,"Oklahoma","Larynx","Female",53,0
+"2304",2015,"Oklahoma","Larynx","Male",133,51
+"2305",2015,"Oklahoma","Liver","Female",96,91
+"2306",2015,"Oklahoma","Liver","Male",276,213
+"2307",2015,"Oklahoma","Myeloma","Female",130,71
+"2308",2015,"Oklahoma","Myeloma","Male",192,66
+"2309",2015,"Oregon","Breast","Female",3311,550
+"2310",2015,"Oregon","Breast","Male",23,0
+"2311",2015,"Oregon","Larynx","Male",102,19
+"2312",2015,"Oregon","Liver","Female",105,65
+"2313",2015,"Oregon","Liver","Male",368,213
+"2314",2015,"Oregon","Myeloma","Female",119,77
+"2315",2015,"Oregon","Myeloma","Male",151,94
+"2316",2015,"Pennsylvania","Breast","Female",11170,2036
+"2317",2015,"Pennsylvania","Breast","Male",103,27
+"2318",2015,"Pennsylvania","Larynx","Female",127,35
+"2319",2015,"Pennsylvania","Larynx","Male",473,149
+"2320",2015,"Pennsylvania","Liver","Female",288,182
+"2321",2015,"Pennsylvania","Liver","Male",1001,585
+"2322",2015,"Pennsylvania","Myeloma","Female",542,271
+"2323",2015,"Pennsylvania","Myeloma","Male",658,339
+"2324",2015,"Puerto Rico","Breast","Female",2199,434
+"2325",2015,"Puerto Rico","Larynx","Male",137,48
+"2326",2015,"Puerto Rico","Liver","Female",101,103
+"2327",2015,"Puerto Rico","Liver","Male",271,217
+"2328",2015,"Puerto Rico","Myeloma","Female",148,64
+"2329",2015,"Puerto Rico","Myeloma","Male",160,58
+"2330",2015,"Rhode Island","Breast","Female",967,137
+"2331",2015,"Rhode Island","Larynx","Female",0,0
+"2332",2015,"Rhode Island","Larynx","Male",38,0
+"2333",2015,"Rhode Island","Liver","Female",16,0
+"2334",2015,"Rhode Island","Liver","Male",78,53
+"2335",2015,"Rhode Island","Myeloma","Female",44,21
+"2336",2015,"Rhode Island","Myeloma","Male",42,0
+"2337",2015,"South Carolina","Breast","Female",4149,654
+"2338",2015,"South Carolina","Larynx","Female",51,0
+"2339",2015,"South Carolina","Larynx","Male",235,59
+"2340",2015,"South Carolina","Liver","Female",89,81
+"2341",2015,"South Carolina","Liver","Male",375,239
+"2342",2015,"South Carolina","Myeloma","Female",226,107
+"2343",2015,"South Carolina","Myeloma","Male",281,134
+"2344",2015,"South Dakota","Breast","Female",659,104
+"2345",2015,"South Dakota","Liver","Male",51,26
+"2346",2015,"South Dakota","Myeloma","Female",22,0
+"2347",2015,"South Dakota","Myeloma","Male",38,21
+"2348",2015,"Tennessee","Breast","Female",5200,941
+"2349",2015,"Tennessee","Breast","Male",47,0
+"2350",2015,"Tennessee","Larynx","Female",75,24
+"2351",2015,"Tennessee","Larynx","Male",250,79
+"2352",2015,"Tennessee","Liver","Female",159,116
+"2353",2015,"Tennessee","Liver","Male",487,357
+"2354",2015,"Tennessee","Myeloma","Female",230,126
+"2355",2015,"Tennessee","Myeloma","Male",305,178
+"2356",2015,"Texas","Breast","Female",16564,2857
+"2357",2015,"Texas","Breast","Male",200,32
+"2358",2015,"Texas","Larynx","Female",149,42
+"2359",2015,"Texas","Larynx","Male",693,215
+"2360",2015,"Texas","Liver","Female",806,512
+"2361",2015,"Texas","Liver","Male",2252,1294
+"2362",2015,"Texas","Myeloma","Female",893,345
+"2363",2015,"Texas","Myeloma","Male",1048,401
+"2364",2015,"Utah","Breast","Female",1515,268
+"2365",2015,"Utah","Liver","Female",43,20
+"2366",2015,"Utah","Liver","Male",115,65
+"2367",2015,"Utah","Myeloma","Female",83,46
+"2368",2015,"Utah","Myeloma","Male",92,38
+"2369",2015,"Vermont","Breast","Female",559,96
+"2370",2015,"Vermont","Liver","Male",32,29
+"2371",2015,"Vermont","Myeloma","Female",16,17
+"2372",2015,"Vermont","Myeloma","Male",30,0
+"2373",2015,"Virginia","Breast","Female",6393,1117
+"2374",2015,"Virginia","Breast","Male",66,0
+"2375",2015,"Virginia","Larynx","Female",57,19
+"2376",2015,"Virginia","Larynx","Male",238,85
+"2377",2015,"Virginia","Liver","Female",181,113
+"2378",2015,"Virginia","Liver","Male",517,346
+"2379",2015,"Virginia","Myeloma","Female",288,130
+"2380",2015,"Virginia","Myeloma","Male",335,172
+"2381",2015,"Washington DC","Breast","Female",461,102
+"2382",2015,"Washington DC","Liver","Female",26,0
+"2383",2015,"Washington DC","Liver","Male",64,31
+"2384",2015,"Washington DC","Myeloma","Female",19,0
+"2385",2015,"Washington DC","Myeloma","Male",31,0
+"2386",2015,"Washington","Breast","Female",5656,873
+"2387",2015,"Washington","Larynx","Female",32,0
+"2388",2015,"Washington","Larynx","Male",161,42
+"2389",2015,"Washington","Liver","Female",179,110
+"2390",2015,"Washington","Liver","Male",515,322
+"2391",2015,"Washington","Myeloma","Female",196,119
+"2392",2015,"Washington","Myeloma","Male",316,136
+"2393",2015,"West Virginia","Breast","Female",1529,279
+"2394",2015,"West Virginia","Larynx","Male",103,44
+"2395",2015,"West Virginia","Liver","Female",40,42
+"2396",2015,"West Virginia","Liver","Male",129,93
+"2397",2015,"West Virginia","Myeloma","Female",61,37
+"2398",2015,"West Virginia","Myeloma","Male",90,51
+"2399",2015,"Wisconsin","Breast","Female",4681,717
+"2400",2015,"Wisconsin","Larynx","Female",52,16
+"2401",2015,"Wisconsin","Larynx","Male",195,57
+"2402",2015,"Wisconsin","Liver","Female",108,61
+"2403",2015,"Wisconsin","Liver","Male",334,182
+"2404",2015,"Wisconsin","Myeloma","Female",205,101
+"2405",2015,"Wisconsin","Myeloma","Male",300,110
+"2406",2015,"Wyoming","Breast","Female",343,70
+"2407",2015,"Wyoming","Liver","Male",44,26
+"2408",2015,"Wyoming","Myeloma","Female",21,0
+"2409",2016,"Alabama","Breast","Female",3830,678
+"2410",2016,"Alabama","Larynx","Female",38,0
+"2411",2016,"Alabama","Larynx","Male",212,63
+"2412",2016,"Alabama","Liver","Female",117,108
+"2413",2016,"Alabama","Liver","Male",342,260
+"2414",2016,"Alabama","Myeloma","Female",220,105
+"2415",2016,"Alabama","Myeloma","Male",242,105
+"2416",2016,"Alaska","Breast","Female",413,68
+"2417",2016,"Alaska","Liver","Male",51,25
+"2418",2016,"Arizona","Breast","Female",4936,850
+"2419",2016,"Arizona","Larynx","Female",36,0
+"2420",2016,"Arizona","Larynx","Male",139,62
+"2421",2016,"Arizona","Liver","Female",144,126
+"2422",2016,"Arizona","Liver","Male",480,318
+"2423",2016,"Arizona","Myeloma","Female",183,91
+"2424",2016,"Arizona","Myeloma","Male",275,145
+"2425",2016,"Arkansas","Breast","Female",2272,400
+"2426",2016,"Arkansas","Larynx","Male",115,36
+"2427",2016,"Arkansas","Liver","Female",65,59
+"2428",2016,"Arkansas","Liver","Male",240,160
+"2429",2016,"Arkansas","Myeloma","Female",111,41
+"2430",2016,"Arkansas","Myeloma","Male",126,63
+"2431",2016,"California","Breast","Female",26872,4308
+"2432",2016,"California","Breast","Male",199,43
+"2433",2016,"California","Larynx","Female",139,60
+"2434",2016,"California","Larynx","Male",668,192
+"2435",2016,"California","Liver","Female",1022,768
+"2436",2016,"California","Liver","Male",2795,1864
+"2437",2016,"California","Myeloma","Female",1124,499
+"2438",2016,"California","Myeloma","Male",1495,727
+"2439",2016,"Colorado","Breast","Female",4013,613
+"2440",2016,"Colorado","Larynx","Male",119,28
+"2441",2016,"Colorado","Liver","Female",93,48
+"2442",2016,"Colorado","Liver","Male",315,188
+"2443",2016,"Colorado","Myeloma","Female",136,82
+"2444",2016,"Colorado","Myeloma","Male",218,110
+"2445",2016,"Connecticut","Breast","Female",3279,465
+"2446",2016,"Connecticut","Larynx","Male",130,33
+"2447",2016,"Connecticut","Liver","Female",63,34
+"2448",2016,"Connecticut","Liver","Male",232,115
+"2449",2016,"Connecticut","Myeloma","Female",157,74
+"2450",2016,"Connecticut","Myeloma","Male",202,76
+"2451",2016,"Delaware","Breast","Female",848,142
+"2452",2016,"Delaware","Liver","Female",27,16
+"2453",2016,"Delaware","Liver","Male",83,49
+"2454",2016,"Delaware","Myeloma","Female",49,20
+"2455",2016,"Delaware","Myeloma","Male",44,30
+"2456",2016,"Florida","Breast","Female",17404,2908
+"2457",2016,"Florida","Breast","Male",176,28
+"2458",2016,"Florida","Larynx","Female",209,57
+"2459",2016,"Florida","Larynx","Male",909,287
+"2460",2016,"Florida","Liver","Female",503,432
+"2461",2016,"Florida","Liver","Male",1512,1089
+"2462",2016,"Florida","Myeloma","Female",1060,368
+"2463",2016,"Florida","Myeloma","Male",1381,513
+"2464",2016,"Georgia","Breast","Female",7691,1273
+"2465",2016,"Georgia","Breast","Male",71,0
+"2466",2016,"Georgia","Larynx","Female",89,20
+"2467",2016,"Georgia","Larynx","Male",347,106
+"2468",2016,"Georgia","Liver","Female",216,172
+"2469",2016,"Georgia","Liver","Male",681,417
+"2470",2016,"Georgia","Myeloma","Female",472,189
+"2471",2016,"Georgia","Myeloma","Male",523,189
+"2472",2016,"Hawaii","Breast","Female",1201,141
+"2473",2016,"Hawaii","Larynx","Male",35,0
+"2474",2016,"Hawaii","Liver","Female",60,36
+"2475",2016,"Hawaii","Liver","Male",117,78
+"2476",2016,"Hawaii","Myeloma","Female",39,17
+"2477",2016,"Hawaii","Myeloma","Male",47,17
+"2478",2016,"Idaho","Breast","Female",1212,215
+"2479",2016,"Idaho","Larynx","Female",17,0
+"2480",2016,"Idaho","Larynx","Male",31,0
+"2481",2016,"Idaho","Liver","Female",27,21
+"2482",2016,"Idaho","Liver","Male",101,70
+"2483",2016,"Idaho","Myeloma","Female",46,32
+"2484",2016,"Idaho","Myeloma","Male",86,41
+"2485",2016,"Illinois","Breast","Female",10475,1700
+"2486",2016,"Illinois","Breast","Male",94,0
+"2487",2016,"Illinois","Larynx","Female",122,40
+"2488",2016,"Illinois","Larynx","Male",436,121
+"2489",2016,"Illinois","Liver","Female",287,206
+"2490",2016,"Illinois","Liver","Male",744,489
+"2491",2016,"Illinois","Myeloma","Female",467,225
+"2492",2016,"Illinois","Myeloma","Male",585,230
+"2493",2016,"Indiana","Breast","Female",4969,874
+"2494",2016,"Indiana","Breast","Male",39,18
+"2495",2016,"Indiana","Larynx","Female",74,19
+"2496",2016,"Indiana","Larynx","Male",235,81
+"2497",2016,"Indiana","Liver","Female",113,91
+"2498",2016,"Indiana","Liver","Male",393,265
+"2499",2016,"Indiana","Myeloma","Female",234,117
+"2500",2016,"Indiana","Myeloma","Male",290,143
+"2501",2016,"Iowa","Breast","Female",2533,414
+"2502",2016,"Iowa","Larynx","Male",110,33
+"2503",2016,"Iowa","Liver","Female",60,36
+"2504",2016,"Iowa","Liver","Male",157,99
+"2505",2016,"Iowa","Myeloma","Female",110,62
+"2506",2016,"Iowa","Myeloma","Male",165,72
+"2507",2016,"Kansas","Breast","Female",2254,401
+"2508",2016,"Kansas","Larynx","Male",88,24
+"2509",2016,"Kansas","Liver","Female",46,48
+"2510",2016,"Kansas","Liver","Male",189,126
+"2511",2016,"Kansas","Myeloma","Female",98,51
+"2512",2016,"Kansas","Myeloma","Male",135,65
+"2513",2016,"Kentucky","Breast","Female",3506,623
+"2514",2016,"Kentucky","Larynx","Female",83,27
+"2515",2016,"Kentucky","Larynx","Male",208,70
+"2516",2016,"Kentucky","Liver","Female",93,75
+"2517",2016,"Kentucky","Liver","Male",296,188
+"2518",2016,"Kentucky","Myeloma","Female",158,71
+"2519",2016,"Kentucky","Myeloma","Male",223,92
+"2520",2016,"Louisiana","Breast","Female",3515,636
+"2521",2016,"Louisiana","Larynx","Female",69,0
+"2522",2016,"Louisiana","Larynx","Male",202,55
+"2523",2016,"Louisiana","Liver","Female",134,116
+"2524",2016,"Louisiana","Liver","Male",425,327
+"2525",2016,"Louisiana","Myeloma","Female",207,80
+"2526",2016,"Louisiana","Myeloma","Male",236,99
+"2527",2016,"Maine","Breast","Female",1195,198
+"2528",2016,"Maine","Larynx","Male",62,24
+"2529",2016,"Maine","Liver","Female",0,0
+"2530",2016,"Maine","Liver","Male",75,48
+"2531",2016,"Maine","Myeloma","Female",52,30
+"2532",2016,"Maine","Myeloma","Male",58,28
+"2533",2016,"Maryland","Breast","Female",4887,829
+"2534",2016,"Maryland","Breast","Male",54,0
+"2535",2016,"Maryland","Larynx","Female",33,17
+"2536",2016,"Maryland","Larynx","Male",171,57
+"2537",2016,"Maryland","Liver","Female",162,83
+"2538",2016,"Maryland","Liver","Male",450,262
+"2539",2016,"Maryland","Myeloma","Female",266,135
+"2540",2016,"Maryland","Myeloma","Male",313,169
+"2541",2016,"Massachusetts","Breast","Female",6174,777
+"2542",2016,"Massachusetts","Breast","Male",48,0
+"2543",2016,"Massachusetts","Larynx","Female",47,18
+"2544",2016,"Massachusetts","Larynx","Male",201,45
+"2545",2016,"Massachusetts","Liver","Female",141,85
+"2546",2016,"Massachusetts","Liver","Male",469,298
+"2547",2016,"Massachusetts","Myeloma","Female",260,117
+"2548",2016,"Massachusetts","Myeloma","Male",337,146
+"2549",2016,"Michigan","Breast","Female",7993,1383
+"2550",2016,"Michigan","Breast","Male",78,22
+"2551",2016,"Michigan","Larynx","Female",95,42
+"2552",2016,"Michigan","Larynx","Male",368,124
+"2553",2016,"Michigan","Liver","Female",201,194
+"2554",2016,"Michigan","Liver","Male",639,398
+"2555",2016,"Michigan","Myeloma","Female",395,210
+"2556",2016,"Michigan","Myeloma","Male",524,250
+"2557",2016,"Minnesota","Breast","Female",4300,599
+"2558",2016,"Minnesota","Larynx","Female",35,0
+"2559",2016,"Minnesota","Larynx","Male",142,44
+"2560",2016,"Minnesota","Liver","Female",105,64
+"2561",2016,"Minnesota","Liver","Male",311,196
+"2562",2016,"Minnesota","Myeloma","Female",181,97
+"2563",2016,"Minnesota","Myeloma","Male",270,117
+"2564",2016,"Mississippi","Breast","Female",2244,440
+"2565",2016,"Mississippi","Larynx","Male",123,30
+"2566",2016,"Mississippi","Liver","Female",59,79
+"2567",2016,"Mississippi","Liver","Male",209,183
+"2568",2016,"Mississippi","Myeloma","Female",144,55
+"2569",2016,"Mississippi","Myeloma","Male",148,71
+"2570",2016,"Missouri","Breast","Female",5056,871
+"2571",2016,"Missouri","Larynx","Female",66,19
+"2572",2016,"Missouri","Larynx","Male",230,65
+"2573",2016,"Missouri","Liver","Female",133,108
+"2574",2016,"Missouri","Liver","Male",398,241
+"2575",2016,"Missouri","Myeloma","Female",225,98
+"2576",2016,"Missouri","Myeloma","Male",276,141
+"2577",2016,"Montana","Breast","Female",846,137
+"2578",2016,"Montana","Liver","Female",0,0
+"2579",2016,"Montana","Liver","Male",64,36
+"2580",2016,"Montana","Myeloma","Female",42,0
+"2581",2016,"Montana","Myeloma","Male",61,25
+"2582",2016,"Nebraska","Breast","Female",1461,244
+"2583",2016,"Nebraska","Larynx","Male",51,0
+"2584",2016,"Nebraska","Liver","Female",20,27
+"2585",2016,"Nebraska","Liver","Male",96,65
+"2586",2016,"Nebraska","Myeloma","Female",55,22
+"2587",2016,"Nebraska","Myeloma","Male",82,48
+"2588",2016,"Nevada","Breast","Female",1986,369
+"2589",2016,"Nevada","Larynx","Female",18,0
+"2590",2016,"Nevada","Larynx","Male",64,19
+"2591",2016,"Nevada","Liver","Female",61,52
+"2592",2016,"Nevada","Liver","Male",191,131
+"2593",2016,"Nevada","Myeloma","Female",68,35
+"2594",2016,"Nevada","Myeloma","Male",85,49
+"2595",2016,"New Hampshire","Breast","Female",1312,177
+"2596",2016,"New Hampshire","Breast","Male",0,0
+"2597",2016,"New Hampshire","Larynx","Female",0,0
+"2598",2016,"New Hampshire","Larynx","Male",35,0
+"2599",2016,"New Hampshire","Liver","Female",19,0
+"2600",2016,"New Hampshire","Liver","Male",102,76
+"2601",2016,"New Hampshire","Myeloma","Female",54,17
+"2602",2016,"New Hampshire","Myeloma","Male",46,22
+"2603",2016,"New Jersey","Breast","Female",7721,1289
+"2604",2016,"New Jersey","Breast","Male",70,23
+"2605",2016,"New Jersey","Larynx","Female",62,23
+"2606",2016,"New Jersey","Larynx","Male",268,78
+"2607",2016,"New Jersey","Liver","Female",203,136
+"2608",2016,"New Jersey","Liver","Male",543,328
+"2609",2016,"New Jersey","Myeloma","Female",417,189
+"2610",2016,"New Jersey","Myeloma","Male",480,198
+"2611",2016,"New Mexico","Breast","Female",1446,278
+"2612",2016,"New Mexico","Breast","Male",0,0
+"2613",2016,"New Mexico","Larynx","Male",45,0
+"2614",2016,"New Mexico","Liver","Female",72,45
+"2615",2016,"New Mexico","Liver","Male",202,127
+"2616",2016,"New Mexico","Myeloma","Female",61,36
+"2617",2016,"New Mexico","Myeloma","Male",83,26
+"2618",2016,"New York","Breast","Female",16099,2622
+"2619",2016,"New York","Breast","Male",141,24
+"2620",2016,"New York","Larynx","Female",143,46
+"2621",2016,"New York","Larynx","Male",581,196
+"2622",2016,"New York","Liver","Female",450,279
+"2623",2016,"New York","Liver","Male",1492,832
+"2624",2016,"New York","Myeloma","Female",913,376
+"2625",2016,"New York","Myeloma","Male",1134,369
+"2626",2016,"North Carolina","Breast","Female",8698,1317
+"2627",2016,"North Carolina","Breast","Male",66,0
+"2628",2016,"North Carolina","Larynx","Female",106,30
+"2629",2016,"North Carolina","Larynx","Male",374,100
+"2630",2016,"North Carolina","Liver","Female",193,147
+"2631",2016,"North Carolina","Liver","Male",693,463
+"2632",2016,"North Carolina","Myeloma","Female",465,205
+"2633",2016,"North Carolina","Myeloma","Male",527,245
+"2634",2016,"North Dakota","Breast","Female",565,83
+"2635",2016,"North Dakota","Liver","Male",26,23
+"2636",2016,"North Dakota","Myeloma","Female",30,16
+"2637",2016,"North Dakota","Myeloma","Male",29,16
+"2638",2016,"Ohio","Breast","Female",9748,1711
+"2639",2016,"Ohio","Breast","Male",70,18
+"2640",2016,"Ohio","Larynx","Female",139,49
+"2641",2016,"Ohio","Larynx","Male",444,141
+"2642",2016,"Ohio","Liver","Female",239,183
+"2643",2016,"Ohio","Liver","Male",695,483
+"2644",2016,"Ohio","Myeloma","Female",403,218
+"2645",2016,"Ohio","Myeloma","Male",550,265
+"2646",2016,"Oklahoma","Breast","Female",2958,531
+"2647",2016,"Oklahoma","Larynx","Female",42,18
+"2648",2016,"Oklahoma","Larynx","Male",113,42
+"2649",2016,"Oklahoma","Liver","Female",90,86
+"2650",2016,"Oklahoma","Liver","Male",260,188
+"2651",2016,"Oklahoma","Myeloma","Female",122,71
+"2652",2016,"Oklahoma","Myeloma","Male",186,81
+"2653",2016,"Oregon","Breast","Female",3244,585
+"2654",2016,"Oregon","Breast","Male",22,0
+"2655",2016,"Oregon","Larynx","Male",81,44
+"2656",2016,"Oregon","Liver","Female",113,75
+"2657",2016,"Oregon","Liver","Male",341,216
+"2658",2016,"Oregon","Myeloma","Female",118,69
+"2659",2016,"Oregon","Myeloma","Male",160,91
+"2660",2016,"Pennsylvania","Breast","Female",11338,1985
+"2661",2016,"Pennsylvania","Breast","Male",104,22
+"2662",2016,"Pennsylvania","Larynx","Female",141,41
+"2663",2016,"Pennsylvania","Larynx","Male",458,134
+"2664",2016,"Pennsylvania","Liver","Female",279,205
+"2665",2016,"Pennsylvania","Liver","Male",970,628
+"2666",2016,"Pennsylvania","Myeloma","Female",515,281
+"2667",2016,"Pennsylvania","Myeloma","Male",653,297
+"2668",2016,"Puerto Rico","Breast","Female",2264,439
+"2669",2016,"Puerto Rico","Larynx","Male",149,41
+"2670",2016,"Puerto Rico","Liver","Female",117,94
+"2671",2016,"Puerto Rico","Liver","Male",274,201
+"2672",2016,"Puerto Rico","Myeloma","Female",139,62
+"2673",2016,"Puerto Rico","Myeloma","Male",145,78
+"2674",2016,"Rhode Island","Breast","Female",934,137
+"2675",2016,"Rhode Island","Larynx","Female",16,0
+"2676",2016,"Rhode Island","Larynx","Male",37,0
+"2677",2016,"Rhode Island","Liver","Female",28,17
+"2678",2016,"Rhode Island","Liver","Male",85,47
+"2679",2016,"Rhode Island","Myeloma","Female",28,19
+"2680",2016,"Rhode Island","Myeloma","Male",50,18
+"2681",2016,"South Carolina","Breast","Female",4201,742
+"2682",2016,"South Carolina","Larynx","Female",48,16
+"2683",2016,"South Carolina","Larynx","Male",227,69
+"2684",2016,"South Carolina","Liver","Female",88,85
+"2685",2016,"South Carolina","Liver","Male",343,261
+"2686",2016,"South Carolina","Myeloma","Female",245,121
+"2687",2016,"South Carolina","Myeloma","Male",277,123
+"2688",2016,"South Dakota","Breast","Female",587,112
+"2689",2016,"South Dakota","Liver","Male",45,34
+"2690",2016,"South Dakota","Myeloma","Female",34,22
+"2691",2016,"South Dakota","Myeloma","Male",43,29
+"2692",2016,"Tennessee","Breast","Female",5114,958
+"2693",2016,"Tennessee","Breast","Male",42,0
+"2694",2016,"Tennessee","Larynx","Female",83,23
+"2695",2016,"Tennessee","Larynx","Male",280,99
+"2696",2016,"Tennessee","Liver","Female",160,116
+"2697",2016,"Tennessee","Liver","Male",474,335
+"2698",2016,"Tennessee","Myeloma","Female",250,138
+"2699",2016,"Tennessee","Myeloma","Male",306,160
+"2700",2016,"Texas","Breast","Female",16479,2918
+"2701",2016,"Texas","Breast","Male",192,26
+"2702",2016,"Texas","Larynx","Female",138,45
+"2703",2016,"Texas","Larynx","Male",683,217
+"2704",2016,"Texas","Liver","Female",792,493
+"2705",2016,"Texas","Liver","Male",2286,1343
+"2706",2016,"Texas","Myeloma","Female",892,346
+"2707",2016,"Texas","Myeloma","Male",1111,473
+"2708",2016,"Utah","Breast","Female",1567,260
+"2709",2016,"Utah","Liver","Female",40,27
+"2710",2016,"Utah","Liver","Male",99,68
+"2711",2016,"Utah","Myeloma","Female",59,31
+"2712",2016,"Utah","Myeloma","Male",95,48
+"2713",2016,"Vermont","Breast","Female",567,62
+"2714",2016,"Vermont","Liver","Male",30,20
+"2715",2016,"Vermont","Myeloma","Female",25,0
+"2716",2016,"Vermont","Myeloma","Male",27,18
+"2717",2016,"Virginia","Breast","Female",6495,1110
+"2718",2016,"Virginia","Breast","Male",48,0
+"2719",2016,"Virginia","Larynx","Female",74,19
+"2720",2016,"Virginia","Larynx","Male",278,72
+"2721",2016,"Virginia","Liver","Female",155,130
+"2722",2016,"Virginia","Liver","Male",503,333
+"2723",2016,"Virginia","Myeloma","Female",290,142
+"2724",2016,"Virginia","Myeloma","Male",362,169
+"2725",2016,"Washington DC","Breast","Female",482,89
+"2726",2016,"Washington DC","Liver","Female",16,20
+"2727",2016,"Washington DC","Liver","Male",58,45
+"2728",2016,"Washington DC","Myeloma","Female",35,0
+"2729",2016,"Washington DC","Myeloma","Male",31,0
+"2730",2016,"Washington","Breast","Female",5792,870
+"2731",2016,"Washington","Larynx","Female",37,0
+"2732",2016,"Washington","Larynx","Male",156,53
+"2733",2016,"Washington","Liver","Female",160,98
+"2734",2016,"Washington","Liver","Male",561,309
+"2735",2016,"Washington","Myeloma","Female",236,104
+"2736",2016,"Washington","Myeloma","Male",304,143
+"2737",2016,"West Virginia","Breast","Female",1494,290
+"2738",2016,"West Virginia","Larynx","Male",95,32
+"2739",2016,"West Virginia","Liver","Female",41,30
+"2740",2016,"West Virginia","Liver","Male",124,82
+"2741",2016,"West Virginia","Myeloma","Female",64,45
+"2742",2016,"West Virginia","Myeloma","Male",81,37
+"2743",2016,"Wisconsin","Breast","Female",4781,735
+"2744",2016,"Wisconsin","Larynx","Female",44,0
+"2745",2016,"Wisconsin","Larynx","Male",180,53
+"2746",2016,"Wisconsin","Liver","Female",118,71
+"2747",2016,"Wisconsin","Liver","Male",340,204
+"2748",2016,"Wisconsin","Myeloma","Female",223,112
+"2749",2016,"Wisconsin","Myeloma","Male",269,110
+"2750",2016,"Wyoming","Breast","Female",412,70
+"2751",2016,"Wyoming","Liver","Male",34,28
+"2752",2016,"Wyoming","Myeloma","Female",0,0
+"2753",2017,"Alabama","Breast","Female",3714,695
+"2754",2017,"Alabama","Larynx","Female",51,19
+"2755",2017,"Alabama","Larynx","Male",206,56
+"2756",2017,"Alabama","Liver","Female",130,96
+"2757",2017,"Alabama","Liver","Male",323,259
+"2758",2017,"Alabama","Myeloma","Female",200,102
+"2759",2017,"Alabama","Myeloma","Male",247,106
+"2760",2017,"Alaska","Breast","Female",401,60
+"2761",2017,"Alaska","Liver","Male",44,19
+"2762",2017,"Arizona","Breast","Female",4898,830
+"2763",2017,"Arizona","Larynx","Female",34,0
+"2764",2017,"Arizona","Larynx","Male",173,57
+"2765",2017,"Arizona","Liver","Female",146,121
+"2766",2017,"Arizona","Liver","Male",455,337
+"2767",2017,"Arizona","Myeloma","Female",172,103
+"2768",2017,"Arizona","Myeloma","Male",256,157
+"2769",2017,"Arkansas","Breast","Female",2181,414
+"2770",2017,"Arkansas","Larynx","Male",118,41
+"2771",2017,"Arkansas","Liver","Female",55,57
+"2772",2017,"Arkansas","Liver","Male",213,161
+"2773",2017,"Arkansas","Myeloma","Female",115,49
+"2774",2017,"Arkansas","Myeloma","Male",158,71
+"2775",2017,"California","Breast","Female",27654,4588
+"2776",2017,"California","Breast","Male",176,37
+"2777",2017,"California","Larynx","Female",126,52
+"2778",2017,"California","Larynx","Male",646,197
+"2779",2017,"California","Liver","Female",1015,794
+"2780",2017,"California","Liver","Male",2786,1863
+"2781",2017,"California","Myeloma","Female",1141,525
+"2782",2017,"California","Myeloma","Male",1485,687
+"2783",2017,"Colorado","Breast","Female",4217,629
+"2784",2017,"Colorado","Larynx","Male",93,26
+"2785",2017,"Colorado","Liver","Female",110,70
+"2786",2017,"Colorado","Liver","Male",310,182
+"2787",2017,"Colorado","Myeloma","Female",180,66
+"2788",2017,"Colorado","Myeloma","Male",215,112
+"2789",2017,"Connecticut","Breast","Female",3245,466
+"2790",2017,"Connecticut","Larynx","Male",121,32
+"2791",2017,"Connecticut","Liver","Female",67,37
+"2792",2017,"Connecticut","Liver","Male",235,146
+"2793",2017,"Connecticut","Myeloma","Female",126,46
+"2794",2017,"Connecticut","Myeloma","Male",185,74
+"2795",2017,"Delaware","Breast","Female",778,150
+"2796",2017,"Delaware","Liver","Female",22,23
+"2797",2017,"Delaware","Liver","Male",71,59
+"2798",2017,"Delaware","Myeloma","Female",40,26
+"2799",2017,"Delaware","Myeloma","Male",45,20
+"2800",2017,"Florida","Breast","Female",17471,2952
+"2801",2017,"Florida","Breast","Male",164,41
+"2802",2017,"Florida","Larynx","Female",174,54
+"2803",2017,"Florida","Larynx","Male",905,301
+"2804",2017,"Florida","Liver","Female",506,387
+"2805",2017,"Florida","Liver","Male",1583,1104
+"2806",2017,"Florida","Myeloma","Female",1094,405
+"2807",2017,"Florida","Myeloma","Male",1343,474
+"2808",2017,"Georgia","Breast","Female",7787,1334
+"2809",2017,"Georgia","Breast","Male",72,24
+"2810",2017,"Georgia","Larynx","Female",86,27
+"2811",2017,"Georgia","Larynx","Male",353,95
+"2812",2017,"Georgia","Liver","Female",210,185
+"2813",2017,"Georgia","Liver","Male",595,414
+"2814",2017,"Georgia","Myeloma","Female",462,166
+"2815",2017,"Georgia","Myeloma","Male",504,217
+"2816",2017,"Hawaii","Breast","Female",1287,155
+"2817",2017,"Hawaii","Larynx","Male",29,0
+"2818",2017,"Hawaii","Liver","Female",46,26
+"2819",2017,"Hawaii","Liver","Male",121,88
+"2820",2017,"Hawaii","Myeloma","Female",41,18
+"2821",2017,"Hawaii","Myeloma","Male",59,28
+"2822",2017,"Idaho","Breast","Female",1336,222
+"2823",2017,"Idaho","Larynx","Female",0,0
+"2824",2017,"Idaho","Larynx","Male",33,0
+"2825",2017,"Idaho","Liver","Female",26,19
+"2826",2017,"Idaho","Liver","Male",102,65
+"2827",2017,"Idaho","Myeloma","Female",59,30
+"2828",2017,"Idaho","Myeloma","Male",86,48
+"2829",2017,"Illinois","Breast","Female",10371,1708
+"2830",2017,"Illinois","Breast","Male",104,22
+"2831",2017,"Illinois","Larynx","Female",125,34
+"2832",2017,"Illinois","Larynx","Male",431,118
+"2833",2017,"Illinois","Liver","Female",301,198
+"2834",2017,"Illinois","Liver","Male",702,450
+"2835",2017,"Illinois","Myeloma","Female",517,224
+"2836",2017,"Illinois","Myeloma","Male",530,255
+"2837",2017,"Indiana","Breast","Female",5065,902
+"2838",2017,"Indiana","Breast","Male",36,0
+"2839",2017,"Indiana","Larynx","Female",80,0
+"2840",2017,"Indiana","Larynx","Male",227,64
+"2841",2017,"Indiana","Liver","Female",116,92
+"2842",2017,"Indiana","Liver","Male",364,268
+"2843",2017,"Indiana","Myeloma","Female",234,103
+"2844",2017,"Indiana","Myeloma","Male",278,156
+"2845",2017,"Iowa","Breast","Female",2694,390
+"2846",2017,"Iowa","Larynx","Male",119,36
+"2847",2017,"Iowa","Liver","Female",55,35
+"2848",2017,"Iowa","Liver","Male",175,102
+"2849",2017,"Iowa","Myeloma","Female",136,84
+"2850",2017,"Iowa","Myeloma","Male",169,79
+"2851",2017,"Kansas","Breast","Female",2320,345
+"2852",2017,"Kansas","Larynx","Male",77,19
+"2853",2017,"Kansas","Liver","Female",53,29
+"2854",2017,"Kansas","Liver","Male",171,110
+"2855",2017,"Kansas","Myeloma","Female",102,41
+"2856",2017,"Kansas","Myeloma","Male",114,61
+"2857",2017,"Kentucky","Breast","Female",3571,633
+"2858",2017,"Kentucky","Larynx","Female",76,20
+"2859",2017,"Kentucky","Larynx","Male",224,61
+"2860",2017,"Kentucky","Liver","Female",83,57
+"2861",2017,"Kentucky","Liver","Male",304,207
+"2862",2017,"Kentucky","Myeloma","Female",168,74
+"2863",2017,"Kentucky","Myeloma","Male",224,101
+"2864",2017,"Louisiana","Breast","Female",3634,692
+"2865",2017,"Louisiana","Larynx","Female",54,0
+"2866",2017,"Louisiana","Larynx","Male",220,54
+"2867",2017,"Louisiana","Liver","Female",115,131
+"2868",2017,"Louisiana","Liver","Male",406,344
+"2869",2017,"Louisiana","Myeloma","Female",185,94
+"2870",2017,"Louisiana","Myeloma","Male",234,108
+"2871",2017,"Maine","Breast","Female",1262,186
+"2872",2017,"Maine","Larynx","Male",45,20
+"2873",2017,"Maine","Liver","Female",18,16
+"2874",2017,"Maine","Liver","Male",88,56
+"2875",2017,"Maine","Myeloma","Female",61,25
+"2876",2017,"Maine","Myeloma","Male",73,43
+"2877",2017,"Maryland","Breast","Female",5073,857
+"2878",2017,"Maryland","Breast","Male",51,0
+"2879",2017,"Maryland","Larynx","Female",35,0
+"2880",2017,"Maryland","Larynx","Male",128,43
+"2881",2017,"Maryland","Liver","Female",134,78
+"2882",2017,"Maryland","Liver","Male",413,292
+"2883",2017,"Maryland","Myeloma","Female",290,120
+"2884",2017,"Maryland","Myeloma","Male",302,138
+"2885",2017,"Massachusetts","Breast","Female",6053,893
+"2886",2017,"Massachusetts","Breast","Male",65,0
+"2887",2017,"Massachusetts","Larynx","Female",47,0
+"2888",2017,"Massachusetts","Larynx","Male",189,59
+"2889",2017,"Massachusetts","Liver","Female",124,76
+"2890",2017,"Massachusetts","Liver","Male",494,279
+"2891",2017,"Massachusetts","Myeloma","Female",251,121
+"2892",2017,"Massachusetts","Myeloma","Male",315,129
+"2893",2017,"Michigan","Breast","Female",7630,1311
+"2894",2017,"Michigan","Breast","Male",75,23
+"2895",2017,"Michigan","Larynx","Female",95,31
+"2896",2017,"Michigan","Larynx","Male",321,128
+"2897",2017,"Michigan","Liver","Female",232,169
+"2898",2017,"Michigan","Liver","Male",577,443
+"2899",2017,"Michigan","Myeloma","Female",357,227
+"2900",2017,"Michigan","Myeloma","Male",472,240
+"2901",2017,"Minnesota","Breast","Female",4704,612
+"2902",2017,"Minnesota","Larynx","Female",42,0
+"2903",2017,"Minnesota","Larynx","Male",159,30
+"2904",2017,"Minnesota","Liver","Female",104,67
+"2905",2017,"Minnesota","Liver","Male",322,175
+"2906",2017,"Minnesota","Myeloma","Female",176,88
+"2907",2017,"Minnesota","Myeloma","Male",258,101
+"2908",2017,"Mississippi","Breast","Female",2233,489
+"2909",2017,"Mississippi","Larynx","Male",144,38
+"2910",2017,"Mississippi","Liver","Female",78,77
+"2911",2017,"Mississippi","Liver","Male",237,184
+"2912",2017,"Mississippi","Myeloma","Female",138,61
+"2913",2017,"Mississippi","Myeloma","Male",175,84
+"2914",2017,"Missouri","Breast","Female",5165,867
+"2915",2017,"Missouri","Larynx","Female",83,17
+"2916",2017,"Missouri","Larynx","Male",224,72
+"2917",2017,"Missouri","Liver","Female",129,107
+"2918",2017,"Missouri","Liver","Male",372,280
+"2919",2017,"Missouri","Myeloma","Female",233,111
+"2920",2017,"Missouri","Myeloma","Male",284,129
+"2921",2017,"Montana","Breast","Female",945,130
+"2922",2017,"Montana","Liver","Female",26,0
+"2923",2017,"Montana","Liver","Male",67,49
+"2924",2017,"Montana","Myeloma","Female",44,23
+"2925",2017,"Montana","Myeloma","Male",59,21
+"2926",2017,"Nebraska","Breast","Female",1452,243
+"2927",2017,"Nebraska","Larynx","Male",55,20
+"2928",2017,"Nebraska","Liver","Female",29,18
+"2929",2017,"Nebraska","Liver","Male",83,49
+"2930",2017,"Nebraska","Myeloma","Female",53,31
+"2931",2017,"Nebraska","Myeloma","Male",78,38
+"2932",2017,"Nevada","Breast","Female",2131,368
+"2933",2017,"Nevada","Larynx","Female",16,0
+"2934",2017,"Nevada","Larynx","Male",55,16
+"2935",2017,"Nevada","Liver","Female",61,45
+"2936",2017,"Nevada","Liver","Male",180,137
+"2937",2017,"Nevada","Myeloma","Female",72,28
+"2938",2017,"Nevada","Myeloma","Male",113,50
+"2939",2017,"New Hampshire","Breast","Female",1232,160
+"2940",2017,"New Hampshire","Breast","Male",0,0
+"2941",2017,"New Hampshire","Larynx","Female",0,0
+"2942",2017,"New Hampshire","Larynx","Male",43,0
+"2943",2017,"New Hampshire","Liver","Female",20,0
+"2944",2017,"New Hampshire","Liver","Male",65,53
+"2945",2017,"New Hampshire","Myeloma","Female",41,22
+"2946",2017,"New Hampshire","Myeloma","Male",65,32
+"2947",2017,"New Jersey","Breast","Female",7933,1239
+"2948",2017,"New Jersey","Breast","Male",72,0
+"2949",2017,"New Jersey","Larynx","Female",40,23
+"2950",2017,"New Jersey","Larynx","Male",251,65
+"2951",2017,"New Jersey","Liver","Female",169,128
+"2952",2017,"New Jersey","Liver","Male",574,355
+"2953",2017,"New Jersey","Myeloma","Female",356,158
+"2954",2017,"New Jersey","Myeloma","Male",495,166
+"2955",2017,"New Mexico","Breast","Female",1490,281
+"2956",2017,"New Mexico","Breast","Male",23,0
+"2957",2017,"New Mexico","Larynx","Male",48,18
+"2958",2017,"New Mexico","Liver","Female",63,62
+"2959",2017,"New Mexico","Liver","Male",166,120
+"2960",2017,"New Mexico","Myeloma","Female",54,29
+"2961",2017,"New Mexico","Myeloma","Male",91,49
+"2962",2017,"New York","Breast","Female",16763,2457
+"2963",2017,"New York","Breast","Male",159,22
+"2964",2017,"New York","Larynx","Female",179,46
+"2965",2017,"New York","Larynx","Male",580,158
+"2966",2017,"New York","Liver","Female",458,245
+"2967",2017,"New York","Liver","Male",1405,773
+"2968",2017,"New York","Myeloma","Female",914,350
+"2969",2017,"New York","Myeloma","Male",1100,378
+"2970",2017,"North Carolina","Breast","Female",8901,1451
+"2971",2017,"North Carolina","Breast","Male",64,0
+"2972",2017,"North Carolina","Larynx","Female",117,26
+"2973",2017,"North Carolina","Larynx","Male",412,111
+"2974",2017,"North Carolina","Liver","Female",217,157
+"2975",2017,"North Carolina","Liver","Male",714,424
+"2976",2017,"North Carolina","Myeloma","Female",471,200
+"2977",2017,"North Carolina","Myeloma","Male",532,231
+"2978",2017,"North Dakota","Breast","Female",548,95
+"2979",2017,"North Dakota","Liver","Male",33,25
+"2980",2017,"North Dakota","Myeloma","Female",24,0
+"2981",2017,"North Dakota","Myeloma","Male",31,0
+"2982",2017,"Ohio","Breast","Female",9879,1758
+"2983",2017,"Ohio","Breast","Male",77,22
+"2984",2017,"Ohio","Larynx","Female",150,52
+"2985",2017,"Ohio","Larynx","Male",448,135
+"2986",2017,"Ohio","Liver","Female",234,205
+"2987",2017,"Ohio","Liver","Male",707,513
+"2988",2017,"Ohio","Myeloma","Female",397,208
+"2989",2017,"Ohio","Myeloma","Male",505,325
+"2990",2017,"Oklahoma","Breast","Female",2960,556
+"2991",2017,"Oklahoma","Larynx","Female",39,0
+"2992",2017,"Oklahoma","Larynx","Male",130,38
+"2993",2017,"Oklahoma","Liver","Female",110,86
+"2994",2017,"Oklahoma","Liver","Male",284,230
+"2995",2017,"Oklahoma","Myeloma","Female",118,72
+"2996",2017,"Oklahoma","Myeloma","Male",163,70
+"2997",2017,"Oregon","Breast","Female",3324,506
+"2998",2017,"Oregon","Breast","Male",36,0
+"2999",2017,"Oregon","Larynx","Male",95,24
+"3000",2017,"Oregon","Liver","Female",98,70
+"3001",2017,"Oregon","Liver","Male",341,213
+"3002",2017,"Oregon","Myeloma","Female",127,71
+"3003",2017,"Oregon","Myeloma","Male",190,96
+"3004",2017,"Pennsylvania","Breast","Female",11251,1984
+"3005",2017,"Pennsylvania","Breast","Male",106,28
+"3006",2017,"Pennsylvania","Larynx","Female",128,41
+"3007",2017,"Pennsylvania","Larynx","Male",454,142
+"3008",2017,"Pennsylvania","Liver","Female",314,216
+"3009",2017,"Pennsylvania","Liver","Male",972,621
+"3010",2017,"Pennsylvania","Myeloma","Female",553,262
+"3011",2017,"Pennsylvania","Myeloma","Male",654,305
+"3012",2017,"Puerto Rico","Breast","Female",1129,455
+"3013",2017,"Puerto Rico","Larynx","Male",74,47
+"3014",2017,"Puerto Rico","Liver","Female",54,78
+"3015",2017,"Puerto Rico","Liver","Male",146,197
+"3016",2017,"Puerto Rico","Myeloma","Female",75,62
+"3017",2017,"Puerto Rico","Myeloma","Male",79,62
+"3018",2017,"Rhode Island","Breast","Female",964,125
+"3019",2017,"Rhode Island","Larynx","Female",0,0
+"3020",2017,"Rhode Island","Larynx","Male",30,0
+"3021",2017,"Rhode Island","Liver","Female",29,25
+"3022",2017,"Rhode Island","Liver","Male",65,54
+"3023",2017,"Rhode Island","Myeloma","Female",35,19
+"3024",2017,"Rhode Island","Myeloma","Male",48,21
+"3025",2017,"South Carolina","Breast","Female",4338,695
+"3026",2017,"South Carolina","Larynx","Female",57,17
+"3027",2017,"South Carolina","Larynx","Male",220,78
+"3028",2017,"South Carolina","Liver","Female",115,84
+"3029",2017,"South Carolina","Liver","Male",349,248
+"3030",2017,"South Carolina","Myeloma","Female",210,119
+"3031",2017,"South Carolina","Myeloma","Male",252,134
+"3032",2017,"South Dakota","Breast","Female",650,102
+"3033",2017,"South Dakota","Liver","Male",43,28
+"3034",2017,"South Dakota","Myeloma","Female",28,19
+"3035",2017,"South Dakota","Myeloma","Male",46,24
+"3036",2017,"Tennessee","Breast","Female",5285,934
+"3037",2017,"Tennessee","Breast","Male",55,0
+"3038",2017,"Tennessee","Larynx","Female",93,21
+"3039",2017,"Tennessee","Larynx","Male",291,85
+"3040",2017,"Tennessee","Liver","Female",166,118
+"3041",2017,"Tennessee","Liver","Male",514,384
+"3042",2017,"Tennessee","Myeloma","Female",259,105
+"3043",2017,"Tennessee","Myeloma","Male",323,168
+"3044",2017,"Texas","Breast","Female",17213,2984
+"3045",2017,"Texas","Breast","Male",208,33
+"3046",2017,"Texas","Larynx","Female",129,47
+"3047",2017,"Texas","Larynx","Male",697,190
+"3048",2017,"Texas","Liver","Female",856,518
+"3049",2017,"Texas","Liver","Male",2371,1443
+"3050",2017,"Texas","Myeloma","Female",946,379
+"3051",2017,"Texas","Myeloma","Male",1155,536
+"3052",2017,"Utah","Breast","Female",1590,280
+"3053",2017,"Utah","Liver","Female",35,32
+"3054",2017,"Utah","Liver","Male",107,64
+"3055",2017,"Utah","Myeloma","Female",74,30
+"3056",2017,"Utah","Myeloma","Male",122,45
+"3057",2017,"Vermont","Breast","Female",546,80
+"3058",2017,"Vermont","Liver","Male",39,26
+"3059",2017,"Vermont","Myeloma","Female",19,0
+"3060",2017,"Vermont","Myeloma","Male",30,0
+"3061",2017,"Virginia","Breast","Female",6359,1175
+"3062",2017,"Virginia","Breast","Male",64,0
+"3063",2017,"Virginia","Larynx","Female",51,0
+"3064",2017,"Virginia","Larynx","Male",225,86
+"3065",2017,"Virginia","Liver","Female",153,132
+"3066",2017,"Virginia","Liver","Male",493,345
+"3067",2017,"Virginia","Myeloma","Female",253,150
+"3068",2017,"Virginia","Myeloma","Male",366,178
+"3069",2017,"Washington DC","Breast","Female",528,92
+"3070",2017,"Washington DC","Liver","Female",21,0
+"3071",2017,"Washington DC","Liver","Male",49,31
+"3072",2017,"Washington DC","Myeloma","Female",41,0
+"3073",2017,"Washington DC","Myeloma","Male",34,18
+"3074",2017,"Washington","Breast","Female",5919,888
+"3075",2017,"Washington","Larynx","Female",46,0
+"3076",2017,"Washington","Larynx","Male",152,50
+"3077",2017,"Washington","Liver","Female",183,106
+"3078",2017,"Washington","Liver","Male",487,323
+"3079",2017,"Washington","Myeloma","Female",215,113
+"3080",2017,"Washington","Myeloma","Male",337,131
+"3081",2017,"West Virginia","Breast","Female",1491,300
+"3082",2017,"West Virginia","Larynx","Male",89,42
+"3083",2017,"West Virginia","Liver","Female",55,38
+"3084",2017,"West Virginia","Liver","Male",128,104
+"3085",2017,"West Virginia","Myeloma","Female",55,34
+"3086",2017,"West Virginia","Myeloma","Male",82,47
+"3087",2017,"Wisconsin","Breast","Female",4940,679
+"3088",2017,"Wisconsin","Larynx","Female",48,0
+"3089",2017,"Wisconsin","Larynx","Male",191,63
+"3090",2017,"Wisconsin","Liver","Female",94,63
+"3091",2017,"Wisconsin","Liver","Male",330,193
+"3092",2017,"Wisconsin","Myeloma","Female",232,94
+"3093",2017,"Wisconsin","Myeloma","Male",265,129
+"3094",2017,"Wyoming","Breast","Female",365,58
+"3095",2017,"Wyoming","Liver","Male",33,29
+"3096",2017,"Wyoming","Myeloma","Female",20,0
+"3097",2018,"Alabama","Breast","Female",3816,731
+"3098",2018,"Alabama","Larynx","Female",45,0
+"3099",2018,"Alabama","Larynx","Male",201,66
+"3100",2018,"Alabama","Liver","Female",119,108
+"3101",2018,"Alabama","Liver","Male",358,261
+"3102",2018,"Alabama","Myeloma","Female",196,96
+"3103",2018,"Alabama","Myeloma","Male",273,114
+"3104",2018,"Alaska","Breast","Female",459,58
+"3105",2018,"Alaska","Liver","Male",40,22
+"3106",2018,"Arizona","Breast","Female",4998,805
+"3107",2018,"Arizona","Larynx","Female",25,16
+"3108",2018,"Arizona","Larynx","Male",127,48
+"3109",2018,"Arizona","Liver","Female",164,127
+"3110",2018,"Arizona","Liver","Male",455,319
+"3111",2018,"Arizona","Myeloma","Female",188,110
+"3112",2018,"Arizona","Myeloma","Male",283,173
+"3113",2018,"Arkansas","Breast","Female",2367,368
+"3114",2018,"Arkansas","Larynx","Male",106,37
+"3115",2018,"Arkansas","Liver","Female",63,61
+"3116",2018,"Arkansas","Liver","Male",228,158
+"3117",2018,"Arkansas","Myeloma","Female",139,57
+"3118",2018,"Arkansas","Myeloma","Male",135,57
+"3119",2018,"California","Breast","Female",27781,4572
+"3120",2018,"California","Breast","Male",211,36
+"3121",2018,"California","Larynx","Female",151,53
+"3122",2018,"California","Larynx","Male",643,229
+"3123",2018,"California","Liver","Female",1030,788
+"3124",2018,"California","Liver","Male",2657,1869
+"3125",2018,"California","Myeloma","Female",1093,499
+"3126",2018,"California","Myeloma","Male",1402,710
+"3127",2018,"Colorado","Breast","Female",4229,599
+"3128",2018,"Colorado","Larynx","Male",120,28
+"3129",2018,"Colorado","Liver","Female",105,76
+"3130",2018,"Colorado","Liver","Male",317,202
+"3131",2018,"Colorado","Myeloma","Female",155,88
+"3132",2018,"Colorado","Myeloma","Male",221,121
+"3133",2018,"Connecticut","Breast","Female",3245,430
+"3134",2018,"Connecticut","Larynx","Male",113,31
+"3135",2018,"Connecticut","Liver","Female",66,26
+"3136",2018,"Connecticut","Liver","Male",217,120
+"3137",2018,"Connecticut","Myeloma","Female",135,50
+"3138",2018,"Connecticut","Myeloma","Male",178,72
+"3139",2018,"Delaware","Breast","Female",910,149
+"3140",2018,"Delaware","Liver","Female",0,0
+"3141",2018,"Delaware","Liver","Male",63,53
+"3142",2018,"Delaware","Myeloma","Female",47,24
+"3143",2018,"Delaware","Myeloma","Male",39,27
+"3144",2018,"Florida","Breast","Female",17823,2962
+"3145",2018,"Florida","Breast","Male",167,42
+"3146",2018,"Florida","Larynx","Female",192,63
+"3147",2018,"Florida","Larynx","Male",788,256
+"3148",2018,"Florida","Liver","Female",560,395
+"3149",2018,"Florida","Liver","Male",1537,1149
+"3150",2018,"Florida","Myeloma","Female",1121,406
+"3151",2018,"Florida","Myeloma","Male",1354,486
+"3152",2018,"Georgia","Breast","Female",8174,1293
+"3153",2018,"Georgia","Breast","Male",81,22
+"3154",2018,"Georgia","Larynx","Female",76,22
+"3155",2018,"Georgia","Larynx","Male",333,98
+"3156",2018,"Georgia","Liver","Female",220,185
+"3157",2018,"Georgia","Liver","Male",597,454
+"3158",2018,"Georgia","Myeloma","Female",446,177
+"3159",2018,"Georgia","Myeloma","Male",507,167
+"3160",2018,"Hawaii","Breast","Female",1311,153
+"3161",2018,"Hawaii","Larynx","Male",28,0
+"3162",2018,"Hawaii","Liver","Female",30,28
+"3163",2018,"Hawaii","Liver","Male",106,78
+"3164",2018,"Hawaii","Myeloma","Female",30,26
+"3165",2018,"Hawaii","Myeloma","Male",46,25
+"3166",2018,"Idaho","Breast","Female",1327,239
+"3167",2018,"Idaho","Larynx","Female",0,0
+"3168",2018,"Idaho","Larynx","Male",28,16
+"3169",2018,"Idaho","Liver","Female",36,18
+"3170",2018,"Idaho","Liver","Male",82,57
+"3171",2018,"Idaho","Myeloma","Female",53,28
+"3172",2018,"Idaho","Myeloma","Male",86,44
+"3173",2018,"Illinois","Breast","Female",10439,1754
+"3174",2018,"Illinois","Breast","Male",91,22
+"3175",2018,"Illinois","Larynx","Female",136,35
+"3176",2018,"Illinois","Larynx","Male",449,126
+"3177",2018,"Illinois","Liver","Female",287,234
+"3178",2018,"Illinois","Liver","Male",715,448
+"3179",2018,"Illinois","Myeloma","Female",486,220
+"3180",2018,"Illinois","Myeloma","Male",537,232
+"3181",2018,"Indiana","Breast","Female",5200,914
+"3182",2018,"Indiana","Breast","Male",40,0
+"3183",2018,"Indiana","Larynx","Female",64,19
+"3184",2018,"Indiana","Larynx","Male",234,84
+"3185",2018,"Indiana","Liver","Female",123,100
+"3186",2018,"Indiana","Liver","Male",370,311
+"3187",2018,"Indiana","Myeloma","Female",222,114
+"3188",2018,"Indiana","Myeloma","Male",256,161
+"3189",2018,"Iowa","Breast","Female",2653,394
+"3190",2018,"Iowa","Larynx","Male",120,35
+"3191",2018,"Iowa","Liver","Female",49,37
+"3192",2018,"Iowa","Liver","Male",169,105
+"3193",2018,"Iowa","Myeloma","Female",118,62
+"3194",2018,"Iowa","Myeloma","Male",167,75
+"3195",2018,"Kansas","Breast","Female",2313,381
+"3196",2018,"Kansas","Larynx","Male",87,30
+"3197",2018,"Kansas","Liver","Female",47,30
+"3198",2018,"Kansas","Liver","Male",166,120
+"3199",2018,"Kansas","Myeloma","Female",78,55
+"3200",2018,"Kansas","Myeloma","Male",129,56
+"3201",2018,"Kentucky","Breast","Female",3660,592
+"3202",2018,"Kentucky","Larynx","Female",71,0
+"3203",2018,"Kentucky","Larynx","Male",196,70
+"3204",2018,"Kentucky","Liver","Female",98,79
+"3205",2018,"Kentucky","Liver","Male",319,202
+"3206",2018,"Kentucky","Myeloma","Female",171,89
+"3207",2018,"Kentucky","Myeloma","Male",208,111
+"3208",2018,"Louisiana","Breast","Female",3775,677
+"3209",2018,"Louisiana","Larynx","Female",64,0
+"3210",2018,"Louisiana","Larynx","Male",252,74
+"3211",2018,"Louisiana","Liver","Female",117,118
+"3212",2018,"Louisiana","Liver","Male",456,319
+"3213",2018,"Louisiana","Myeloma","Female",201,96
+"3214",2018,"Louisiana","Myeloma","Male",232,100
+"3215",2018,"Maine","Breast","Female",1217,177
+"3216",2018,"Maine","Larynx","Male",54,0
+"3217",2018,"Maine","Liver","Female",28,17
+"3218",2018,"Maine","Liver","Male",93,66
+"3219",2018,"Maine","Myeloma","Female",34,30
+"3220",2018,"Maine","Myeloma","Male",76,33
+"3221",2018,"Maryland","Breast","Female",4950,838
+"3222",2018,"Maryland","Breast","Male",51,0
+"3223",2018,"Maryland","Larynx","Female",49,0
+"3224",2018,"Maryland","Larynx","Male",181,53
+"3225",2018,"Maryland","Liver","Female",159,102
+"3226",2018,"Maryland","Liver","Male",387,254
+"3227",2018,"Maryland","Myeloma","Female",263,128
+"3228",2018,"Maryland","Myeloma","Male",297,147
+"3229",2018,"Massachusetts","Breast","Female",5620,773
+"3230",2018,"Massachusetts","Breast","Male",49,0
+"3231",2018,"Massachusetts","Larynx","Female",57,20
+"3232",2018,"Massachusetts","Larynx","Male",190,63
+"3233",2018,"Massachusetts","Liver","Female",109,78
+"3234",2018,"Massachusetts","Liver","Male",445,287
+"3235",2018,"Massachusetts","Myeloma","Female",228,110
+"3236",2018,"Massachusetts","Myeloma","Male",312,148
+"3237",2018,"Michigan","Breast","Female",8268,1490
+"3238",2018,"Michigan","Breast","Male",75,20
+"3239",2018,"Michigan","Larynx","Female",88,48
+"3240",2018,"Michigan","Larynx","Male",356,119
+"3241",2018,"Michigan","Liver","Female",202,158
+"3242",2018,"Michigan","Liver","Male",549,407
+"3243",2018,"Michigan","Myeloma","Female",354,178
+"3244",2018,"Michigan","Myeloma","Male",464,245
+"3245",2018,"Minnesota","Breast","Female",4559,670
+"3246",2018,"Minnesota","Larynx","Female",30,16
+"3247",2018,"Minnesota","Larynx","Male",129,45
+"3248",2018,"Minnesota","Liver","Female",83,82
+"3249",2018,"Minnesota","Liver","Male",245,178
+"3250",2018,"Minnesota","Myeloma","Female",182,114
+"3251",2018,"Minnesota","Myeloma","Male",259,140
+"3252",2018,"Mississippi","Breast","Female",2343,413
+"3253",2018,"Mississippi","Larynx","Male",136,30
+"3254",2018,"Mississippi","Liver","Female",78,94
+"3255",2018,"Mississippi","Liver","Male",215,192
+"3256",2018,"Mississippi","Myeloma","Female",167,67
+"3257",2018,"Mississippi","Myeloma","Male",175,57
+"3258",2018,"Missouri","Breast","Female",4822,814
+"3259",2018,"Missouri","Larynx","Female",63,0
+"3260",2018,"Missouri","Larynx","Male",217,76
+"3261",2018,"Missouri","Liver","Female",109,111
+"3262",2018,"Missouri","Liver","Male",428,322
+"3263",2018,"Missouri","Myeloma","Female",219,116
+"3264",2018,"Missouri","Myeloma","Male",265,147
+"3265",2018,"Montana","Breast","Female",985,126
+"3266",2018,"Montana","Liver","Female",19,0
+"3267",2018,"Montana","Liver","Male",69,45
+"3268",2018,"Montana","Myeloma","Female",41,19
+"3269",2018,"Montana","Myeloma","Male",59,33
+"3270",2018,"Nebraska","Breast","Female",1540,222
+"3271",2018,"Nebraska","Larynx","Male",47,0
+"3272",2018,"Nebraska","Liver","Female",28,18
+"3273",2018,"Nebraska","Liver","Male",78,47
+"3274",2018,"Nebraska","Myeloma","Female",57,33
+"3275",2018,"Nebraska","Myeloma","Male",94,34
+"3276",2018,"Nevada","Breast","Female",0,381
+"3277",2018,"Nevada","Larynx","Female",0,0
+"3278",2018,"Nevada","Larynx","Male",0,24
+"3279",2018,"Nevada","Liver","Female",0,72
+"3280",2018,"Nevada","Liver","Male",0,142
+"3281",2018,"Nevada","Myeloma","Female",0,35
+"3282",2018,"Nevada","Myeloma","Male",0,48
+"3283",2018,"New Hampshire","Breast","Female",1288,171
+"3284",2018,"New Hampshire","Breast","Male",0,0
+"3285",2018,"New Hampshire","Larynx","Female",18,0
+"3286",2018,"New Hampshire","Larynx","Male",61,0
+"3287",2018,"New Hampshire","Liver","Female",21,19
+"3288",2018,"New Hampshire","Liver","Male",52,42
+"3289",2018,"New Hampshire","Myeloma","Female",52,16
+"3290",2018,"New Hampshire","Myeloma","Male",58,31
+"3291",2018,"New Jersey","Breast","Female",7855,1290
+"3292",2018,"New Jersey","Breast","Male",83,18
+"3293",2018,"New Jersey","Larynx","Female",72,20
+"3294",2018,"New Jersey","Larynx","Male",245,71
+"3295",2018,"New Jersey","Liver","Female",211,129
+"3296",2018,"New Jersey","Liver","Male",560,363
+"3297",2018,"New Jersey","Myeloma","Female",385,157
+"3298",2018,"New Jersey","Myeloma","Male",462,153
+"3299",2018,"New Mexico","Breast","Female",1474,275
+"3300",2018,"New Mexico","Breast","Male",0,0
+"3301",2018,"New Mexico","Larynx","Male",48,20
+"3302",2018,"New Mexico","Liver","Female",45,61
+"3303",2018,"New Mexico","Liver","Male",167,145
+"3304",2018,"New Mexico","Myeloma","Female",59,31
+"3305",2018,"New Mexico","Myeloma","Male",85,60
+"3306",2018,"New York","Breast","Female",16892,2639
+"3307",2018,"New York","Breast","Male",177,27
+"3308",2018,"New York","Larynx","Female",151,50
+"3309",2018,"New York","Larynx","Male",549,162
+"3310",2018,"New York","Liver","Female",410,250
+"3311",2018,"New York","Liver","Male",1242,710
+"3312",2018,"New York","Myeloma","Female",883,330
+"3313",2018,"New York","Myeloma","Male",1006,349
+"3314",2018,"North Carolina","Breast","Female",9201,1405
+"3315",2018,"North Carolina","Breast","Male",75,17
+"3316",2018,"North Carolina","Larynx","Female",90,35
+"3317",2018,"North Carolina","Larynx","Male",369,83
+"3318",2018,"North Carolina","Liver","Female",191,165
+"3319",2018,"North Carolina","Liver","Male",680,476
+"3320",2018,"North Carolina","Myeloma","Female",428,192
+"3321",2018,"North Carolina","Myeloma","Male",545,212
+"3322",2018,"North Dakota","Breast","Female",538,77
+"3323",2018,"North Dakota","Liver","Male",29,0
+"3324",2018,"North Dakota","Myeloma","Female",19,22
+"3325",2018,"North Dakota","Myeloma","Male",20,18
+"3326",2018,"Ohio","Breast","Female",9832,1700
+"3327",2018,"Ohio","Breast","Male",76,24
+"3328",2018,"Ohio","Larynx","Female",117,33
+"3329",2018,"Ohio","Larynx","Male",430,133
+"3330",2018,"Ohio","Liver","Female",220,164
+"3331",2018,"Ohio","Liver","Male",670,487
+"3332",2018,"Ohio","Myeloma","Female",397,238
+"3333",2018,"Ohio","Myeloma","Male",523,289
+"3334",2018,"Oklahoma","Breast","Female",2933,610
+"3335",2018,"Oklahoma","Larynx","Female",39,0
+"3336",2018,"Oklahoma","Larynx","Male",109,37
+"3337",2018,"Oklahoma","Liver","Female",103,86
+"3338",2018,"Oklahoma","Liver","Male",277,207
+"3339",2018,"Oklahoma","Myeloma","Female",127,71
+"3340",2018,"Oklahoma","Myeloma","Male",149,89
+"3341",2018,"Oregon","Breast","Female",3624,525
+"3342",2018,"Oregon","Breast","Male",21,0
+"3343",2018,"Oregon","Larynx","Male",88,33
+"3344",2018,"Oregon","Liver","Female",116,76
+"3345",2018,"Oregon","Liver","Male",268,233
+"3346",2018,"Oregon","Myeloma","Female",97,77
+"3347",2018,"Oregon","Myeloma","Male",166,103
+"3348",2018,"Pennsylvania","Breast","Female",11186,1963
+"3349",2018,"Pennsylvania","Breast","Male",104,22
+"3350",2018,"Pennsylvania","Larynx","Female",123,42
+"3351",2018,"Pennsylvania","Larynx","Male",420,128
+"3352",2018,"Pennsylvania","Liver","Female",254,217
+"3353",2018,"Pennsylvania","Liver","Male",900,568
+"3354",2018,"Pennsylvania","Myeloma","Female",514,244
+"3355",2018,"Pennsylvania","Myeloma","Male",662,290
+"3356",2018,"Puerto Rico","Breast","Female",2400,419
+"3357",2018,"Puerto Rico","Larynx","Male",133,38
+"3358",2018,"Puerto Rico","Liver","Female",81,89
+"3359",2018,"Puerto Rico","Liver","Male",261,197
+"3360",2018,"Puerto Rico","Myeloma","Female",167,64
+"3361",2018,"Puerto Rico","Myeloma","Male",157,68
+"3362",2018,"Rhode Island","Breast","Female",1024,135
+"3363",2018,"Rhode Island","Larynx","Female",0,0
+"3364",2018,"Rhode Island","Larynx","Male",37,0
+"3365",2018,"Rhode Island","Liver","Female",22,18
+"3366",2018,"Rhode Island","Liver","Male",65,53
+"3367",2018,"Rhode Island","Myeloma","Female",27,17
+"3368",2018,"Rhode Island","Myeloma","Male",39,23
+"3369",2018,"South Carolina","Breast","Female",4295,758
+"3370",2018,"South Carolina","Larynx","Female",52,0
+"3371",2018,"South Carolina","Larynx","Male",196,80
+"3372",2018,"South Carolina","Liver","Female",89,84
+"3373",2018,"South Carolina","Liver","Male",326,264
+"3374",2018,"South Carolina","Myeloma","Female",225,101
+"3375",2018,"South Carolina","Myeloma","Male",253,111
+"3376",2018,"South Dakota","Breast","Female",653,112
+"3377",2018,"South Dakota","Liver","Male",43,37
+"3378",2018,"South Dakota","Myeloma","Female",38,16
+"3379",2018,"South Dakota","Myeloma","Male",49,23
+"3380",2018,"Tennessee","Breast","Female",5316,1034
+"3381",2018,"Tennessee","Breast","Male",47,0
+"3382",2018,"Tennessee","Larynx","Female",79,16
+"3383",2018,"Tennessee","Larynx","Male",252,95
+"3384",2018,"Tennessee","Liver","Female",162,119
+"3385",2018,"Tennessee","Liver","Male",477,315
+"3386",2018,"Tennessee","Myeloma","Female",229,134
+"3387",2018,"Tennessee","Myeloma","Male",295,155
+"3388",2018,"Texas","Breast","Female",17796,3117
+"3389",2018,"Texas","Breast","Male",177,25
+"3390",2018,"Texas","Larynx","Female",165,49
+"3391",2018,"Texas","Larynx","Male",691,220
+"3392",2018,"Texas","Liver","Female",772,511
+"3393",2018,"Texas","Liver","Male",2423,1450
+"3394",2018,"Texas","Myeloma","Female",932,410
+"3395",2018,"Texas","Myeloma","Male",1171,475
+"3396",2018,"Utah","Breast","Female",1688,287
+"3397",2018,"Utah","Liver","Female",44,26
+"3398",2018,"Utah","Liver","Male",121,81
+"3399",2018,"Utah","Myeloma","Female",54,33
+"3400",2018,"Utah","Myeloma","Male",100,42
+"3401",2018,"Vermont","Breast","Female",552,97
+"3402",2018,"Vermont","Liver","Male",29,28
+"3403",2018,"Vermont","Myeloma","Female",22,0
+"3404",2018,"Vermont","Myeloma","Male",26,0
+"3405",2018,"Virginia","Breast","Female",6519,1132
+"3406",2018,"Virginia","Breast","Male",57,16
+"3407",2018,"Virginia","Larynx","Female",72,19
+"3408",2018,"Virginia","Larynx","Male",250,62
+"3409",2018,"Virginia","Liver","Female",166,121
+"3410",2018,"Virginia","Liver","Male",500,370
+"3411",2018,"Virginia","Myeloma","Female",282,135
+"3412",2018,"Virginia","Myeloma","Male",358,197
+"3413",2018,"Washington DC","Breast","Female",515,106
+"3414",2018,"Washington DC","Liver","Female",19,0
+"3415",2018,"Washington DC","Liver","Male",65,36
+"3416",2018,"Washington DC","Myeloma","Female",33,0
+"3417",2018,"Washington DC","Myeloma","Male",32,18
+"3418",2018,"Washington","Breast","Female",5874,913
+"3419",2018,"Washington","Larynx","Female",22,0
+"3420",2018,"Washington","Larynx","Male",146,52
+"3421",2018,"Washington","Liver","Female",169,124
+"3422",2018,"Washington","Liver","Male",501,337
+"3423",2018,"Washington","Myeloma","Female",223,116
+"3424",2018,"Washington","Myeloma","Male",349,162
+"3425",2018,"West Virginia","Breast","Female",1537,298
+"3426",2018,"West Virginia","Larynx","Male",90,38
+"3427",2018,"West Virginia","Liver","Female",42,42
+"3428",2018,"West Virginia","Liver","Male",113,91
+"3429",2018,"West Virginia","Myeloma","Female",77,39
+"3430",2018,"West Virginia","Myeloma","Male",92,46
+"3431",2018,"Wisconsin","Breast","Female",4964,775
+"3432",2018,"Wisconsin","Larynx","Female",35,0
+"3433",2018,"Wisconsin","Larynx","Male",225,54
+"3434",2018,"Wisconsin","Liver","Female",109,70
+"3435",2018,"Wisconsin","Liver","Male",332,213
+"3436",2018,"Wisconsin","Myeloma","Female",219,119
+"3437",2018,"Wisconsin","Myeloma","Male",284,125
+"3438",2018,"Wyoming","Breast","Female",404,71
+"3439",2018,"Wyoming","Liver","Male",24,29
+"3440",2018,"Wyoming","Myeloma","Female",0,0
