@@ -1,4 +1,4 @@
-# INFO201-GROUP
+# Interactive Webpage for Cancer Mortality Analysis
 
 Website URL:
 https://moyi-ps06.shinyapps.io/INFO201_final_project/
